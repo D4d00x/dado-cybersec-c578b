@@ -50,13 +50,14 @@ function extractTextFromXml(xml, tag) {
 
 function stripHtml(str) {
   return str
-    .replace(/<[^>]*>/g, '')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
+    .replace(/<[^>]*>/g, '')        // Remove real HTML tags
+    .replace(/&lt;/g, '<')          // Decode HTML entities
     .replace(/&gt;/g, '>')
+    .replace(/&amp;/g, '&')
     .replace(/&quot;/g, '"')
     .replace(/&#39;/g, "'")
     .replace(/&nbsp;/g, ' ')
+    .replace(/<[^>]*>/g, '')        // Remove decoded HTML tags
     .trim();
 }
 

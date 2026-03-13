@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T10:21:58.776Z",
+  "lastUpdated": "2026-03-13T10:24:18.399Z",
   "articles": [
     {
       "title": "Google fixes two new Chrome zero-days exploited in attacks",
@@ -11,7 +11,7 @@
     },
     {
       "title": "Kritiska sårbarheter i Cisco FMC och Cisco SCC",
-      "excerpt": "<p>Cisco har publicerat information gällande två kritiska sårbarheter i Cisco Secure Firewall Management Center (FMC) och Cisco Security Cloud Control (SCC) Firewall Management. Båda sårbarheterna...",
+      "excerpt": "Cisco har publicerat information gällande två kritiska sårbarheter i Cisco Secure Firewall Management Center (FMC) och Cisco Security Cloud Control (SCC) Firewall Management. Båda sårbarheterna...",
       "date": "2026-03-05",
       "category": "Varning",
       "source": "CERT-SE",
@@ -27,7 +27,7 @@
     },
     {
       "title": "Patchtisdag mars 2026 – samlad information om månadens säkerhetsuppdateringar",
-      "excerpt": "<p>Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för mars. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Adobe, Cisco, SAP och Fortinet har...",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för mars. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Adobe, Cisco, SAP och Fortinet har publicerat...",
       "date": "2026-03-11",
       "category": "Varning",
       "source": "CERT-SE",
@@ -35,7 +35,7 @@
     },
     {
       "title": "CERT-SE:s veckobrev v.10",
-      "excerpt": "<p>I veckobrevet går det att ta del av den nya upplagan av Cybersäkerhetskollen som visar på behov av ökat engagemang från ledningen gällande cybersäkerhet inom bland annat offentlig sektor....",
+      "excerpt": "I veckobrevet går det att ta del av den nya upplagan av Cybersäkerhetskollen som visar på behov av ökat engagemang från ledningen gällande cybersäkerhet inom bland annat offentlig sektor. Veckobrevet...",
       "date": "2026-03-06",
       "category": "Varning",
       "source": "CERT-SE",
@@ -43,7 +43,7 @@
     },
     {
       "title": "CERT-SE:s veckobrev v.9",
-      "excerpt": "<p>Veckans läsning innehåller bland annat artiklar om fortsatta utmaningar med olika typer av cyberangrepp men även om framgångsrika motåtgärder, till exempel mot en omfattande cyberspionagekampanj...",
+      "excerpt": "Veckans läsning innehåller bland annat artiklar om fortsatta utmaningar med olika typer av cyberangrepp men även om framgångsrika motåtgärder, till exempel mot en omfattande cyberspionagekampanj på...",
       "date": "2026-02-27",
       "category": "Varning",
       "source": "CERT-SE",
