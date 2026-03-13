@@ -7,6 +7,7 @@ export default function DadoCybersec() {
   const [formData, setFormData] = useState({ name: '', email: '', company: '', message: '' });
   const [formSubmitted, setFormSubmitted] = useState(false);
   const [windowWidth, setWindowWidth] = useState(typeof window !== 'undefined' ? window.innerWidth : 1200);
+  const [news, setNews] = useState([]);
 
   // Track window width for responsive layout
   useEffect(() => {
@@ -134,26 +135,13 @@ export default function DadoCybersec() {
     }
   ];
 
-  const news = [
-    {
-      date: '2026-03-10',
-      title: 'NIS2-direktivet träder i kraft – vad innebär det för svenska företag?',
-      excerpt: 'Det nya EU-direktivet ställer höga krav på cybersäkerhet. Här är vad du behöver veta för att vara förberedd.',
-      category: 'Regelverk'
-    },
-    {
-      date: '2026-03-05',
-      title: 'Ransomware-attacker mot svenska SMB ökar med 40%',
-      excerpt: 'Ny statistik visar att mindre företag blir allt vanligare mål. Enkla åtgärder kan göra stor skillnad.',
-      category: 'Hotbild'
-    },
-    {
-      date: '2026-02-28',
-      title: 'Vanligaste sårbarheterna jag hittar vid penetrationstester',
-      excerpt: 'Efter hundratals tester ser jag samma misstag återkomma. Här är de fem vanligaste – och hur ni undviker dem.',
-      category: 'Praktiska tips'
-    }
-  ];
+  // Fetch news from static JSON (updated daily via GitHub Actions)
+  useEffect(() => {
+    fetch('/news.json')
+      .then((res) => res.json())
+      .then((data) => setNews(data.articles || []))
+      .catch(() => setNews([]));
+  }, []);
 
   const scrollToSection = (sectionId) => {
     setActiveSection(sectionId);
@@ -543,7 +531,7 @@ export default function DadoCybersec() {
           </p>
 
           <div className="news-grid" style={styles.newsGrid}>
-            {news.map((item, index) => (
+            {news.slice(0, 3).map((item, index) => (
               <article key={index} style={styles.newsCard}>
                 <div style={styles.newsMeta}>
                   <span style={styles.newsCategory}>{item.category}</span>
@@ -551,7 +539,14 @@ export default function DadoCybersec() {
                 </div>
                 <h3 style={styles.newsTitle}>{item.title}</h3>
                 <p style={styles.newsExcerpt}>{item.excerpt}</p>
-                <button style={styles.newsLink} onClick={() => alert('Artikeln kommer snart!')}>Läs mer</button>
+                <div style={styles.newsFooter}>
+                  {item.source && <span style={styles.newsSource}>{item.source}</span>}
+                  {item.link ? (
+                    <a href={item.link} target="_blank" rel="noopener noreferrer" style={styles.newsLink}>Läs mer</a>
+                  ) : (
+                    <span style={styles.newsLink}>Läs mer</span>
+                  )}
+                </div>
               </article>
             ))}
           </div>
@@ -1289,6 +1284,16 @@ const styles = {
     color: '#666',
     marginBottom: '20px',
     lineHeight: 1.6,
+  },
+  newsFooter: {
+    display: 'flex',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+  },
+  newsSource: {
+    fontSize: '12px',
+    color: '#999',
+    fontWeight: '500',
   },
   newsLink: {
     background: 'none',

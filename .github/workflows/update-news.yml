@@ -1,0 +1,39 @@
+name: Update Cybersecurity News
+
+on:
+  schedule:
+    # Runs every day at 06:00 UTC (07:00 Swedish time)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch latest news
+        run: node scripts/fetch-news.mjs
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet public/news.json && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/news.json
+          git commit -m "Update cybersecurity news $(date +%Y-%m-%d)"
+          git push
