@@ -1,0 +1,12 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#1a1a1a"/>
+  <text x="80" y="200" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="700" fill="#ffffff" letter-spacing="-2">DADO<tspan fill="#2563eb">.</tspan></text>
+  <text x="80" y="260" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500" fill="#999999" letter-spacing="3">CYBERSEC</text>
+  <line x1="80" y1="300" x2="400" y2="300" stroke="#2563eb" stroke-width="3"/>
+  <text x="80" y="370" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="600" fill="#ffffff">IT-sakerhetskonsu1t</text>
+  <text x="80" y="420" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="600" fill="#ffffff">&amp; Etisk Hackare</text>
+  <text x="80" y="490" font-family="Inter, Arial, sans-serif" font-size="20" fill="#999999">Penetrationstestning | Kodgranskning | Sakerhetsutbildning</text>
+  <text x="80" y="560" font-family="Inter, Arial, sans-serif" font-size="18" fill="#2563eb">dado-cybersec.se</text>
+  <rect x="900" y="100" width="200" height="200" rx="12" fill="#2563eb" opacity="0.15"/>
+  <text x="960" y="220" font-family="Inter, Arial, sans-serif" font-size="80" fill="#2563eb" opacity="0.4">&#x1F6E1;</text>
+</svg>

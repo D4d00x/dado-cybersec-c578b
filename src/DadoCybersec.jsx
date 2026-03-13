@@ -18,7 +18,7 @@ export default function DadoCybersec() {
 
   // Track active section on scroll with IntersectionObserver
   useEffect(() => {
-    const sectionIds = ['hem', 'tjanster', 'om', 'kunder', 'nyheter', 'kontakt'];
+    const sectionIds = ['hem', 'tjanster', 'om', 'kunder', 'omdomen', 'nyheter', 'kontakt'];
     const observers = [];
     sectionIds.forEach((id) => {
       const el = document.getElementById(id);
@@ -38,6 +38,7 @@ export default function DadoCybersec() {
     { id: 'tjanster', label: 'Tjänster' },
     { id: 'om', label: 'Om mig' },
     { id: 'kunder', label: 'Kunder' },
+    { id: 'omdomen', label: 'Omdömen' },
     { id: 'nyheter', label: 'Nyheter' },
     { id: 'kontakt', label: 'Kontakt' },
   ];
@@ -135,6 +136,27 @@ export default function DadoCybersec() {
     }
   ];
 
+  const testimonials = [
+    {
+      quote: 'Detailed and well-structured report on debug mode backdoor and hardcoded payment credentials in production payment iframe. The finding demonstrates strong technical depth in identifying critical security issues.',
+      source: 'Airbnb Security Team',
+      platform: 'HackerOne',
+      context: 'Bug Bounty Report Response',
+    },
+    {
+      quote: 'Thank you for your report! We appreciate your work and look forward to additional reports from you.',
+      source: 'PayPal Security Team',
+      platform: 'HackerOne',
+      context: 'Subdomain Takeover Report',
+    },
+    {
+      quote: 'Report accepted and triaged for review by the security team. Thank you for your contribution to our bug bounty program.',
+      source: 'Anduril Industries',
+      platform: 'HackerOne',
+      context: 'Bug Bounty Program',
+    },
+  ];
+
   // Fetch news from static JSON (updated daily via GitHub Actions)
   useEffect(() => {
     fetch('/news.json')
@@ -184,6 +206,7 @@ export default function DadoCybersec() {
           .clients-grid { grid-template-columns: repeat(2, 1fr) !important; }
           .clients-grid-small { grid-template-columns: repeat(3, 1fr) !important; }
           .news-grid { grid-template-columns: 1fr !important; }
+          .testimonials-grid { grid-template-columns: 1fr !important; }
           .contact-grid { grid-template-columns: 1fr !important; gap: 32px !important; }
         }
         @media (max-width: 768px) {
@@ -521,8 +544,34 @@ export default function DadoCybersec() {
         </div>
       </section>
 
+      {/* Testimonials Section */}
+      <section id="omdomen" style={styles.sectionAlt}>
+        <div style={styles.sectionInner}>
+          <p style={styles.sectionLabel}>Omdömen</p>
+          <h2 className="section-title" style={styles.sectionTitle}>Feedback från säkerhetsteam</h2>
+          <p style={styles.sectionText}>
+            Respons från säkerhetsteam hos globala teknikföretag efter rapporterade sårbarheter
+            via auktoriserade bug bounty-program.
+          </p>
+
+          <div className="testimonials-grid" style={styles.testimonialsGrid}>
+            {testimonials.map((item, index) => (
+              <div key={index} style={styles.testimonialCard}>
+                <div style={styles.quoteIcon}>"</div>
+                <p style={styles.testimonialQuote}>{item.quote}</p>
+                <div style={styles.testimonialMeta}>
+                  <p style={styles.testimonialSource}>{item.source}</p>
+                  <p style={styles.testimonialContext}>{item.context}</p>
+                  <span style={styles.testimonialPlatform}>{item.platform}</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* News Section */}
-      <section id="nyheter" style={styles.sectionAlt}>
+      <section id="nyheter" style={styles.section}>
         <div style={styles.sectionInner}>
           <p style={styles.sectionLabel}>Nyheter</p>
           <h2 className="section-title" style={styles.sectionTitle}>IT-säkerhet i Sverige</h2>
@@ -659,10 +708,10 @@ export default function DadoCybersec() {
           <div className="footer-links" style={styles.footerLinks}>
             <div style={styles.footerCol}>
               <p style={styles.footerColTitle}>Tjänster</p>
-              <p style={styles.footerLink}>Penetrationstestning</p>
-              <p style={styles.footerLink}>Kodgranskning</p>
-              <p style={styles.footerLink}>Säkerhetsutbildning</p>
-              <p style={styles.footerLink}>Rådgivning</p>
+              <p style={{...styles.footerLink, cursor: 'pointer'}} onClick={() => scrollToSection('tjanster')}>Penetrationstestning</p>
+              <p style={{...styles.footerLink, cursor: 'pointer'}} onClick={() => scrollToSection('tjanster')}>Kodgranskning</p>
+              <p style={{...styles.footerLink, cursor: 'pointer'}} onClick={() => scrollToSection('tjanster')}>Säkerhetsutbildning</p>
+              <p style={{...styles.footerLink, cursor: 'pointer'}} onClick={() => scrollToSection('tjanster')}>Rådgivning</p>
             </div>
             <div style={styles.footerCol}>
               <p style={styles.footerColTitle}>Kontakt</p>
@@ -1459,5 +1508,57 @@ const styles = {
   footerCopy: {
     fontSize: '13px',
     color: '#666',
+  },
+
+  // Testimonials
+  testimonialsGrid: {
+    display: 'grid',
+    gridTemplateColumns: 'repeat(3, 1fr)',
+    gap: '24px',
+  },
+  testimonialCard: {
+    backgroundColor: '#fff',
+    border: '1px solid #e5e5e5',
+    borderRadius: '8px',
+    padding: '32px',
+    display: 'flex',
+    flexDirection: 'column',
+  },
+  quoteIcon: {
+    fontSize: '48px',
+    fontWeight: '700',
+    color: '#2563eb',
+    lineHeight: 1,
+    marginBottom: '8px',
+  },
+  testimonialQuote: {
+    fontSize: '15px',
+    color: '#444',
+    lineHeight: 1.7,
+    fontStyle: 'italic',
+    marginBottom: '24px',
+    flex: 1,
+  },
+  testimonialMeta: {
+    paddingTop: '16px',
+    borderTop: '1px solid #e5e5e5',
+  },
+  testimonialSource: {
+    fontSize: '15px',
+    fontWeight: '600',
+    color: '#1a1a1a',
+    marginBottom: '4px',
+  },
+  testimonialContext: {
+    fontSize: '13px',
+    color: '#666',
+    marginBottom: '8px',
+  },
+  testimonialPlatform: {
+    fontSize: '12px',
+    fontWeight: '600',
+    color: '#2563eb',
+    textTransform: 'uppercase',
+    letterSpacing: '0.05em',
   },
 };
