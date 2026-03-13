@@ -61,7 +61,7 @@ function stripHtml(str) {
 }
 
 function truncate(str, maxLength) {
-  const clean = stripHtml(str);
+  const clean = stripHtml(str).replace(/\s+/g, ' ').trim();
   if (clean.length <= maxLength) return clean;
   return clean.substring(0, maxLength).replace(/\s+\S*$/, '') + '...';
 }

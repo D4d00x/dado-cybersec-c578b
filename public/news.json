@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T10:14:08.780Z",
+  "lastUpdated": "2026-03-13T10:21:58.776Z",
   "articles": [
     {
       "title": "Google fixes two new Chrome zero-days exploited in attacks",
@@ -19,7 +19,7 @@
     },
     {
       "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
-      "excerpt": "Veeam has released security updates to address multiple critical vulnerabilities in its Backup & Replication software that, if successfully exploited, could result in remote code execution.\nThe...",
+      "excerpt": "Veeam has released security updates to address multiple critical vulnerabilities in its Backup & Replication software that, if successfully exploited, could result in remote code execution. The...",
       "date": "2026-03-13",
       "category": "Praktiska tips",
       "source": "The Hacker News",
