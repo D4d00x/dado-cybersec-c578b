@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-03-13T10:24:18.399Z",
+  "lastUpdated": "2026-03-14T06:33:27.203Z",
   "articles": [
     {
-      "title": "Google fixes two new Chrome zero-days exploited in attacks",
-      "excerpt": "Google has released emergency security updates to patch two high-severity Chrome vulnerabilities exploited in zero-day attacks. [...]",
+      "title": "CERT-SE:s veckobrev v.11",
+      "excerpt": "Idag är det källkritikens dag som syftar till att öka medvetenheten om att granska information, mer om detta finner du längre ner i veckobrevet. Utöver detta kan du även ta del av CERT-SE:s artikel...",
       "date": "2026-03-13",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/"
-    },
-    {
-      "title": "Kritiska sårbarheter i Cisco FMC och Cisco SCC",
-      "excerpt": "Cisco har publicerat information gällande två kritiska sårbarheter i Cisco Secure Firewall Management Center (FMC) och Cisco Security Cloud Control (SCC) Firewall Management. Båda sårbarheterna...",
-      "date": "2026-03-05",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/kritiska-sarbarheter-i-cisco-fmc-och-cisco-scc.html"
+      "link": "https://www.cert.se/2026/03/cert-se-veckobrev-v11.html"
+    },
+    {
+      "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
+      "excerpt": "INTERPOL on Friday announced the takedown of 45,000 malicious IP addresses and servers used in connection with phishing, malware, and ransomware campaigns, as part of the agency's ongoing efforts to...",
+      "date": "2026-03-13",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html"
     },
     {
       "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
@@ -34,20 +34,20 @@
       "link": "https://www.cert.se/2026/03/patchtisdag-mars-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
     },
     {
-      "title": "CERT-SE:s veckobrev v.10",
-      "excerpt": "I veckobrevet går det att ta del av den nya upplagan av Cybersäkerhetskollen som visar på behov av ökat engagemang från ledningen gällande cybersäkerhet inom bland annat offentlig sektor. Veckobrevet...",
-      "date": "2026-03-06",
+      "title": "Råd kring säkerhet i kommunikationsappar",
+      "excerpt": "Tidigare under 2026 har olika medier rapporterat om nätfiske i flera kommunikationsapplikationer (kommunikationsappar) som exempelvis Signal. [1] Hotaktörerna använder bland annat QR-koder, skapar...",
+      "date": "2026-03-09",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/cert-se-veckobrev-v10.html"
+      "link": "https://www.cert.se/2026/03/sakerhet-i-kommunikationsappar.html"
     },
     {
-      "title": "CERT-SE:s veckobrev v.9",
-      "excerpt": "Veckans läsning innehåller bland annat artiklar om fortsatta utmaningar med olika typer av cyberangrepp men även om framgångsrika motåtgärder, till exempel mot en omfattande cyberspionagekampanj på...",
-      "date": "2026-02-27",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/02/cert-se-veckobrev-v9.html"
+      "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
+      "excerpt": "A suspected China-based cyber espionage operation has targeted Southeast Asian military organizations as part of a state-sponsored campaign that dates back to at least 2020. Palo Alto Networks Unit...",
+      "date": "2026-03-13",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html"
     }
   ]
 }
