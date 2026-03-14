@@ -15,7 +15,15 @@
       "date": "2026-03-05",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/kritiska-sarbarheter-i-cisco-fmc-och-cisco-scc.html"
+      "link": "https://www.cert.se/2026/03/cert-se-veckobrev-v11.html"
+    },
+    {
+      "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
+      "excerpt": "INTERPOL on Friday announced the takedown of 45,000 malicious IP addresses and servers used in connection with phishing, malware, and ransomware campaigns, as part of the agency's ongoing efforts to...",
+      "date": "2026-03-13",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html"
     },
     {
       "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
