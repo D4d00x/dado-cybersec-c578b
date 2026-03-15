@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T06:33:27.203Z",
+  "lastUpdated": "2026-03-15T06:43:16.387Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.11",
@@ -18,36 +18,36 @@
       "link": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html"
     },
     {
-      "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
-      "excerpt": "Veeam has released security updates to address multiple critical vulnerabilities in its Backup & Replication software that, if successfully exploited, could result in remote code execution. The...",
+      "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
+      "excerpt": "Cybersecurity researchers have disclosed multiple security vulnerabilities within the Linux kernel's AppArmor module that could be exploited by unprivileged users to circumvent kernel protections,...",
       "date": "2026-03-13",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html"
+      "link": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html"
     },
     {
-      "title": "Patchtisdag mars 2026 – samlad information om månadens säkerhetsuppdateringar",
-      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för mars. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Adobe, Cisco, SAP och Fortinet har publicerat...",
-      "date": "2026-03-11",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/patchtisdag-mars-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
-    },
-    {
-      "title": "Råd kring säkerhet i kommunikationsappar",
-      "excerpt": "Tidigare under 2026 har olika medier rapporterat om nätfiske i flera kommunikationsapplikationer (kommunikationsappar) som exempelvis Signal. [1] Hotaktörerna använder bland annat QR-koder, skapar...",
-      "date": "2026-03-09",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/sakerhet-i-kommunikationsappar.html"
-    },
-    {
-      "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
-      "excerpt": "A suspected China-based cyber espionage operation has targeted Southeast Asian military organizations as part of a state-sponsored campaign that dates back to at least 2020. Palo Alto Networks Unit...",
+      "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
+      "excerpt": "A court-authorized international law enforcement operation has dismantled a criminal proxy service named SocksEscort that enslaved thousands of residential routers worldwide into a botnet for...",
       "date": "2026-03-13",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html"
+      "link": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html"
+    },
+    {
+      "title": "FBI seeks victims of Steam games used to spread malware",
+      "excerpt": "The FBI is asking gamers who installed Steam titles containing malware to provide information as part of an ongoing investigation into eight malicious games uploaded to the gaming platform. [...]",
+      "date": "2026-03-13",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/"
+    },
+    {
+      "title": "Poland's nuclear research centre targeted by cyberattack",
+      "excerpt": "Poland's National Centre for Nuclear Research (NCBJ) says hackers targeted its IT infrastructure, but the attack was detected and blocked before causing any impact. [...]",
+      "date": "2026-03-13",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/"
     }
   ]
 }
