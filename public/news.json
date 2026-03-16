@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-03-15T06:43:16.387Z",
+  "lastUpdated": "2026-03-16T07:04:17.420Z",
   "articles": [
     {
-      "title": "CERT-SE:s veckobrev v.11",
-      "excerpt": "Idag är det källkritikens dag som syftar till att öka medvetenheten om att granska information, mer om detta finner du längre ner i veckobrevet. Utöver detta kan du även ta del av CERT-SE:s artikel...",
-      "date": "2026-03-13",
+      "title": "Kritiska sårbarheter i Cisco FMC och Cisco SCC",
+      "excerpt": "Cisco har publicerat information gällande två kritiska sårbarheter i Cisco Secure Firewall Management Center (FMC) och Cisco Security Cloud Control (SCC) Firewall Management. Båda sårbarheterna...",
+      "date": "2026-03-05",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/cert-se-veckobrev-v11.html"
+      "link": "https://www.cert.se/2026/03/kritiska-sarbarheter-i-cisco-fmc-och-cisco-scc.html"
     },
     {
       "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
@@ -18,36 +18,36 @@
       "link": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html"
     },
     {
-      "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
-      "excerpt": "Cybersecurity researchers have disclosed multiple security vulnerabilities within the Linux kernel's AppArmor module that could be exploited by unprivileged users to circumvent kernel protections,...",
-      "date": "2026-03-13",
+      "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
+      "excerpt": "Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API. The change, incorporated in...",
+      "date": "2026-03-16",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html"
+      "link": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html"
     },
     {
-      "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
-      "excerpt": "A court-authorized international law enforcement operation has dismantled a criminal proxy service named SocksEscort that enslaved thousands of residential routers worldwide into a botnet for...",
+      "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
+      "excerpt": "Google on Thursday released security updates for its Chrome web browser to address two high-severity vulnerabilities that it said have been exploited in the wild. The list of vulnerabilities is as...",
       "date": "2026-03-13",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html"
+      "link": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html"
     },
     {
-      "title": "FBI seeks victims of Steam games used to spread malware",
-      "excerpt": "The FBI is asking gamers who installed Steam titles containing malware to provide information as part of an ongoing investigation into eight malicious games uploaded to the gaming platform. [...]",
-      "date": "2026-03-13",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-seeks-victims-of-steam-games-used-to-spread-malware/"
+      "title": "Råd kring säkerhet i kommunikationsappar",
+      "excerpt": "Tidigare under 2026 har olika medier rapporterat om nätfiske i flera kommunikationsapplikationer (kommunikationsappar) som exempelvis Signal. [1] Hotaktörerna använder bland annat QR-koder, skapar...",
+      "date": "2026-03-09",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/03/sakerhet-i-kommunikationsappar.html"
     },
     {
-      "title": "Poland's nuclear research centre targeted by cyberattack",
-      "excerpt": "Poland's National Centre for Nuclear Research (NCBJ) says hackers targeted its IT infrastructure, but the attack was detected and blocked before causing any impact. [...]",
-      "date": "2026-03-13",
+      "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
+      "excerpt": "Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a \"significant escalation\" in how it propagates through the Open VSX registry. \"Instead of...",
+      "date": "2026-03-14",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/polands-nuclear-research-centre-targeted-by-cyberattack/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html"
     }
   ]
 }
