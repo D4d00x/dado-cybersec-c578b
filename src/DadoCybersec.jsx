@@ -54,7 +54,7 @@ export default function DadoCybersec() {
         'Detaljerad rapport med rekommendationer',
         'Genomgång av resultat'
       ],
-      price: 'Från 25 000 kr'
+      price: 'Begär offert'
     },
     {
       title: 'Kodgranskning',
@@ -66,7 +66,7 @@ export default function DadoCybersec() {
         'Krypteringsimplementering',
         'Prioriterad åtgärdslista'
       ],
-      price: 'Från 15 000 kr'
+      price: 'Begär offert'
     },
     {
       title: 'Säkerhetsutbildning',
@@ -78,7 +78,7 @@ export default function DadoCybersec() {
         'Skriftligt material',
         'Uppföljning'
       ],
-      price: 'Från 15 000 kr'
+      price: 'Begär offert'
     },
     {
       title: 'Säkerhetsrådgivning',
