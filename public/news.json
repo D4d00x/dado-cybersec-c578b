@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T07:16:25.602Z",
+  "lastUpdated": "2026-03-17T07:03:57.130Z",
   "articles": [
     {
       "title": "Kritiska sårbarheter i Cisco FMC och Cisco SCC",
@@ -10,12 +10,12 @@
       "link": "https://www.cert.se/2026/03/kritiska-sarbarheter-i-cisco-fmc-och-cisco-scc.html"
     },
     {
-      "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
-      "excerpt": "INTERPOL on Friday announced the takedown of 45,000 malicious IP addresses and servers used in connection with phishing, malware, and ransomware campaigns, as part of the agency's ongoing efforts to...",
-      "date": "2026-03-13",
+      "title": "CISA flags Wing FTP Server flaw as actively exploited in attacks",
+      "excerpt": "CISA warned U.S. government agencies to secure their Wing FTP Server instances against an actively exploited vulnerability that may be chained in remote code execution attacks. [...]",
+      "date": "2026-03-16",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wing-ftp-server-flaw-as-actively-exploited-in-attacks/"
     },
     {
       "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
@@ -26,28 +26,28 @@
       "link": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html"
     },
     {
-      "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
-      "excerpt": "Google on Thursday released security updates for its Chrome web browser to address two high-severity vulnerabilities that it said have been exploited in the wild. The list of vulnerabilities is as...",
-      "date": "2026-03-13",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html"
-    },
-    {
-      "title": "Råd kring säkerhet i kommunikationsappar",
-      "excerpt": "Tidigare under 2026 har olika medier rapporterat om nätfiske i flera kommunikationsapplikationer (kommunikationsappar) som exempelvis Signal. [1] Hotaktörerna använder bland annat QR-koder, skapar...",
-      "date": "2026-03-09",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/sakerhet-i-kommunikationsappar.html"
-    },
-    {
       "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
       "excerpt": "Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a \"significant escalation\" in how it propagates through the Open VSX registry. \"Instead of...",
       "date": "2026-03-14",
       "category": "Hotbild",
       "source": "The Hacker News",
       "link": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html"
+    },
+    {
+      "title": "AppsFlyer Web SDK hijacked to spread crypto-stealing JavaScript code",
+      "excerpt": "The AppsFlyer Web SDK was temporarily hijacked this week with malicious code used to steal cryptocurrency in a supply-chain attack. [...]",
+      "date": "2026-03-14",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/appsflyer-web-sdk-used-to-spread-crypto-stealer-javascript-code/"
+    },
+    {
+      "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
+      "excerpt": "A suspected China-based cyber espionage operation has targeted Southeast Asian military organizations as part of a state-sponsored campaign that dates back to at least 2020. Palo Alto Networks Unit...",
+      "date": "2026-03-13",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html"
     }
   ]
 }
