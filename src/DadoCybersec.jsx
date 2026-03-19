@@ -18,7 +18,7 @@ export default function DadoCybersec() {
 
   // Track active section on scroll with IntersectionObserver
   useEffect(() => {
-    const sectionIds = ['hem', 'tjanster', 'om', 'kunder', 'omdomen', 'nyheter', 'kontakt'];
+    const sectionIds = ['hem', 'tjanster', 'owasp', 'om', 'kunder', 'omdomen', 'nyheter', 'kontakt'];
     const observers = [];
     sectionIds.forEach((id) => {
       const el = document.getElementById(id);
@@ -36,6 +36,7 @@ export default function DadoCybersec() {
   const navigation = [
     { id: 'hem', label: 'Hem' },
     { id: 'tjanster', label: 'Tjänster' },
+    { id: 'owasp', label: 'OWASP Top 10' },
     { id: 'om', label: 'Om mig' },
     { id: 'kunder', label: 'Kunder' },
     { id: 'omdomen', label: 'Omdömen' },
@@ -92,6 +93,69 @@ export default function DadoCybersec() {
       ],
       price: '1 500 kr/timme'
     }
+  ];
+
+  const owaspRisks = [
+    {
+      number: '01',
+      title: 'Bristande åtkomstkontroll',
+      original: 'Broken Access Control',
+      description: 'Brister i åtkomstkontroll leder vanligtvis till obehörig informationsexponering, modifiering eller förstörelse av data, eller utförande av affärsfunktioner utanför användarens behörighet.',
+    },
+    {
+      number: '02',
+      title: 'Kryptografiska brister',
+      original: 'Cryptographic Failures',
+      description: 'Tidigare känd som "Exponering av känslig data". Denna kategori fokuserar på brister relaterade till kryptografi (eller avsaknad därav), vilket ofta leder till exponering av känsliga uppgifter.',
+    },
+    {
+      number: '03',
+      title: 'Injektionsattacker',
+      original: 'Injection',
+      description: 'Några av de vanligaste injektionerna är SQL, NoSQL, OS-kommandon, ORM, LDAP och Expression Language (EL) eller OGNL-injektion. Cross-site scripting (XSS) ingår numera i denna kategori.',
+    },
+    {
+      number: '04',
+      title: 'Osäker design',
+      original: 'Insecure Design',
+      description: 'En ny kategori för 2021 som fokuserar på risker relaterade till design- och arkitekturbrister, med en uppmaning till mer hotmodellering, säkra designmönster och referensarkitekturer.',
+    },
+    {
+      number: '05',
+      title: 'Felaktig säkerhetskonfiguration',
+      original: 'Security Misconfiguration',
+      description: 'En komponent som är mottaglig för attack på grund av en osäker konfiguration klassificeras som felaktig säkerhetskonfiguration.',
+    },
+    {
+      number: '06',
+      title: 'Sårbara och föråldrade komponenter',
+      original: 'Vulnerable and Outdated Components',
+      description: 'En komponent med en känd sårbarhet kan vara ett operativsystem, ett CMS, en webbserver, ett installerat plugin eller till och med ett bibliotek som används av ett plugin.',
+    },
+    {
+      number: '07',
+      title: 'Brister i identifiering och autentisering',
+      original: 'Identification and Authentication Failures',
+      description: 'Tidigare känd som "Bristande autentisering". Detta omfattar alla typer av brister orsakade av fel i implementeringen av autentisering och/eller sessionshantering.',
+    },
+    {
+      number: '08',
+      title: 'Brister i programvaru- och dataintegritet',
+      original: 'Software and Data Integrity Failures',
+      description: 'En ny kategori för 2021 som fokuserar på antaganden relaterade till programvaruuppdateringar, kritisk data och CI/CD-pipelines utan att verifiera integritet.',
+    },
+    {
+      number: '09',
+      title: 'Brister i säkerhetsloggning och övervakning',
+      original: 'Security Logging and Monitoring Failures',
+      description: 'Denna kategori syftar till att hjälpa till att upptäcka, eskalera och hantera aktiva intrång. Utan loggning och övervakning kan intrång inte upptäckas.',
+    },
+    {
+      number: '10',
+      title: 'Server-Side Request Forgery (SSRF)',
+      original: 'Server-Side Request Forgery',
+      description: 'SSRF-brister uppstår när en webbapplikation hämtar en fjärrresurs utan att validera den användarangivna URL:en.',
+    },
   ];
 
   const clients = [
@@ -207,6 +271,7 @@ export default function DadoCybersec() {
           .clients-grid-small { grid-template-columns: repeat(3, 1fr) !important; }
           .news-grid { grid-template-columns: 1fr !important; }
           .testimonials-grid { grid-template-columns: 1fr !important; }
+          .owasp-grid { grid-template-columns: 1fr !important; }
           .contact-grid { grid-template-columns: 1fr !important; gap: 32px !important; }
         }
         @media (max-width: 768px) {
@@ -361,6 +426,37 @@ export default function DadoCybersec() {
                     Begär offert
                   </button>
                 </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* OWASP Top 10 Section */}
+      <section id="owasp" style={styles.sectionAlt}>
+        <div style={styles.sectionInner}>
+          <p style={styles.sectionLabel}>Säkerhetsrisker</p>
+          <h2 className="section-title" style={styles.sectionTitle}>OWASP Top 10</h2>
+          <p style={styles.sectionText}>
+            OWASP är en ideell organisation som arbetar för att förbättra programvarusäkerhet.
+            Deras Top 10 är en kritisk resurs som belyser de mest förekommande hoten som
+            exponerar era applikationer för attacker. Från dataintrång till obehörig åtkomst
+            – dessa sårbarheter kan få förödande konsekvenser. Att förstå dessa risker är
+            första steget mot en robust säkerhetsstrategi.
+          </p>
+          <p style={{ ...styles.sectionText, marginBottom: '48px' }}>
+            OWASP Top Ten publicerades första gången 2003 och uppdateras regelbundet för att
+            spegla det föränderliga hotlandskapet. Dessa uppdateringar visar den dynamiska
+            naturen hos applikationssäkerhet och behovet av kontinuerlig vaksamhet.
+          </p>
+
+          <div className="owasp-grid" style={styles.owaspGrid}>
+            {owaspRisks.map((risk) => (
+              <div key={risk.number} style={styles.owaspCard}>
+                <div style={styles.owaspNumber}>{risk.number}</div>
+                <h3 style={styles.owaspTitle}>{risk.title}</h3>
+                <p style={styles.owaspOriginal}>{risk.original}</p>
+                <p style={styles.owaspDesc}>{risk.description}</p>
               </div>
             ))}
           </div>
@@ -1508,6 +1604,46 @@ const styles = {
   footerCopy: {
     fontSize: '13px',
     color: '#666',
+  },
+
+  // OWASP
+  owaspGrid: {
+    display: 'grid',
+    gridTemplateColumns: 'repeat(2, 1fr)',
+    gap: '20px',
+  },
+  owaspCard: {
+    backgroundColor: '#fff',
+    border: '1px solid #e5e5e5',
+    borderRadius: '8px',
+    padding: '28px',
+    transition: 'border-color 0.2s',
+  },
+  owaspNumber: {
+    fontSize: '13px',
+    fontWeight: '700',
+    color: '#2563eb',
+    marginBottom: '12px',
+    fontFamily: 'monospace',
+  },
+  owaspTitle: {
+    fontSize: '18px',
+    fontWeight: '600',
+    color: '#1a1a1a',
+    marginBottom: '4px',
+    lineHeight: 1.3,
+  },
+  owaspOriginal: {
+    fontSize: '12px',
+    fontWeight: '500',
+    color: '#999',
+    marginBottom: '12px',
+    fontStyle: 'italic',
+  },
+  owaspDesc: {
+    fontSize: '14px',
+    color: '#666',
+    lineHeight: 1.6,
   },
 
   // Testimonials
