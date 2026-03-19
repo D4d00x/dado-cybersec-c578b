@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-03-18T06:49:33.744Z",
+  "lastUpdated": "2026-03-19T06:43:43.484Z",
   "articles": [
     {
-      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
-      "excerpt": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute...",
+      "title": "Ransomware gang exploits Cisco flaw in zero-day attacks since January",
+      "excerpt": "The Interlock ransomware gang has been exploiting a maximum severity remote code execution (RCE) vulnerability in Cisco's Secure Firewall Management Center (FMC) software in zero-day attacks since...",
       "date": "2026-03-18",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/"
     },
     {
       "title": "Kritiska sårbarheter i Cisco FMC och Cisco SCC",
@@ -18,36 +18,36 @@
       "link": "https://www.cert.se/2026/03/kritiska-sarbarheter-i-cisco-fmc-och-cisco-scc.html"
     },
     {
-      "title": "Top 5 Things CISOs Need to Do Today to Secure AI Agents",
-      "excerpt": "AI agents are autonomous actors with real access to data and systems, not just copilots. Token Security explains why identity-based access control is critical to prevent misuse and data exposure....",
-      "date": "2026-03-17",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/top-5-things-cisos-need-to-do-today-to-secure-ai-agents/"
-    },
-    {
-      "title": "New font-rendering trick hides malicious commands from AI tools",
-      "excerpt": "A new font-rendering attack causes AI assistants to miss malicious commands shown on webpages by hiding them in seemingly harmless HTML. [...]",
-      "date": "2026-03-17",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-font-rendering-trick-hides-malicious-commands-from-ai-tools/"
-    },
-    {
-      "title": "⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents & More",
-      "excerpt": "Some weeks in security feel normal. Then you read a few tabs and get that immediate “ah, great, we’re doing this now” feeling. This week has that energy. Fresh messes, old problems getting sharper,...",
-      "date": "2026-03-16",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html"
-    },
-    {
-      "title": "Apple pushes first Background Security Improvements update to fix WebKit flaw",
-      "excerpt": "Apple has released its first Background Security Improvements update to fix a WebKit flaw tracked as CVE-2026-20643 on iPhones, iPads, and Macs without requiring a full operating system upgrade. [...]",
+      "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
+      "excerpt": "Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS. The vulnerability, tracked as CVE-2026-20643...",
       "date": "2026-03-18",
-      "category": "Nyheter",
+      "category": "Regelverk",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html"
+    },
+    {
+      "title": "Aura confirms data breach exposing 900,000 marketing contacts",
+      "excerpt": "Identity protection company Aura has confirmed that an unauthorized party gained access to nearly 900,000 customer records containing names and email addresses. [...]",
+      "date": "2026-03-18",
+      "category": "Praktiska tips",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-pushes-first-background-security-improvements-update-to-fix-webkit-flaw/"
+      "link": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/"
+    },
+    {
+      "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking",
+      "excerpt": "ConnectWise is warning ScreenConnect customers of a cryptographic signature verification vulnerability that could lead to unauthorized access and privilege escalation. [...]",
+      "date": "2026-03-18",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/"
+    },
+    {
+      "title": "The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms",
+      "excerpt": "Refund fraud is now a business, with methods and tutorials sold to exploit return policies for profit. Flare shows how fraudsters turn refunds and chargebacks into a repeatable profit model. [...]",
+      "date": "2026-03-18",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/"
     }
   ]
 }
