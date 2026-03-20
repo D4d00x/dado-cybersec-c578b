@@ -1,61 +1,53 @@
 {
-  "lastUpdated": "2026-03-19T06:43:43.484Z",
+  "lastUpdated": "2026-03-20T06:40:20.558Z",
   "articles": [
     {
-      "title": "Ransomware gang exploits Cisco flaw in zero-day attacks since January",
-      "excerpt": "The Interlock ransomware gang has been exploiting a maximum severity remote code execution (RCE) vulnerability in Cisco's Secure Firewall Management Center (FMC) software in zero-day attacks since...",
-      "date": "2026-03-18",
+      "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged government agencies to apply patches for two security flaws impacting Synacor Zimbra Collaboration Suite (ZCS) and Microsoft...",
+      "date": "2026-03-19",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/interlock-ransomware-exploited-secure-fmc-flaw-in-zero-day-attacks-since-january/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html"
     },
     {
-      "title": "Kritiska sårbarheter i Cisco FMC och Cisco SCC",
-      "excerpt": "Cisco har publicerat information gällande två kritiska sårbarheter i Cisco Secure Firewall Management Center (FMC) och Cisco Security Cloud Control (SCC) Firewall Management. Båda sårbarheterna...",
-      "date": "2026-03-05",
+      "title": "Allvarlig sårbarhet i Microsoft SharePoint",
+      "excerpt": "Microsoft har tidigare publicerat information om sårbarheten CVE-2026-20963 som påverkar SharePoint. Sårbarheten är allvarlig och har fått en CVSS v3.1-klassning på 8.8. [1] [2] Vidare har...",
+      "date": "2026-03-19",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/cert-se-veckobrev-v11.html"
+      "link": "https://www.cert.se/2026/03/allvarlig-sarbarhet-i-microsoft-sharepoint.html"
     },
     {
-      "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
-      "excerpt": "INTERPOL on Friday announced the takedown of 45,000 malicious IP addresses and servers used in connection with phishing, malware, and ransomware campaigns, as part of the agency's ongoing efforts to...",
-      "date": "2026-03-13",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html"
-    },
-    {
-      "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
-      "excerpt": "Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS. The vulnerability, tracked as CVE-2026-20643...",
-      "date": "2026-03-18",
-      "category": "Regelverk",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html"
-    },
-    {
-      "title": "Aura confirms data breach exposing 900,000 marketing contacts",
-      "excerpt": "Identity protection company Aura has confirmed that an unauthorized party gained access to nearly 900,000 customer records containing names and email addresses. [...]",
-      "date": "2026-03-18",
+      "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
+      "excerpt": "A new exploit kit for Apple iOS devices designed to steal sensitive data from is being wielded by multiple threat actors since at least November 2025, according to reports from Google Threat...",
+      "date": "2026-03-19",
       "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/aura-confirms-data-breach-exposing-900-000-marketing-contacts/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html"
     },
     {
-      "title": "ConnectWise patches new flaw allowing ScreenConnect hijacking",
-      "excerpt": "ConnectWise is warning ScreenConnect customers of a cryptographic signature verification vulnerability that could lead to unauthorized access and privilege escalation. [...]",
-      "date": "2026-03-18",
+      "title": "Navia discloses data breach impacting 2.7 million people",
+      "excerpt": "Navia Benefit Solutions, Inc. (Navia) is informing nearly 2.7 million individuals of a data breach that exposed their sensitive information to attackers. [...]",
+      "date": "2026-03-19",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/connectwise-patches-new-flaw-allowing-screenconnect-hijacking/"
+      "link": "https://www.bleepingcomputer.com/news/security/navia-discloses-data-breach-impacting-27-million-people/"
     },
     {
-      "title": "The Refund Fraud Economy: Exploiting Major Retailers and Payment Platforms",
-      "excerpt": "Refund fraud is now a business, with methods and tutorials sold to exploit return policies for profit. Flare shows how fraudsters turn refunds and chargebacks into a repeatable profit model. [...]",
-      "date": "2026-03-18",
+      "title": "DoJ Disrupts 3 Million-Device IoT Botnets Behind Record 31.4 Tbps Global DDoS Attacks",
+      "excerpt": "The U.S. Department of Justice (DoJ) on Thursday announced the disruption of command-and-control (C2) infrastructure used by several Internet of Things (IoT) botnets like AISURU, Kimwolf, JackSkid,...",
+      "date": "2026-03-20",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/the-refund-fraud-economy-exploiting-major-retailers-and-payment-platforms/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/doj-disrupts-3-million-device-iot.html"
+    },
+    {
+      "title": "Patchtisdag mars 2026 – samlad information om månadens säkerhetsuppdateringar",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för mars. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Adobe, Cisco, SAP och Fortinet har publicerat...",
+      "date": "2026-03-11",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/03/patchtisdag-mars-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
     }
   ]
 }
