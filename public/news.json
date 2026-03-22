@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T06:29:40.303Z",
+  "lastUpdated": "2026-03-22T06:37:16.526Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.12",
@@ -10,12 +10,20 @@
       "link": "https://www.cert.se/2026/03/cert-se-veckobrev-v12.html"
     },
     {
-      "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
-      "excerpt": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets. The...",
-      "date": "2026-03-20",
+      "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
+      "excerpt": "The Trivy vulnerability scanner was compromised in a supply-chain attack by threat actors known as TeamPCP, which distributed credential-stealing malware through official releases and GitHub Actions....",
+      "date": "2026-03-21",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/"
+    },
+    {
+      "title": "Google adds ‘Advanced Flow’ for safe APK sideloading on Android",
+      "excerpt": "Google has announced a new mechanism in Android called Advanced Flow that will allow sideloading APKs from unverified developers for power users in a more secure way. [...]",
+      "date": "2026-03-21",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/"
     },
     {
       "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
@@ -40,14 +48,6 @@
       "category": "Nyheter",
       "source": "BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/"
-    },
-    {
-      "title": "Microsoft: March Windows updates break Teams, OneDrive sign-ins",
-      "excerpt": "Microsoft says the March Windows 11 update breaks sign-ins with Microsoft accounts across multiple Microsoft apps, including Teams and OneDrive. [...]",
-      "date": "2026-03-20",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/kb5079473-march-windows-11-update-breaks-microsoft-account-sign-ins/"
     }
   ]
 }
