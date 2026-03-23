@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-03-22T06:37:16.526Z",
+  "lastUpdated": "2026-03-23T06:57:03.453Z",
   "articles": [
-    {
-      "title": "CERT-SE:s veckobrev v.12",
-      "excerpt": "I veckobrevet hittar du information om ett flertal sårbarheter, bland annat gällande Microsoft SharePoint och hur en sårbarhet i Cisco FMC nu exploateras. Du finner även nyheter, rapporter och...",
-      "date": "2026-03-20",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/cert-se-veckobrev-v12.html"
-    },
     {
       "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
       "excerpt": "The Trivy vulnerability scanner was compromised in a supply-chain attack by threat actors known as TeamPCP, which distributed credential-stealing malware through official releases and GitHub Actions....",
@@ -16,6 +8,14 @@
       "category": "Hotbild",
       "source": "BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/"
+    },
+    {
+      "title": "CERT-SE:s veckobrev v.12",
+      "excerpt": "I veckobrevet hittar du information om ett flertal sårbarheter, bland annat gällande Microsoft SharePoint och hur en sårbarhet i Cisco FMC nu exploateras. Du finner även nyheter, rapporter och...",
+      "date": "2026-03-20",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/03/cert-se-veckobrev-v12.html"
     },
     {
       "title": "Google adds ‘Advanced Flow’ for safe APK sideloading on Android",
@@ -42,12 +42,12 @@
       "link": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/"
     },
     {
-      "title": "International joint action disrupts world’s largest DDoS botnets",
-      "excerpt": "Authorities from the United States, Germany, and Canada have taken down Command and Control (C2) infrastructure used by the Aisuru, KimWolf, JackSkid, and Mossad botnets to infect Internet of Things...",
+      "title": "Kritisk sårbarhet i Roundcube webmail",
+      "excerpt": "Roundcube informerar om en säkerhetsuppdatering som åtgärdar flera sårbarheter i Roundcube Webmail. Ingen av sårbarheterna har i nuläget tilldelats CVE eller CVSS-klassificering. Den som framstår som...",
       "date": "2026-03-20",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/aisuru-kimwolf-jackskid-and-mossad-botnets-disrupted-in-joint-action/"
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/03/sarbarheter-i-roundcube-webmail.html"
     }
   ]
 }
