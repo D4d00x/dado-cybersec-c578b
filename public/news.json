@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-03-23T06:57:03.453Z",
+  "lastUpdated": "2026-03-24T06:51:30.634Z",
   "articles": [
-    {
-      "title": "Trivy vulnerability scanner breach pushed infostealer via GitHub Actions",
-      "excerpt": "The Trivy vulnerability scanner was compromised in a supply-chain attack by threat actors known as TeamPCP, which distributed credential-stealing malware through official releases and GitHub Actions....",
-      "date": "2026-03-21",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/"
-    },
     {
       "title": "CERT-SE:s veckobrev v.12",
       "excerpt": "I veckobrevet hittar du information om ett flertal sårbarheter, bland annat gällande Microsoft SharePoint och hur en sårbarhet i Cisco FMC nu exploateras. Du finner även nyheter, rapporter och...",
@@ -18,28 +10,36 @@
       "link": "https://www.cert.se/2026/03/cert-se-veckobrev-v12.html"
     },
     {
-      "title": "Google adds ‘Advanced Flow’ for safe APK sideloading on Android",
-      "excerpt": "Google has announced a new mechanism in Android called Advanced Flow that will allow sideloading APKs from unverified developers for power users in a more secure way. [...]",
-      "date": "2026-03-21",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/google-adds-advanced-flow-for-safe-apk-sideloading-on-android/"
+      "title": "Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware",
+      "excerpt": "Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S. to harvest credentials and deliver malware. The email campaigns take advantage of the urgency and...",
+      "date": "2026-03-23",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html"
     },
     {
-      "title": "Police take down 373,000 fake CSAM sites in Operation Alice",
-      "excerpt": "An international law enforcement action called Operation Alice has shut down over 373,000 dark web sites that offered fake CSAM packages. [...]",
-      "date": "2026-03-20",
+      "title": "OpenAI rolls out ChatGPT Library to store your personal files",
+      "excerpt": "OpenAI is rolling out a new feature called 'Library' for ChatGPT, which allows you to store your personal files or images on OpenAI's cloud storage, so you can reference those items in a future chat....",
+      "date": "2026-03-23",
       "category": "Nyheter",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/police-take-down-373-000-fake-csam-sites-in-operation-alice/"
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/"
     },
     {
-      "title": "Musician admits to $10M streaming royalty fraud using AI bots",
-      "excerpt": "North Carolina musician Michael Smith has pleaded guilty to collecting over $10 million in royalty payments through a massive streaming royalty fraud scheme on Spotify, Apple Music, Amazon Music, and...",
-      "date": "2026-03-20",
+      "title": "Varonis Atlas: Securing AI and the Data That Powers It",
+      "excerpt": "AI agents can access data directly, making data security the foundation of AI security. Learn more about how Varonis Atlas helps orgs see, secure, and control AI systems and the data they can reach....",
+      "date": "2026-03-23",
       "category": "Nyheter",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/"
+      "link": "https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/"
+    },
+    {
+      "title": "Microsoft Exchange Online service change causes email access issues",
+      "excerpt": "Microsoft is working to address an ongoing service issue that has intermittently prevented some users from accessing their cloud-based Exchange Online mailboxes via Outlook mobile and Mac desktop...",
+      "date": "2026-03-23",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/"
     },
     {
       "title": "Kritisk sårbarhet i Roundcube webmail",
