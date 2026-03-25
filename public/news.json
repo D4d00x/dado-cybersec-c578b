@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-03-24T06:51:30.634Z",
+  "lastUpdated": "2026-03-25T06:50:19.359Z",
   "articles": [
     {
-      "title": "CERT-SE:s veckobrev v.12",
-      "excerpt": "I veckobrevet hittar du information om ett flertal sårbarheter, bland annat gällande Microsoft SharePoint och hur en sårbarhet i Cisco FMC nu exploateras. Du finner även nyheter, rapporter och...",
-      "date": "2026-03-20",
+      "title": "Kritisk sårbarhet i NetScaler Gateway och ADC",
+      "excerpt": "Citrix har publicerat information om sårbarheten CVE-2026-3055 som påverkar NetScaler Gateway och NetScaler ADC. Sårbarheten beskrivs som kritisk och har fått en CVSS v4.0-klassning på 9.3. [1]",
+      "date": "2026-03-24",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/cert-se-veckobrev-v12.html"
+      "link": "https://www.cert.se/2026/03/kritisk-sarbarhet-i-netscaler-gateway-och-adc.html"
     },
     {
-      "title": "Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware",
-      "excerpt": "Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S. to harvest credentials and deliver malware. The email campaigns take advantage of the urgency and...",
-      "date": "2026-03-23",
+      "title": "Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks",
+      "excerpt": "Citrix has released security updates to address two vulnerabilities in NetScaler ADC and NetScaler Gateway, including a critical flaw that could be exploited to leak sensitive data from the...",
+      "date": "2026-03-24",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html"
+      "link": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html"
     },
     {
-      "title": "OpenAI rolls out ChatGPT Library to store your personal files",
-      "excerpt": "OpenAI is rolling out a new feature called 'Library' for ChatGPT, which allows you to store your personal files or images on OpenAI's cloud storage, so you can reference those items in a future chat....",
-      "date": "2026-03-23",
+      "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise",
+      "excerpt": "TeamPCP, the threat actor behind the recent compromises of Trivy and KICS, has now compromised a popular Python package named litellm, pushing two malicious versions containing a credential...",
+      "date": "2026-03-24",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html"
+    },
+    {
+      "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
+      "excerpt": "On February 25, 2026, Gartner published its inaugural Market Guide for Guardian Agents, marking an important milestone for this emerging category. For those unfamiliar with the various Gartner report...",
+      "date": "2026-03-24",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html"
+    },
+    {
+      "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
+      "excerpt": "Cybersecurity has changed fast. Roles are more specialized, and tooling is more advanced. On paper, this should make organizations more secure. But in practice, many teams struggle with the same...",
+      "date": "2026-03-24",
       "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html"
     },
     {
-      "title": "Varonis Atlas: Securing AI and the Data That Powers It",
-      "excerpt": "AI agents can access data directly, making data security the foundation of AI security. Learn more about how Varonis Atlas helps orgs see, secure, and control AI systems and the data they can reach....",
-      "date": "2026-03-23",
+      "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
+      "excerpt": "Cybersecurity researchers have uncovered a new set of malicious npm packages that are designed to steal cryptocurrency wallets and sensitive data. The activity is being tracked by ReversingLabs as...",
+      "date": "2026-03-24",
       "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/varonis-atlas-securing-ai-and-the-data-that-powers-it/"
-    },
-    {
-      "title": "Microsoft Exchange Online service change causes email access issues",
-      "excerpt": "Microsoft is working to address an ongoing service issue that has intermittently prevented some users from accessing their cloud-based Exchange Online mailboxes via Outlook mobile and Mac desktop...",
-      "date": "2026-03-23",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-exchange-online-virtual-account-blocks-email-access-via-mobile-mac-apps/"
-    },
-    {
-      "title": "Kritisk sårbarhet i Roundcube webmail",
-      "excerpt": "Roundcube informerar om en säkerhetsuppdatering som åtgärdar flera sårbarheter i Roundcube Webmail. Ingen av sårbarheterna har i nuläget tilldelats CVE eller CVSS-klassificering. Den som framstår som...",
-      "date": "2026-03-20",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/sarbarheter-i-roundcube-webmail.html"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html"
     }
   ]
 }
