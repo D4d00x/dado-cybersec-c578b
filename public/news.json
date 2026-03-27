@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T06:56:19.298Z",
+  "lastUpdated": "2026-03-27T06:55:16.641Z",
   "articles": [
     {
       "title": "Kritisk sårbarhet i Oracle Identity Manager och Oracle Web Services Manager",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/03/kritisk-sarbarhet-i-oracle-identity-manager-och-oracle-web-services-manager.html"
     },
     {
-      "title": "Citrix urges admins to patch NetScaler flaws as soon as possible",
-      "excerpt": "Citrix has patched two NetScaler ADC and NetScaler Gateway vulnerabilities, one of which is very similar to the CitrixBleed and CitrixBleed2 flaws exploited in zero-day attacks in recent years. [...]",
-      "date": "2026-03-25",
+      "title": "CISA: New Langflow flaw actively exploited to hijack AI workflows",
+      "excerpt": "The Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are actively exploiting a critical vulnerability identified as CVE-2026-33017, which affects the Langflow framework...",
+      "date": "2026-03-26",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-netscaler-flaws-as-soon-as-possible/"
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-new-langflow-flaw-actively-exploited-to-hijack-ai-workflows/"
     },
     {
-      "title": "LeakBase Admin Arrested in Russia Over Massive Stolen Credential Marketplace",
-      "excerpt": "The alleged administrator of the LeakBase cybercrime forum has been arrested by Russian law enforcement authorities, state media reported Thursday. According to TASS and MVD Media, a news website...",
-      "date": "2026-03-25",
+      "title": "Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception",
+      "excerpt": "Unmasking impostors is something the art world has faced for decades, and there are valuable lessons from the works of Elmyr de Hory that can apply to the world of defensive cybersecurity. During the...",
+      "date": "2026-03-26",
       "category": "Nyheter",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/leakbase-admin-arrested-in-russia-over.html"
+      "link": "https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html"
     },
     {
-      "title": "The Kill Chain Is Obsolete When Your AI Agent Is the Threat",
-      "excerpt": "In September 2025, Anthropic disclosed that a state-sponsored threat actor used an AI coding agent to execute an autonomous cyber espionage campaign against 30 global targets. The AI handled 80-90%...",
-      "date": "2026-03-25",
+      "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
+      "excerpt": "Cybersecurity researchers have discovered a new payment skimmer that uses WebRTC data channels as a means to receive payloads and exfiltrate data, effectively bypassing security controls. \"Instead of...",
+      "date": "2026-03-26",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/the-kill-chain-is-obsolete-when-your-ai.html"
+      "link": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html"
     },
     {
-      "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
-      "excerpt": "The U.S. Federal Communications Commission (FCC) said on Monday that it was banning the import of new, foreign-made consumer routers, citing \"unacceptable\" risks to cyber and national security. The...",
-      "date": "2026-03-25",
+      "title": "UK sanctions Xinbi marketplace linked to Asian scam centers",
+      "excerpt": "The United Kingdom's Foreign, Commonwealth and Development Office (FCDO) has sanctioned Xinbi, a Chinese-language cryptocurrency-based online marketplace that sells stolen data and satellite internet...",
+      "date": "2026-03-26",
       "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html"
-    },
-    {
-      "title": "Paid AI Accounts Are Now a Hot Underground Commodity",
-      "excerpt": "AI accounts are becoming part of the cybercrime supply chain, sold like email accounts or VPS access. Flare Systems shows how underground markets bundle and resell premium AI access at scale. [...]",
-      "date": "2026-03-25",
-      "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/paid-ai-accounts-are-now-a-hot-underground-commodity/"
+      "link": "https://www.bleepingcomputer.com/news/security/uk-sanctions-xinbi-marketplace-linked-to-asian-scam-centers/"
+    },
+    {
+      "title": "WhatsApp rolls out more AI features, iOS multi-account support",
+      "excerpt": "WhatsApp is rolling out multiple features designed to make the app easier to use, including AI-powered message replies and photo retouching, support for two accounts on iOS, and chat history transfer...",
+      "date": "2026-03-26",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/"
     }
   ]
 }
