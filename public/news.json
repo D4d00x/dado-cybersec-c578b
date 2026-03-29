@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T06:44:13.322Z",
+  "lastUpdated": "2026-03-29T06:52:15.883Z",
   "articles": [
     {
       "title": "Kritisk sårbarhet i Oracle Identity Manager och Oracle Web Services Manager",
@@ -18,6 +18,22 @@
       "link": "https://www.bleepingcomputer.com/news/security/dutch-police-discloses-security-breach-after-phishing-attack/"
     },
     {
+      "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV)...",
+      "date": "2026-03-28",
+      "category": "Regelverk",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html"
+    },
+    {
+      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+      "excerpt": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices. The...",
+      "date": "2026-03-28",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html"
+    },
+    {
       "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
       "excerpt": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update. The development...",
       "date": "2026-03-27",
@@ -32,22 +48,6 @@
       "category": "Hotbild",
       "source": "The Hacker News",
       "link": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html"
-    },
-    {
-      "title": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
-      "excerpt": "Cybersecurity researchers have disclosed a vulnerability in Anthropic's Claude Google Chrome Extension that could have been exploited to trigger malicious prompts simply by visiting a web page. The...",
-      "date": "2026-03-26",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html"
-    },
-    {
-      "title": "Råd kring säkerhet i e-post",
-      "excerpt": "Det är ett vanligt förekommande problem att e-post används för bedrägerier. Bedragare kan använda e-post som ett verktyg för nätfiske och på så sätt försöka skapa sig åtkomst till känslig...",
-      "date": "2026-03-19",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/sakerhet-i-epost.html"
     }
   ]
 }
