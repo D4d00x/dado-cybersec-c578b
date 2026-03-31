@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-03-30T07:14:27.326Z",
+  "lastUpdated": "2026-03-31T07:00:54.651Z",
   "articles": [
     {
-      "title": "European Commission confirms data breach after Europa.eu hack",
-      "excerpt": "The European Commission has confirmed a data breach after its Europa.eu web platform was hacked in a cyberattack claimed by the ShinyHunters extortion gang. [...]",
+      "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
+      "excerpt": "Hackers are exploiting a critical severity vulnerability, tracked as CVE-2026-3055, in Citrix NetScaler ADC and NetScaler Gateway appliances to obtain sensitive data. [...]",
       "date": "2026-03-30",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/"
+      "link": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/"
     },
     {
       "title": "Kritisk sårbarhet i Oracle Identity Manager och Oracle Web Services Manager",
@@ -18,36 +18,36 @@
       "link": "https://www.cert.se/2026/03/kritisk-sarbarhet-i-oracle-identity-manager-och-oracle-web-services-manager.html"
     },
     {
-      "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV)...",
-      "date": "2026-03-28",
-      "category": "Regelverk",
+      "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
+      "excerpt": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public...",
+      "date": "2026-03-30",
+      "category": "Nyheter",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html"
+      "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html"
     },
     {
-      "title": "Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits",
-      "excerpt": "Apple is now sending Lock Screen notifications to iPhones and iPads running older versions of iOS and iPadOS to alert users of web-based attacks and urge them to install the update. The development...",
-      "date": "2026-03-27",
-      "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html"
-    },
-    {
-      "title": "Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware",
-      "excerpt": "A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent...",
-      "date": "2026-03-27",
+      "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
+      "excerpt": "Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a \"complex and well-resourced operation.\" The...",
+      "date": "2026-03-30",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html"
+      "link": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html"
     },
     {
-      "title": "Råd kring säkerhet i e-post",
-      "excerpt": "Det är ett vanligt förekommande problem att e-post används för bedrägerier. Bedragare kan använda e-post som ett verktyg för nätfiske och på så sätt försöka skapa sig åtkomst till känslig...",
-      "date": "2026-03-19",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/sakerhet-i-epost.html"
+      "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking",
+      "excerpt": "AI SOC agents can reduce alert fatigue, but most teams fail to measure real outcomes. Prophet Security breaks down Gartner's questions for evaluating AI SOC agents and separating real impact from...",
+      "date": "2026-03-30",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/"
+    },
+    {
+      "title": "Microsoft pulls KB5079391 Windows update over install issues",
+      "excerpt": "Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation. [...]",
+      "date": "2026-03-30",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/"
     }
   ]
 }
