@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-03-31T07:00:54.651Z",
+  "lastUpdated": "2026-04-01T07:07:13.359Z",
   "articles": [
     {
-      "title": "Critical Citrix NetScaler memory flaw actively exploited in attacks",
-      "excerpt": "Hackers are exploiting a critical severity vulnerability, tracked as CVE-2026-3055, in Citrix NetScaler ADC and NetScaler Gateway appliances to obtain sensitive data. [...]",
+      "title": "Förebyggande åtgärder för att säkra upp Microsoft 365-miljöer",
+      "excerpt": "Vid uppsättning av en klientorganisation (engelska: tenant) i Microsofts molnmiljö är flexibiliteten hög och nya funktioner läggs till kontinuerligt. CERT-SE uppmanar organisationer att regelbundet...",
       "date": "2026-03-30",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/"
-    },
-    {
-      "title": "Kritisk sårbarhet i Oracle Identity Manager och Oracle Web Services Manager",
-      "excerpt": "Oracle informerar om en kritisk sårbarhet (CVE-2026-21992) i Oracle Identity Manager och Oracle Web Services Manager. Sårbarheten har fått en klassning på 9.8 enligt CVSS 3.1. [1]",
-      "date": "2026-03-25",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/kritisk-sarbarhet-i-oracle-identity-manager-och-oracle-web-services-manager.html"
+      "link": "https://www.cert.se/2026/03/forebyggande-atgarder-for-att-sakra-upp-m365-miljoer.html"
     },
     {
-      "title": "The State of Secrets Sprawl 2026: 9 Takeaways for CISOs",
-      "excerpt": "Secrets sprawl isn't slowing down: in 2025, it accelerated faster than most security teams anticipated. GitGuardian's State of Secrets Sprawl 2026 report analyzed billions of commits across public...",
-      "date": "2026-03-30",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html"
-    },
-    {
-      "title": "Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign",
-      "excerpt": "Three threat activity clusters aligned with China have targeted a government organization in Southeast Asia as part of what has been described as a \"complex and well-resourced operation.\" The...",
-      "date": "2026-03-30",
+      "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
+      "excerpt": "A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia...",
+      "date": "2026-03-31",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/three-china-linked-clusters-target.html"
+      "link": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html"
     },
     {
-      "title": "How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking",
-      "excerpt": "AI SOC agents can reduce alert fatigue, but most teams fail to measure real outcomes. Prophet Security breaks down Gartner's questions for evaluating AI SOC agents and separating real impact from...",
-      "date": "2026-03-30",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/"
+      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
+      "excerpt": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error. \"No sensitive...",
+      "date": "2026-04-01",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html"
     },
     {
-      "title": "Microsoft pulls KB5079391 Windows update over install issues",
-      "excerpt": "Microsoft has pulled a buggy Windows 11 non-security preview update to investigate a known issue that triggers 0x80073712 errors during installation. [...]",
-      "date": "2026-03-30",
+      "title": "New Windows 11 emergency update fixes preview update install issues",
+      "excerpt": "Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues. [...]",
+      "date": "2026-04-01",
       "category": "Nyheter",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-windows-kb5079391-update-over-0x80073712-install-errors/"
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/"
+    },
+    {
+      "title": "Claude Code source code accidentally leaked in NPM package",
+      "excerpt": "Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]",
+      "date": "2026-04-01",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/"
+    },
+    {
+      "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
+      "excerpt": "Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while \"hiding behind anonymity.\" The...",
+      "date": "2026-03-31",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html"
     }
   ]
 }
