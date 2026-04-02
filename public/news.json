@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-04-01T07:07:13.359Z",
+  "lastUpdated": "2026-04-02T06:59:09.456Z",
   "articles": [
     {
-      "title": "Förebyggande åtgärder för att säkra upp Microsoft 365-miljöer",
-      "excerpt": "Vid uppsättning av en klientorganisation (engelska: tenant) i Microsofts molnmiljö är flexibiliteten hög och nya funktioner läggs till kontinuerligt. CERT-SE uppmanar organisationer att regelbundet...",
-      "date": "2026-03-30",
+      "title": "Hackers exploit TrueConf zero-day to push malicious software updates",
+      "excerpt": "Hackers have targeted TrueConf conference servers in attacks that exploit a zero-day vulnerability, allowing them to execute arbitrary files on all connected endpoints. [...]",
+      "date": "2026-04-01",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/"
+    },
+    {
+      "title": "Kritisk sårbarhet i Oracle Identity Manager och Oracle Web Services Manager",
+      "excerpt": "Oracle informerar om en kritisk sårbarhet (CVE-2026-21992) i Oracle Identity Manager och Oracle Web Services Manager. Sårbarheten har fått en klassning på 9.8 enligt CVSS 3.1. [1]",
+      "date": "2026-03-25",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/forebyggande-atgarder-for-att-sakra-upp-m365-miljoer.html"
+      "link": "https://www.cert.se/2026/03/kritisk-sarbarhet-i-oracle-identity-manager-och-oracle-web-services-manager.html"
     },
     {
-      "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
-      "excerpt": "A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia...",
-      "date": "2026-03-31",
+      "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
+      "excerpt": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote...",
+      "date": "2026-04-01",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html"
+    },
+    {
+      "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released",
+      "excerpt": "Google on Thursday released security updates for its Chrome web browser to address 21 vulnerabilities, including a zero-day flaw that it said has been exploited in the wild. The high-severity...",
+      "date": "2026-04-01",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html"
+      "link": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html"
     },
     {
-      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
-      "excerpt": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error. \"No sensitive...",
+      "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)",
+      "excerpt": "For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what’s next. Threat actors now use malware less frequently in favor of what’s...",
       "date": "2026-04-01",
-      "category": "Nyheter",
+      "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html"
+      "link": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html"
     },
     {
-      "title": "New Windows 11 emergency update fixes preview update install issues",
-      "excerpt": "Microsoft released an emergency update to fix the March 2026 KB5079391 non-security preview update, which was pulled over the weekend due to installation issues. [...]",
+      "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
+      "excerpt": "Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit. [...]",
       "date": "2026-04-01",
-      "category": "Nyheter",
+      "category": "Praktiska tips",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-11-kb5086672-emergency-update-fixes-install-issues/"
-    },
-    {
-      "title": "Claude Code source code accidentally leaked in NPM package",
-      "excerpt": "Anthropic says it accidentally leaked the source code for Claude Code, which is closed source, but the company says no customer data or credentials were exposed. [...]",
-      "date": "2026-04-01",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/"
-    },
-    {
-      "title": "Android Developer Verification Rollout Begins Ahead of September Enforcement",
-      "excerpt": "Google on Monday said it's officially rolling out Android developer verification to all developers to combat the problem of bad actors distributing harmful apps while \"hiding behind anonymity.\" The...",
-      "date": "2026-03-31",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/03/android-developer-verification-rollout.html"
+      "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/"
     }
   ]
 }
