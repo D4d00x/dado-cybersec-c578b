@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-04-02T06:59:09.456Z",
+  "lastUpdated": "2026-04-03T06:56:13.246Z",
   "articles": [
     {
-      "title": "Hackers exploit TrueConf zero-day to push malicious software updates",
-      "excerpt": "Hackers have targeted TrueConf conference servers in attacks that exploit a zero-day vulnerability, allowing them to execute arbitrary files on all connected endpoints. [...]",
-      "date": "2026-04-01",
+      "title": "Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks",
+      "excerpt": "Internet security watchdog Shadowserver has found over 14,000 BIG-IP APM instances exposed online amid ongoing attacks exploiting a critical-severity remote code execution (RCE) vulnerability. [...]",
+      "date": "2026-04-02",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/"
+      "link": "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/"
     },
     {
-      "title": "Kritisk sårbarhet i Oracle Identity Manager och Oracle Web Services Manager",
-      "excerpt": "Oracle informerar om en kritisk sårbarhet (CVE-2026-21992) i Oracle Identity Manager och Oracle Web Services Manager. Sårbarheten har fått en klassning på 9.8 enligt CVSS 3.1. [1]",
-      "date": "2026-03-25",
+      "title": "CERT-SE:s veckobrev v.14",
+      "excerpt": "Den senaste tiden har det noterats flera leveranskedjeangrepp, senast genom Axios JavaScript-bibliotek. Australiens cybersäkerhetscenter har tagit fram en bra sammanfattning om den senaste tidens...",
+      "date": "2026-04-02",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/kritisk-sarbarhet-i-oracle-identity-manager-och-oracle-web-services-manager.html"
+      "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v14.html"
     },
     {
       "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
@@ -26,28 +26,28 @@
       "link": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html"
     },
     {
-      "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released",
-      "excerpt": "Google on Thursday released security updates for its Chrome web browser to address 21 vulnerabilities, including a zero-day flaw that it said has been exploited in the wild. The high-severity...",
-      "date": "2026-04-01",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html"
+      "title": "Skadliga versioner av Axios JavaScript-bibliotek",
+      "excerpt": "StepSecurity informerar om ett skadligt Axios JavaScript-bibliotek som funnits tillgängligt för nedladdning via NPM. [1] Enligt Socradar rör det sig om uppskattningsvis knappt tre timmar innan det...",
+      "date": "2026-03-31",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/03/skadliga-versioner-av-axios-javascript-bibliotek.html"
     },
     {
-      "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don’t See It Coming)",
-      "excerpt": "For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what’s next. Threat actors now use malware less frequently in favor of what’s...",
-      "date": "2026-04-01",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html"
+      "title": "Råd kring säkerhet i e-post",
+      "excerpt": "Det är ett vanligt förekommande problem att e-post används för bedrägerier. Bedragare kan använda e-post som ett verktyg för nätfiske och på så sätt försöka skapa sig åtkomst till känslig...",
+      "date": "2026-03-19",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/03/sakerhet-i-epost.html"
     },
     {
-      "title": "Apple expands iOS 18 updates to more iPhones to block DarkSword attacks",
-      "excerpt": "Apple has now made it possible for more iPhones still running iOS 18 to receive security updates that protect against the actively exploited DarkSword exploit kit. [...]",
-      "date": "2026-04-01",
+      "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
+      "excerpt": "Apple on Wednesday expanded the availability of iOS 18.7.7 and iPadOS 18.7.7 to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known as DarkSword....",
+      "date": "2026-04-02",
       "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html"
     }
   ]
 }
