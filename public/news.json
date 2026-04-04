@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-04-03T06:56:13.246Z",
+  "lastUpdated": "2026-04-04T06:45:29.832Z",
   "articles": [
-    {
-      "title": "Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks",
-      "excerpt": "Internet security watchdog Shadowserver has found over 14,000 BIG-IP APM instances exposed online amid ongoing attacks exploiting a critical-severity remote code execution (RCE) vulnerability. [...]",
-      "date": "2026-04-02",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/"
-    },
     {
       "title": "CERT-SE:s veckobrev v.14",
       "excerpt": "Den senaste tiden har det noterats flera leveranskedjeangrepp, senast genom Axios JavaScript-bibliotek. Australiens cybersäkerhetscenter har tagit fram en bra sammanfattning om den senaste tidens...",
@@ -18,36 +10,44 @@
       "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v14.html"
     },
     {
-      "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
-      "excerpt": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote...",
-      "date": "2026-04-01",
-      "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html"
-    },
-    {
-      "title": "Skadliga versioner av Axios JavaScript-bibliotek",
-      "excerpt": "StepSecurity informerar om ett skadligt Axios JavaScript-bibliotek som funnits tillgängligt för nedladdning via NPM. [1] Enligt Socradar rör det sig om uppskattningsvis knappt tre timmar innan det...",
-      "date": "2026-03-31",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/skadliga-versioner-av-axios-javascript-bibliotek.html"
-    },
-    {
-      "title": "Råd kring säkerhet i e-post",
-      "excerpt": "Det är ett vanligt förekommande problem att e-post används för bedrägerier. Bedragare kan använda e-post som ett verktyg för nätfiske och på så sätt försöka skapa sig åtkomst till känslig...",
-      "date": "2026-03-19",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/03/sakerhet-i-epost.html"
-    },
-    {
-      "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
-      "excerpt": "Apple on Wednesday expanded the availability of iOS 18.7.7 and iPadOS 18.7.7 to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known as DarkSword....",
+      "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
+      "excerpt": "A large-scale credential harvesting operation has been observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Amazon Web...",
       "date": "2026-04-02",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html"
+    },
+    {
+      "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
+      "excerpt": "A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025, following a two-year period of minimal targeting in the region. The campaign has...",
+      "date": "2026-04-03",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html"
+      "link": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html"
+    },
+    {
+      "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
+      "excerpt": "The maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors...",
+      "date": "2026-04-03",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html"
+    },
+    {
+      "title": "Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture",
+      "excerpt": "The next major breach hitting your clients probably won't come from inside their walls. It'll come through a vendor they trust, a SaaS tool their finance team signed up for, or a subcontractor nobody...",
+      "date": "2026-04-03",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html"
+    },
+    {
+      "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
+      "excerpt": "Cybersecurity researchers have discovered a new version of the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the trojan was discovered targeting both the...",
+      "date": "2026-04-03",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html"
     }
   ]
 }
