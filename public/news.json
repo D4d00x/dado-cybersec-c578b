@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-04-04T06:45:29.832Z",
+  "lastUpdated": "2026-04-05T06:53:25.151Z",
   "articles": [
     {
-      "title": "CERT-SE:s veckobrev v.14",
-      "excerpt": "Den senaste tiden har det noterats flera leveranskedjeangrepp, senast genom Axios JavaScript-bibliotek. Australiens cybersäkerhetscenter har tagit fram en bra sammanfattning om den senaste tidens...",
-      "date": "2026-04-02",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v14.html"
-    },
-    {
-      "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
-      "excerpt": "A large-scale credential harvesting operation has been observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Amazon Web...",
-      "date": "2026-04-02",
+      "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
+      "excerpt": "Fortinet has released out-of-band patches for a critical security flaw impacting FortiClient EMS that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-35616 (CVSS score:...",
+      "date": "2026-04-05",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html"
+      "link": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html"
+    },
+    {
+      "title": "Kritisk sårbarhet i Oracle Identity Manager och Oracle Web Services Manager",
+      "excerpt": "Oracle informerar om en kritisk sårbarhet (CVE-2026-21992) i Oracle Identity Manager och Oracle Web Services Manager. Sårbarheten har fått en klassning på 9.8 enligt CVSS 3.1. [1]",
+      "date": "2026-03-25",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/03/kritisk-sarbarhet-i-oracle-identity-manager-och-oracle-web-services-manager.html"
     },
     {
       "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
