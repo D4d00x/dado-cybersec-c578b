@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T07:05:21.074Z",
+  "lastUpdated": "2026-04-09T07:09:20.086Z",
   "articles": [
     {
       "title": "Kritisk sårbarhet i Fortinet FortiClient EMS",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/04/kritisk-sarbarhet-i-fortinet-forticlient-ems.html"
     },
     {
-      "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
-      "excerpt": "A China-based threat actor known for deploying Medusa ransomware has been linked to the weaponization of a combination of zero-day and N-day vulnerabilities to orchestrate \"high-velocity\" attacks and...",
-      "date": "2026-04-07",
+      "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
+      "excerpt": "CISA has given U.S. government agencies four days to secure their systems against a critical-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) that has been exploited in attacks since...",
+      "date": "2026-04-08",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/"
     },
     {
-      "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
-      "excerpt": "New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take...",
-      "date": "2026-04-07",
+      "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
+      "excerpt": "Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS) attacks. Called Masjesu, the botnet has been advertised via Telegram as...",
+      "date": "2026-04-08",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html"
+      "link": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html"
     },
     {
-      "title": "Hackers exploit critical flaw in Ninja Forms WordPress plugin",
-      "excerpt": "A critical vulnerability in the Ninja Forms File Uploads premium add-on for WordPress allows uploading arbitrary files without authentication, which can lead to remote code execution. [...]",
-      "date": "2026-04-07",
+      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+      "excerpt": "The Fragmented State of Modern Enterprise Identity Enterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of applications,...",
+      "date": "2026-04-08",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html"
     },
     {
-      "title": "Max severity Flowise RCE vulnerability now exploited in attacks",
-      "excerpt": "Hackers are exploiting a maximum-severity vulnerability, tracked as CVE-2025-59528, in the open-source platform Flowise for building custom LLM apps and agentic systems to execute arbitrary code....",
-      "date": "2026-04-07",
+      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
+      "excerpt": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative called Project Glasswing that will use a preview version of its new frontier model, Claude Mythos, to find and...",
+      "date": "2026-04-08",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flowise-rce-vulnerability-now-exploited-in-attacks/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html"
     },
     {
-      "title": "CERT-SE:s veckobrev v.14",
-      "excerpt": "Den senaste tiden har det noterats flera leveranskedjeangrepp, senast genom Axios JavaScript-bibliotek. Australiens cybersäkerhetscenter har tagit fram en bra sammanfattning om den senaste tidens...",
-      "date": "2026-04-02",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v14.html"
+      "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
+      "excerpt": "Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs),...",
+      "date": "2026-04-08",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html"
     }
   ]
 }
