@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-04-09T07:09:20.086Z",
+  "lastUpdated": "2026-04-10T07:13:58.064Z",
   "articles": [
+    {
+      "title": "Hackers exploiting Acrobat Reader zero-day flaw since December",
+      "excerpt": "Attackers have been exploiting a zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December. [...]",
+      "date": "2026-04-09",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/"
+    },
     {
       "title": "Kritisk sårbarhet i Fortinet FortiClient EMS",
       "excerpt": "Fortinet har publicerat information om en kritisk sårbarhet i Fortinet FortiClient EMS. [1] Det finns observationer som tyder på att sårbarheten utnyttjas aktivt. Fortinet har publicerat en...",
@@ -10,44 +18,36 @@
       "link": "https://www.cert.se/2026/04/kritisk-sarbarhet-i-fortinet-forticlient-ems.html"
     },
     {
-      "title": "CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday",
-      "excerpt": "CISA has given U.S. government agencies four days to secure their systems against a critical-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) that has been exploited in attacks since...",
-      "date": "2026-04-08",
+      "title": "New VENOM phishing attacks steal senior executives' Microsoft logins",
+      "excerpt": "Threat actors using a previously undocumented phishing-as-a-service (PhaaS) platform called \"VENOM\" are targeting credentials of C-suite executives across multiple industries. [...]",
+      "date": "2026-04-09",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/"
+    },
+    {
+      "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
+      "excerpt": "Dutch healthcare software vendor ChipSoft has been impacted by a ransomware attack that forced the company to take offline its website and digital services for patients and healthcare providers. [...]",
+      "date": "2026-04-09",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/"
+      "link": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/"
     },
     {
-      "title": "Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices",
-      "excerpt": "Cybersecurity researchers have lifted the curtain on a stealthy botnet that's designed for distributed denial-of-service (DDoS) attacks. Called Masjesu, the botnet has been advertised via Telegram as...",
-      "date": "2026-04-08",
-      "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html"
-    },
-    {
-      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
-      "excerpt": "The Fragmented State of Modern Enterprise Identity Enterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of applications,...",
-      "date": "2026-04-08",
+      "title": "When attackers already have the keys, MFA is just another door to open",
+      "excerpt": "Stolen credentials turn authentication systems into the attack surface. Token shows how wearable biometric authentication verifies the user—not the session—blocking phishing relays and MFA bypass....",
+      "date": "2026-04-09",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/"
     },
     {
-      "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
-      "excerpt": "Artificial Intelligence (AI) company Anthropic announced a new cybersecurity initiative called Project Glasswing that will use a preview version of its new frontier model, Claude Mythos, to find and...",
-      "date": "2026-04-08",
+      "title": "Eurail says December data breach impacts 300,000 individuals",
+      "excerpt": "Eurail B.V., a European travel operator that provides digital passes covering 33 national railways, says attackers stole the personal information of over 300,000 individuals in a December 2025 data...",
+      "date": "2026-04-09",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html"
-    },
-    {
-      "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
-      "excerpt": "Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs),...",
-      "date": "2026-04-08",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/"
     }
   ]
 }
