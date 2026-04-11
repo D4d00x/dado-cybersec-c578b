@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-04-10T07:13:58.064Z",
+  "lastUpdated": "2026-04-11T06:47:27.750Z",
   "articles": [
     {
-      "title": "Hackers exploiting Acrobat Reader zero-day flaw since December",
-      "excerpt": "Attackers have been exploiting a zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December. [...]",
-      "date": "2026-04-09",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploiting-acrobat-reader-zero-day-flaw-since-december/"
-    },
-    {
-      "title": "Kritisk sårbarhet i Fortinet FortiClient EMS",
-      "excerpt": "Fortinet har publicerat information om en kritisk sårbarhet i Fortinet FortiClient EMS. [1] Det finns observationer som tyder på att sårbarheten utnyttjas aktivt. Fortinet har publicerat en...",
-      "date": "2026-04-07",
+      "title": "CERT-SE:s veckobrev v.15",
+      "excerpt": "I veckobrevet kan du bland annat läsa om en kritisk sårbarhet i Fortinet FortiClient EMS och om att säkerhetstjänster i bland annat Europa och USA varnar för att hotaktören APT28 utnyttjar sårbara...",
+      "date": "2026-04-10",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/04/kritisk-sarbarhet-i-fortinet-forticlient-ems.html"
+      "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v15.html"
+    },
+    {
+      "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
+      "excerpt": "A critical security vulnerability in Marimo, an open-source Python notebook for data science and analysis, has been exploited within 10 hours of public disclosure, according to findings from Sysdig....",
+      "date": "2026-04-10",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html"
     },
     {
       "title": "New VENOM phishing attacks steal senior executives' Microsoft logins",
@@ -34,20 +34,20 @@
       "link": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/"
     },
     {
-      "title": "When attackers already have the keys, MFA is just another door to open",
-      "excerpt": "Stolen credentials turn authentication systems into the attack surface. Token shows how wearable biometric authentication verifies the user—not the session—blocking phishing relays and MFA bypass....",
-      "date": "2026-04-09",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/when-attackers-already-have-the-keys-mfa-is-just-another-door-to-open/"
+      "title": "Nyhetsbrev MISP-SE april 2026",
+      "excerpt": "Här kommer ett nyhetsbrev med information om status i arbetet och vad som är på gång inom MISP-SE.",
+      "date": "2026-04-08",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/04/misp-se-nyhetsbrev-april.html"
     },
     {
-      "title": "Eurail says December data breach impacts 300,000 individuals",
-      "excerpt": "Eurail B.V., a European travel operator that provides digital passes covering 33 national railways, says attackers stole the personal information of over 300,000 individuals in a December 2025 data...",
-      "date": "2026-04-09",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/eurail-says-december-data-breach-impacts-300-000-individuals/"
+      "title": "Skadliga versioner av Axios JavaScript-bibliotek",
+      "excerpt": "StepSecurity informerar om ett skadligt Axios JavaScript-bibliotek som funnits tillgängligt för nedladdning via NPM. [1] Enligt Socradar rör det sig om uppskattningsvis knappt tre timmar innan det...",
+      "date": "2026-03-31",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/03/skadliga-versioner-av-axios-javascript-bibliotek.html"
     }
   ]
 }
