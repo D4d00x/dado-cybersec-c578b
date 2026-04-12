@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T06:47:27.750Z",
+  "lastUpdated": "2026-04-12T07:02:17.914Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -10,12 +10,12 @@
       "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v15.html"
     },
     {
-      "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
-      "excerpt": "A critical security vulnerability in Marimo, an open-source Python notebook for data science and analysis, has been exploited within 10 hours of public disclosure, according to findings from Sysdig....",
-      "date": "2026-04-10",
+      "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
+      "excerpt": "Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that has come under active exploitation in the wild. The vulnerability, assigned the CVE identifier...",
+      "date": "2026-04-12",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html"
+      "link": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html"
     },
     {
       "title": "New VENOM phishing attacks steal senior executives' Microsoft logins",
@@ -34,20 +34,20 @@
       "link": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/"
     },
     {
-      "title": "Nyhetsbrev MISP-SE april 2026",
-      "excerpt": "Här kommer ett nyhetsbrev med information om status i arbetet och vad som är på gång inom MISP-SE.",
-      "date": "2026-04-08",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/04/misp-se-nyhetsbrev-april.html"
-    },
-    {
       "title": "Skadliga versioner av Axios JavaScript-bibliotek",
       "excerpt": "StepSecurity informerar om ett skadligt Axios JavaScript-bibliotek som funnits tillgängligt för nedladdning via NPM. [1] Enligt Socradar rör det sig om uppskattningsvis knappt tre timmar innan det...",
       "date": "2026-03-31",
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/03/skadliga-versioner-av-axios-javascript-bibliotek.html"
+    },
+    {
+      "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
+      "excerpt": "Hackers gained access to an API for the CPUID project and changed the download links on the official website to serve malicious executables for the popular CPU-Z and HWMonitor tools. [...]",
+      "date": "2026-04-10",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/"
     }
   ]
 }
