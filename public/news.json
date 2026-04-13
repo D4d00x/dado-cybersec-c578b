@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T07:02:17.914Z",
+  "lastUpdated": "2026-04-13T07:46:38.583Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -26,20 +26,20 @@
       "link": "https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/"
     },
     {
-      "title": "Healthcare IT solutions provider ChipSoft hit by ransomware attack",
-      "excerpt": "Dutch healthcare software vendor ChipSoft has been impacted by a ransomware attack that forced the company to take offline its website and digital services for patients and healthcare providers. [...]",
-      "date": "2026-04-09",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/"
-    },
-    {
       "title": "Skadliga versioner av Axios JavaScript-bibliotek",
       "excerpt": "StepSecurity informerar om ett skadligt Axios JavaScript-bibliotek som funnits tillgängligt för nedladdning via NPM. [1] Enligt Socradar rör det sig om uppskattningsvis knappt tre timmar innan det...",
       "date": "2026-03-31",
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/03/skadliga-versioner-av-axios-javascript-bibliotek.html"
+    },
+    {
+      "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
+      "excerpt": "Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serve...",
+      "date": "2026-04-12",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html"
     },
     {
       "title": "CPUID hacked to deliver malware via CPU-Z, HWMonitor downloads",
