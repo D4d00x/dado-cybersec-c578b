@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T07:16:18.146Z",
+  "lastUpdated": "2026-04-15T07:16:37.469Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -10,30 +10,6 @@
       "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v15.html"
     },
     {
-      "title": "Adobe rolls out emergency fix for Acrobat, Reader zero-day flaw",
-      "excerpt": "Adobe has released an emergency security update for Acrobat Reader to fix a vulnerability, tracked as CVE-2026-34621, that has been exploited in zero-day attacks since at least December. [...]",
-      "date": "2026-04-13",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/adobe-rolls-out-emergency-fix-for-acrobat-reader-zero-day-flaw/"
-    },
-    {
-      "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
-      "excerpt": "OpenAI revealed a GitHub Actions workflow used to sign its macOS apps led to the download of the malicious Axios library on March 31, but noted that no user data or internal system was compromised....",
-      "date": "2026-04-13",
-      "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html"
-    },
-    {
-      "title": "Over 20,000 crypto fraud victims identified in international crackdown",
-      "excerpt": "An international law enforcement action led by the U.K.'s National Crime Agency (NCA) has identified over 20,000 victims of cryptocurrency fraud across Canada, the United Kingdom, and the United...",
-      "date": "2026-04-11",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/"
-    },
-    {
       "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
       "excerpt": "A critical security vulnerability impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the wild. The vulnerability in question is...",
       "date": "2026-04-14",
@@ -42,12 +18,36 @@
       "link": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html"
     },
     {
-      "title": "Kritisk sårbarhet i Fortinet FortiClient EMS",
-      "excerpt": "Fortinet har publicerat information om en kritisk sårbarhet i Fortinet FortiClient EMS. [1] Det finns observationer som tyder på att sårbarheten utnyttjas aktivt. Fortinet har publicerat en...",
-      "date": "2026-04-07",
+      "title": "Microsoft adds Windows protections for malicious Remote Desktop files",
+      "excerpt": "Microsoft has introduced new Windows protections to defend against phishing attacks that abuse Remote Desktop connection (.rdp) files, adding warnings and disabling risky shared resources by default....",
+      "date": "2026-04-14",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/"
+    },
+    {
+      "title": "McGraw-Hill confirms data breach following extortion threat",
+      "excerpt": "Education company McGraw-Hill has confirmed in a statement to BleepingComputer that hackers exploited a Salesforce misconfiguration and accessed its internal data. [...]",
+      "date": "2026-04-14",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/"
+    },
+    {
+      "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
+      "excerpt": "Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT. A modified version of BX RAT, JanelaRAT is...",
+      "date": "2026-04-13",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html"
+    },
+    {
+      "title": "Nyhetsbrev MISP-SE april 2026",
+      "excerpt": "Här kommer ett nyhetsbrev med information om status i arbetet och vad som är på gång inom MISP-SE.",
+      "date": "2026-04-08",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/04/kritisk-sarbarhet-i-fortinet-forticlient-ems.html"
+      "link": "https://www.cert.se/2026/04/misp-se-nyhetsbrev-april.html"
     }
   ]
 }
