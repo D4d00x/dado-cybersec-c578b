@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T07:16:37.469Z",
+  "lastUpdated": "2026-04-16T07:17:41.386Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -10,12 +10,12 @@
       "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v15.html"
     },
     {
-      "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
-      "excerpt": "A critical security vulnerability impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the wild. The vulnerability in question is...",
-      "date": "2026-04-14",
+      "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
+      "excerpt": "A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the wild. The vulnerability in question is...",
+      "date": "2026-04-15",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html"
+      "link": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html"
     },
     {
       "title": "Microsoft adds Windows protections for malicious Remote Desktop files",
@@ -26,20 +26,12 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/"
     },
     {
-      "title": "McGraw-Hill confirms data breach following extortion threat",
-      "excerpt": "Education company McGraw-Hill has confirmed in a statement to BleepingComputer that hackers exploited a Salesforce misconfiguration and accessed its internal data. [...]",
-      "date": "2026-04-14",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/mcgraw-hill-confirms-data-breach-following-extortion-threat/"
-    },
-    {
-      "title": "JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025",
-      "excerpt": "Banks and financial institutions in Latin American countries like Brazil and Mexico have continued to be the target of a malware family called JanelaRAT. A modified version of BX RAT, JanelaRAT is...",
-      "date": "2026-04-13",
+      "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
+      "excerpt": "The Computer Emergencies Response Team of Ukraine (CERT-UA) has disclosed details of a new campaign that has targeted governments and municipal healthcare institutions, mainly clinics and emergency...",
+      "date": "2026-04-16",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html"
+      "link": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html"
     },
     {
       "title": "Nyhetsbrev MISP-SE april 2026",
@@ -48,6 +40,14 @@
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/04/misp-se-nyhetsbrev-april.html"
+    },
+    {
+      "title": "Skadliga versioner av Axios JavaScript-bibliotek",
+      "excerpt": "StepSecurity informerar om ett skadligt Axios JavaScript-bibliotek som funnits tillgängligt för nedladdning via NPM. [1] Enligt Socradar rör det sig om uppskattningsvis knappt tre timmar innan det...",
+      "date": "2026-03-31",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/03/skadliga-versioner-av-axios-javascript-bibliotek.html"
     }
   ]
 }
