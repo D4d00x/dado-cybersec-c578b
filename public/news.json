@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T07:18:00.342Z",
+  "lastUpdated": "2026-04-18T06:55:20.205Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v15.html"
     },
     {
-      "title": "Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face",
-      "excerpt": "Hackers are exploiting a critical vulnerability in Marimo reactive Python notebook to deploy a new variant of NKAbuse malware hosted on Hugging Face Spaces. [...]",
-      "date": "2026-04-16",
+      "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
+      "excerpt": "CISA warned that attackers are now exploiting a high-severity Apache ActiveMQ vulnerability, which was patched earlier this month after going undetected for 13 years. [...]",
+      "date": "2026-04-17",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/"
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/"
     },
     {
-      "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
-      "excerpt": "An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than...",
+      "title": "Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery",
+      "excerpt": "Cyberattacks are evolving faster than many MSP and corporate defenses can keep up, with phishing driving much of today's cybercrime. Join our upcoming webinar to learn how to combine security and...",
       "date": "2026-04-17",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html"
-    },
-    {
-      "title": "Man gets 30 months for selling thousands of hacked DraftKings accounts",
-      "excerpt": "23-year-old Kamerin Stokes of Memphis, Tennessee, was sentenced to 30 months in prison for selling access to tens of thousands of hacked DraftKings accounts. [...]",
-      "date": "2026-04-17",
-      "category": "Nyheter",
+      "category": "Praktiska tips",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-30-months-for-selling-thousands-of-hacked-draftkings-accounts/"
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/"
     },
     {
-      "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
-      "excerpt": "Cybersecurity researchers have warned of an active malicious campaign that's targeting the workforce in the Czech Republic with a previously undocumented botnet dubbed PowMix since at least December...",
-      "date": "2026-04-16",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
-      "excerpt": "You know that feeling when you open your feed on a Thursday morning and it's just... a lot? Yeah. This week delivered. We've got hackers getting creative in ways that are almost impressive if you...",
+      "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
+      "excerpt": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not phishing. Not weak passwords. Unmanaged non-human identities that nobody was watching. For every...",
       "date": "2026-04-16",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html"
+      "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html"
+    },
+    {
+      "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
+      "excerpt": "Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code execution and allow an attacker to impersonate...",
+      "date": "2026-04-16",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html"
+    },
+    {
+      "title": "Patchtisdag april 2026 – samlad information om månadens säkerhetsuppdateringar",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för april. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Adobe, Cisco, SAP och Fortinet har publicerat...",
+      "date": "2026-04-14",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/04/patchtisdag-april-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
     }
   ]
 }
