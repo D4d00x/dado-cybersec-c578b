@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T06:55:20.205Z",
+  "lastUpdated": "2026-04-19T07:05:33.532Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -26,28 +26,28 @@
       "link": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/"
     },
     {
-      "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
-      "excerpt": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not phishing. Not weak passwords. Unmanaged non-human identities that nobody was watching. For every...",
-      "date": "2026-04-16",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html"
-    },
-    {
-      "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
-      "excerpt": "Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code execution and allow an attacker to impersonate...",
-      "date": "2026-04-16",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html"
-    },
-    {
       "title": "Patchtisdag april 2026 – samlad information om månadens säkerhetsuppdateringar",
       "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för april. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Adobe, Cisco, SAP och Fortinet har publicerat...",
       "date": "2026-04-14",
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/04/patchtisdag-april-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
+    },
+    {
+      "title": "Nyhetsbrev MISP-SE april 2026",
+      "excerpt": "Här kommer ett nyhetsbrev med information om status i arbetet och vad som är på gång inom MISP-SE.",
+      "date": "2026-04-08",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/04/misp-se-nyhetsbrev-april.html"
+    },
+    {
+      "title": "Skadliga versioner av Axios JavaScript-bibliotek",
+      "excerpt": "StepSecurity informerar om ett skadligt Axios JavaScript-bibliotek som funnits tillgängligt för nedladdning via NPM. [1] Enligt Socradar rör det sig om uppskattningsvis knappt tre timmar innan det...",
+      "date": "2026-03-31",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/03/skadliga-versioner-av-axios-javascript-bibliotek.html"
     }
   ]
 }
