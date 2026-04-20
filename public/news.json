@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T07:05:33.532Z",
+  "lastUpdated": "2026-04-20T07:49:06.827Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -10,12 +10,12 @@
       "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v15.html"
     },
     {
-      "title": "CISA flags Apache ActiveMQ flaw as actively exploited in attacks",
-      "excerpt": "CISA warned that attackers are now exploiting a high-severity Apache ActiveMQ vulnerability, which was patched earlier this month after going undetected for 13 years. [...]",
-      "date": "2026-04-17",
+      "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
+      "excerpt": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not phishing. Not weak passwords. Unmanaged non-human identities that nobody was watching. For every...",
+      "date": "2026-04-18",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html"
     },
     {
       "title": "Webinar: From phishing to fallout — Why MSPs must rethink both security and recovery",
@@ -24,14 +24,6 @@
       "category": "Praktiska tips",
       "source": "BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/webinar-from-phishing-to-fallout-why-msps-must-rethink-both-security-and-recovery/"
-    },
-    {
-      "title": "Patchtisdag april 2026 – samlad information om månadens säkerhetsuppdateringar",
-      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för april. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Adobe, Cisco, SAP och Fortinet har publicerat...",
-      "date": "2026-04-14",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/04/patchtisdag-april-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
     },
     {
       "title": "Nyhetsbrev MISP-SE april 2026",
@@ -48,6 +40,14 @@
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/03/skadliga-versioner-av-axios-javascript-bibliotek.html"
+    },
+    {
+      "title": "Vercel confirms breach as hackers claim to be selling stolen data",
+      "excerpt": "Cloud development platform Vercel has disclosed a security incident after threat actors claimed to have breached its systems and are attempting to sell stolen data. [...]",
+      "date": "2026-04-19",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/"
     }
   ]
 }
