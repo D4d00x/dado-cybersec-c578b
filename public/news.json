@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T07:20:32.421Z",
+  "lastUpdated": "2026-04-22T07:18:25.711Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -10,36 +10,36 @@
       "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v15.html"
     },
     {
-      "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
-      "excerpt": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems. The vulnerability, tracked as...",
-      "date": "2026-04-20",
+      "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
+      "excerpt": "Over 1,300 Microsoft SharePoint servers exposed online remain unpatched against a spoofing vulnerability that was exploited as a zero-day and is still being abused in ongoing attacks. [...]",
+      "date": "2026-04-22",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html"
-    },
-    {
-      "title": "The backup myth that is putting businesses at risk",
-      "excerpt": "Backups protect data, but don't keep your business running during downtime. Datto shows why BCDR is essential to keep operations running during ransomware and outages. [...]",
-      "date": "2026-04-20",
-      "category": "Praktiska tips",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/"
+      "link": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/"
     },
     {
-      "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
-      "excerpt": "Threat actors are exploiting security flaws in TBK DVR and end‑of‑life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet...",
-      "date": "2026-04-18",
-      "category": "Hotbild",
+      "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
+      "excerpt": "Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption,...",
+      "date": "2026-04-21",
+      "category": "Regelverk",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html"
+      "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html"
     },
     {
-      "title": "Why Most AI Deployments Stall After the Demo",
-      "excerpt": "The fastest way to fall in love with an AI tool is to watch the demo. Everything moves quickly. Prompts land cleanly. The system produces impressive outputs in seconds. It feels like the beginning of...",
-      "date": "2026-04-20",
+      "title": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction",
+      "excerpt": "Fraud prevention and user experience don't have to be a tradeoff. IPQS shows how combining identity, device, and network signals stops fraud without adding friction. [...]",
+      "date": "2026-04-21",
       "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/"
+    },
+    {
+      "title": "UK probes Telegram, teen chat sites over CSAM sharing concerns",
+      "excerpt": "Ofcom, the United Kingdom's independent communications regulator, has launched an investigation into Telegram based on evidence suggesting it's being used to share child sexual abuse material (CSAM)....",
+      "date": "2026-04-21",
+      "category": "Regelverk",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/"
     },
     {
       "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
