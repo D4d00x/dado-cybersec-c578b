@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T07:18:25.711Z",
+  "lastUpdated": "2026-04-23T07:20:40.477Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v15.html"
     },
     {
-      "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
-      "excerpt": "Over 1,300 Microsoft SharePoint servers exposed online remain unpatched against a spoofing vulnerability that was exploited as a zero-day and is still being abused in ongoing attacks. [...]",
+      "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
+      "excerpt": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges. The vulnerability, tracked as CVE-2026-40372,...",
+      "date": "2026-04-22",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html"
+    },
+    {
+      "title": "Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
+      "excerpt": "Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector. \"The backdoor communicates with a dynamic...",
+      "date": "2026-04-22",
+      "category": "Regelverk",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html"
+    },
+    {
+      "title": "New npm supply-chain attack self-spreads to steal auth tokens",
+      "excerpt": "A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]",
       "date": "2026-04-22",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/"
+      "link": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/"
     },
     {
-      "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
-      "excerpt": "Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption,...",
+      "title": "New GoGra malware for Linux uses Microsoft Graph API for comms",
+      "excerpt": "A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
+      "date": "2026-04-22",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/"
+    },
+    {
+      "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
+      "excerpt": "Cybersecurity researchers have identified 22 new vulnerabilities in popular models of serial-to-IP converters from Lantronix and Silex that could be exploited to hijack susceptible devices and tamper...",
       "date": "2026-04-21",
-      "category": "Regelverk",
+      "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html"
-    },
-    {
-      "title": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction",
-      "excerpt": "Fraud prevention and user experience don't have to be a tradeoff. IPQS shows how combining identity, device, and network signals stops fraud without adding friction. [...]",
-      "date": "2026-04-21",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/"
-    },
-    {
-      "title": "UK probes Telegram, teen chat sites over CSAM sharing concerns",
-      "excerpt": "Ofcom, the United Kingdom's independent communications regulator, has launched an investigation into Telegram based on evidence suggesting it's being used to share child sexual abuse material (CSAM)....",
-      "date": "2026-04-21",
-      "category": "Regelverk",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/"
-    },
-    {
-      "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
-      "excerpt": "State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday. [...]",
-      "date": "2026-04-20",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/"
+      "link": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html"
     }
   ]
 }
