@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T07:00:46.414Z",
+  "lastUpdated": "2026-04-26T07:15:05.695Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -10,12 +10,12 @@
       "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v15.html"
     },
     {
-      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
-      "excerpt": "Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
-      "date": "2026-04-23",
+      "title": "New ‘Pack2TheRoot’ flaw gives hackers root Linux access",
+      "excerpt": "A new vulnerability dubbed Pack2TheRoot could be exploited in the PackageKit daemon to allow local Linux users to install or remove system packages and gain root permissions. [...]",
+      "date": "2026-04-24",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/"
+      "link": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/"
     },
     {
       "title": "DORA and operational resilience: Credential management as a financial risk control",
@@ -34,20 +34,20 @@
       "link": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/"
     },
     {
-      "title": "CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four vulnerabilities impacting SimpleHelp, Samsung MagicINFO 9 Server, and D-Link DIR-823X series routers to its Known...",
-      "date": "2026-04-25",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html"
-    },
-    {
       "title": "Patchtisdag april 2026 – samlad information om månadens säkerhetsuppdateringar",
       "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för april. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Adobe, Cisco, SAP och Fortinet har publicerat...",
       "date": "2026-04-14",
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/04/patchtisdag-april-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
+    },
+    {
+      "title": "Nyhetsbrev MISP-SE april 2026",
+      "excerpt": "Här kommer ett nyhetsbrev med information om status i arbetet och vad som är på gång inom MISP-SE.",
+      "date": "2026-04-08",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/04/misp-se-nyhetsbrev-april.html"
     }
   ]
 }
