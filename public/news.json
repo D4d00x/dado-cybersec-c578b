@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T08:04:18.809Z",
+  "lastUpdated": "2026-04-29T07:57:38.417Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v15.html"
     },
     {
-      "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
-      "excerpt": "A pro-Ukrainian hacktivist group called PhantomCore has been attributed to attacks actively targeting servers running TrueConf video conferencing software in Russia since September 2025. That's...",
-      "date": "2026-04-27",
+      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
+      "excerpt": "Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code...",
+      "date": "2026-04-28",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html"
+      "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html"
     },
     {
-      "title": "Alleged Silk Typhoon hacker extradited to US for cyberespionage",
-      "excerpt": "A Chinese national accused of carrying out cyberespionage operations for China's intelligence services has been extradited from Italy to the United States to face criminal charges. [...]",
-      "date": "2026-04-27",
-      "category": "Nyheter",
+      "title": "After Mythos: New Playbooks For a Zero-Window Era",
+      "excerpt": "When patching isn’t fast enough, NDR helps contain the next era of threats. If you’ve been tracking advancements in AI, you know the exploit window, the short buffer that organizations relied on to...",
+      "date": "2026-04-28",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html"
+    },
+    {
+      "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
+      "excerpt": "A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy. Xu Zewei, 34, was arrested in July 2025 by Italian authorities for his...",
+      "date": "2026-04-28",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html"
+    },
+    {
+      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+      "excerpt": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from...",
+      "date": "2026-04-28",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html"
+    },
+    {
+      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
+      "excerpt": "Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
+      "date": "2026-04-28",
+      "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/"
-    },
-    {
-      "title": "FTC: Americans lost over $2.1 billion to social media scams in 2025",
-      "excerpt": "The U.S. Federal Trade Commission (FTC) warned of a massive increase in losses from social media scams since 2020, exceeding $2.1 billion in 2025. [...]",
-      "date": "2026-04-27",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/"
-    },
-    {
-      "title": "Money launderer linked to $230M crypto heist gets 70 months in prison",
-      "excerpt": "​22-year-old Evan Tangeman of Newport Beach, California, was sentenced to 70 months in prison for laundering funds stolen in a massive $230 million cryptocurrency heist. [...]",
-      "date": "2026-04-27",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/"
-    },
-    {
-      "title": "CERT-SE:s veckobrev v.17",
-      "excerpt": "I veckobrevet kan du bland annat läsa om ett flertal sårbarheter samt information kring utvecklingen gällande Anthropics Claude Mythos och Project Glasswing. Du hittar även övriga nyheter, rapporter...",
-      "date": "2026-04-24",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v17.html"
+      "link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/"
     }
   ]
 }
