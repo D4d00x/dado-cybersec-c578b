@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T07:57:38.417Z",
+  "lastUpdated": "2026-04-30T08:01:31.847Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v15.html"
     },
     {
-      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
-      "excerpt": "Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code...",
-      "date": "2026-04-28",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html"
-    },
-    {
-      "title": "After Mythos: New Playbooks For a Zero-Window Era",
-      "excerpt": "When patching isn’t fast enough, NDR helps contain the next era of threats. If you’ve been tracking advancements in AI, you know the exploit window, the short buffer that organizations relied on to...",
-      "date": "2026-04-28",
-      "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html"
-    },
-    {
-      "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
-      "excerpt": "A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy. Xu Zewei, 34, was arrested in July 2025 by Italian authorities for his...",
-      "date": "2026-04-28",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html"
-    },
-    {
-      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
-      "excerpt": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from...",
-      "date": "2026-04-28",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html"
-    },
-    {
-      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
-      "excerpt": "Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
-      "date": "2026-04-28",
+      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability exploited in zero-day attacks. [...]",
+      "date": "2026-04-29",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/"
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/"
+    },
+    {
+      "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
+      "excerpt": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain. We aren't just talking...",
+      "date": "2026-04-29",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html"
+    },
+    {
+      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities...",
+      "date": "2026-04-29",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html"
+    },
+    {
+      "title": "Official SAP npm packages compromised to steal credentials",
+      "excerpt": "Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]",
+      "date": "2026-04-29",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/"
+    },
+    {
+      "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
+      "excerpt": "Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]",
+      "date": "2026-04-29",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/"
     }
   ]
 }
