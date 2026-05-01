@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T08:01:31.847Z",
+  "lastUpdated": "2026-05-01T07:59:24.943Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -10,12 +10,12 @@
       "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v15.html"
     },
     {
-      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability exploited in zero-day attacks. [...]",
-      "date": "2026-04-29",
+      "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
+      "excerpt": "The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]",
+      "date": "2026-04-30",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/"
+      "link": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/"
     },
     {
       "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
@@ -26,14 +26,6 @@
       "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html"
     },
     {
-      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities...",
-      "date": "2026-04-29",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html"
-    },
-    {
       "title": "Official SAP npm packages compromised to steal credentials",
       "excerpt": "Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]",
       "date": "2026-04-29",
@@ -42,12 +34,20 @@
       "link": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/"
     },
     {
-      "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
-      "excerpt": "Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]",
-      "date": "2026-04-29",
+      "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
+      "excerpt": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into...",
+      "date": "2026-04-30",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html"
+    },
+    {
+      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
+      "excerpt": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of...",
+      "date": "2026-04-30",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html"
     }
   ]
 }
