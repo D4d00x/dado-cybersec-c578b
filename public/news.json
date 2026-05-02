@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T07:59:24.943Z",
+  "lastUpdated": "2026-05-02T07:17:51.033Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v15.html"
     },
     {
-      "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
-      "excerpt": "The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]",
-      "date": "2026-04-30",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/"
-    },
-    {
-      "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
-      "excerpt": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain. We aren't just talking...",
-      "date": "2026-04-29",
+      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
+      "excerpt": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in...",
+      "date": "2026-05-01",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html"
+      "link": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html"
     },
     {
-      "title": "Official SAP npm packages compromised to steal credentials",
-      "excerpt": "Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]",
-      "date": "2026-04-29",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/"
-    },
-    {
-      "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
-      "excerpt": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into...",
-      "date": "2026-04-30",
+      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+      "excerpt": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and...",
+      "date": "2026-05-01",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html"
+      "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html"
     },
     {
-      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
-      "excerpt": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of...",
-      "date": "2026-04-30",
-      "category": "Nyheter",
+      "title": "15-year-old detained over French govt agency data breach",
+      "excerpt": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country's agency for issuing and managing administrative documents. [...]",
+      "date": "2026-05-01",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/"
+    },
+    {
+      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
+      "excerpt": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U.S. companies in BlackCat (ALPHV) ransomware...",
+      "date": "2026-05-01",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/"
+    },
+    {
+      "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
+      "excerpt": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code. It said it \"recently identified\" the compromise of its source...",
+      "date": "2026-05-02",
+      "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html"
+      "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html"
     }
   ]
 }
