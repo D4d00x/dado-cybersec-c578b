@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T07:17:51.033Z",
+  "lastUpdated": "2026-05-03T07:45:26.409Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -8,6 +8,14 @@
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v15.html"
+    },
+    {
+      "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
+      "excerpt": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
+      "date": "2026-05-02",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/"
     },
     {
       "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
@@ -34,20 +42,12 @@
       "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/"
     },
     {
-      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
-      "excerpt": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U.S. companies in BlackCat (ALPHV) ransomware...",
-      "date": "2026-05-01",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/"
-    },
-    {
-      "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
-      "excerpt": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code. It said it \"recently identified\" the compromise of its source...",
-      "date": "2026-05-02",
+      "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV)...",
+      "date": "2026-05-03",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html"
+      "link": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html"
     }
   ]
 }
