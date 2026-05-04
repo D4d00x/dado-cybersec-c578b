@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T07:45:26.409Z",
+  "lastUpdated": "2026-05-04T08:14:10.643Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.15",
@@ -42,12 +42,12 @@
       "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/"
     },
     {
-      "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV)...",
-      "date": "2026-05-03",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html"
+      "title": "Patchtisdag april 2026 – samlad information om månadens säkerhetsuppdateringar",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för april. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Adobe, Cisco, SAP och Fortinet har publicerat...",
+      "date": "2026-04-14",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/04/patchtisdag-april-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
     }
   ]
 }
