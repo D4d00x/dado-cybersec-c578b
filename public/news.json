@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-05-06T08:04:23.418Z",
+  "lastUpdated": "2026-05-07T08:11:54.176Z",
   "articles": [
     {
-      "title": "CERT-SE:s veckobrev v.15",
-      "excerpt": "I veckobrevet kan du bland annat läsa om en kritisk sårbarhet i Fortinet FortiClient EMS och om att säkerhetstjänster i bland annat Europa och USA varnar för att hotaktören APT28 utnyttjar sårbara...",
-      "date": "2026-04-10",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/04/cert-se-veckobrev-v15.html"
+      "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
+      "excerpt": "Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks. [...]",
+      "date": "2026-05-06",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/"
     },
     {
-      "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
-      "excerpt": "Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck. The vulnerability...",
+      "title": "Kritisk sårbarhet i PAN-OS",
+      "excerpt": "Palo Alto Networks har publicerat information om en kritisk sårbarhet i PAN-OS. Sårbarheten, CVE-2026-0300, har fått en CVSS-klassning på 9.3 och påverkar USER-ID Autentication Portal. [1]",
+      "date": "2026-05-06",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-pan-os.html"
+    },
+    {
+      "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
+      "excerpt": "The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false...",
+      "date": "2026-05-06",
+      "category": "Regelverk",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html"
+    },
+    {
+      "title": "Why ransomware attacks succeed even when backups exist",
+      "excerpt": "Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]",
+      "date": "2026-05-06",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/"
+    },
+    {
+      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
+      "excerpt": "The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on Microsoft Teams social engineering to gain access and establish persistence. [...]",
+      "date": "2026-05-06",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/"
+    },
+    {
+      "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
+      "excerpt": "The Apache Software Foundation (ASF) has released security updates to address several security vulnerabilities in the HTTP Server, including a severe vulnerability that could potentially lead to...",
       "date": "2026-05-05",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html"
-    },
-    {
-      "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
-      "excerpt": "While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving...",
-      "date": "2026-05-05",
-      "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html"
-    },
-    {
-      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
-      "excerpt": "A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]",
-      "date": "2026-05-05",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/"
-    },
-    {
-      "title": "FTC to ban data broker Kochava from selling Americans’ location data",
-      "excerpt": "The FTC will ban data broker Kochava and its subsidiary, Collective Data Solutions (CDS), from selling location data without consumers' explicit consent to settle charges alleging that it sold...",
-      "date": "2026-05-05",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/"
-    },
-    {
-      "title": "BM26-001 Kritisk sårbarhet i cPanel",
-      "excerpt": "cPanel har publicerat information om en kritisk sårbarhet i deras produkter cPanel, WHM samt WP Squared. [1] Sårbarheten, CVE-2026-41940, har fått en CVSS-klassning på 9.8. [2]",
-      "date": "2026-04-30",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/04/kritisk-sarbarhet-i-cpanel.html"
+      "link": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html"
     }
   ]
 }
