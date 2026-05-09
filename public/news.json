@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-08T07:13:42.900Z",
+  "lastUpdated": "2026-05-09T07:30:00.385Z",
   "articles": [
+    {
+      "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
+      "excerpt": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
+      "date": "2026-05-08",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/"
+    },
     {
       "title": "Kritisk sårbarhet i PAN-OS",
       "excerpt": "Palo Alto Networks har publicerat information om en kritisk sårbarhet i PAN-OS. Sårbarheten, CVE-2026-0300, har fått en CVSS-klassning på 9.3 och påverkar USER-ID Autentication Portal. [1]",
@@ -10,44 +18,36 @@
       "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-pan-os.html"
     },
     {
-      "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
-      "excerpt": "Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
-      "date": "2026-05-07",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/"
-    },
-    {
-      "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
-      "excerpt": "Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone....",
-      "date": "2026-05-07",
+      "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
+      "excerpt": "Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick...",
+      "date": "2026-05-08",
       "category": "Nyheter",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html"
+      "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html"
     },
     {
-      "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls",
-      "excerpt": "Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional...",
-      "date": "2026-05-07",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/"
-    },
-    {
-      "title": "Americans sentenced for running 'laptop farms' for North Korea",
-      "excerpt": "Two U.S. nationals were sentenced to 18 months in prison each for operating so-called laptop farms that helped North Korean IT workers fraudulently obtain remote employment at nearly 70 American...",
-      "date": "2026-05-07",
+      "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
+      "excerpt": "A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise...",
+      "date": "2026-05-08",
       "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html"
     },
     {
-      "title": "Crypto gang member gets 6.5 years for role in $230 million heist",
-      "excerpt": "A 20-year-old California man was sentenced to 78 months in prison for serving as a home invader and money launderer in a criminal ring that stole over $250 million in cryptocurrency. [...]",
-      "date": "2026-05-07",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/"
+      "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
+      "excerpt": "The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report...",
+      "date": "2026-05-08",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html"
+    },
+    {
+      "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
+      "excerpt": "Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\"...",
+      "date": "2026-05-08",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html"
     }
   ]
 }
