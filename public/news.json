@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-05-10T07:54:15.329Z",
+  "lastUpdated": "2026-05-11T08:56:03.917Z",
   "articles": [
     {
-      "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
-      "excerpt": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
-      "date": "2026-05-08",
+      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+      "excerpt": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory....",
+      "date": "2026-05-10",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html"
     },
     {
       "title": "Kritisk sårbarhet i PAN-OS",
@@ -18,36 +18,36 @@
       "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-pan-os.html"
     },
     {
-      "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
-      "excerpt": "Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick...",
-      "date": "2026-05-08",
+      "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
+      "excerpt": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to...",
+      "date": "2026-05-11",
       "category": "Nyheter",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html"
+      "link": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html"
     },
     {
-      "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
-      "excerpt": "A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise...",
-      "date": "2026-05-08",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html"
-    },
-    {
-      "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
-      "excerpt": "The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report...",
+      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
+      "excerpt": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient...",
       "date": "2026-05-08",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html"
+      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html"
     },
     {
-      "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
-      "excerpt": "Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\"...",
+      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
+      "excerpt": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
       "date": "2026-05-08",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/"
+    },
+    {
+      "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
+      "excerpt": "Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investigate alerts faster and focus on real threats. [...]",
+      "date": "2026-05-08",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/"
     }
   ]
 }
