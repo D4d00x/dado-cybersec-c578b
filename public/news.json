@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-05-12T08:22:39.808Z",
+  "lastUpdated": "2026-05-13T08:31:45.113Z",
   "articles": [
-    {
-      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
-      "excerpt": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory....",
-      "date": "2026-05-10",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html"
-    },
     {
       "title": "Kritisk sårbarhet i PAN-OS",
       "excerpt": "Palo Alto Networks har publicerat information om en kritisk sårbarhet i PAN-OS. Sårbarheten, CVE-2026-0300, har fått en CVSS-klassning på 9.3 och påverkar USER-ID Autentication Portal. [1]",
@@ -18,36 +10,44 @@
       "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-pan-os.html"
     },
     {
-      "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
-      "excerpt": "Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a \"cross-industry effort\" to replace traditional SMS...",
+      "title": "Signal adds security warnings for social engineering, phishing attacks",
+      "excerpt": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
       "date": "2026-05-12",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html"
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/"
     },
     {
-      "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
-      "excerpt": "Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago...",
-      "date": "2026-05-11",
-      "category": "Nyheter",
+      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
+      "excerpt": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of...",
+      "date": "2026-05-13",
+      "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html"
+      "link": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html"
     },
     {
-      "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
-      "excerpt": "Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch...",
-      "date": "2026-05-11",
+      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
+      "excerpt": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail...",
+      "date": "2026-05-12",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html"
+      "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html"
     },
     {
-      "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
-      "excerpt": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to...",
-      "date": "2026-05-11",
-      "category": "Nyheter",
+      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
+      "excerpt": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with...",
+      "date": "2026-05-12",
+      "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html"
+      "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html"
+    },
+    {
+      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
+      "excerpt": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI...",
+      "date": "2026-05-12",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html"
     }
   ]
 }
