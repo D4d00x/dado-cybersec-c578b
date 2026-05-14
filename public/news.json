@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-13T08:31:45.113Z",
+  "lastUpdated": "2026-05-14T08:25:43.738Z",
   "articles": [
+    {
+      "title": "New critical Exim mailer flaw allows remote code execution",
+      "excerpt": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
+      "date": "2026-05-13",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/"
+    },
     {
       "title": "Kritisk sårbarhet i PAN-OS",
       "excerpt": "Palo Alto Networks har publicerat information om en kritisk sårbarhet i PAN-OS. Sårbarheten, CVE-2026-0300, har fått en CVSS-klassning på 9.3 och påverkar USER-ID Autentication Portal. [1]",
@@ -10,44 +18,36 @@
       "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-pan-os.html"
     },
     {
-      "title": "Signal adds security warnings for social engineering, phishing attacks",
-      "excerpt": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
-      "date": "2026-05-12",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/"
-    },
-    {
-      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
-      "excerpt": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of...",
-      "date": "2026-05-13",
+      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+      "excerpt": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability,...",
+      "date": "2026-05-14",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html"
+      "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html"
     },
     {
-      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
-      "excerpt": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail...",
-      "date": "2026-05-12",
+      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
+      "excerpt": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300) that allows attackers to run malicious code...",
+      "date": "2026-05-14",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/"
     },
     {
-      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
-      "excerpt": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with...",
+      "title": "Patchtisdag maj 2026 – samlad information om månadens säkerhetsuppdateringar",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för maj. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Fortinet, SAP, Ivanti och Adobe har publicerat...",
       "date": "2026-05-12",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html"
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/05/patchtisdag-maj-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
     },
     {
-      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
-      "excerpt": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI...",
-      "date": "2026-05-12",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html"
+      "title": "Sårbarhet i Apache HTTP Server 2.4",
+      "excerpt": "Apache Software Foundation har publicerat information om en allvarlig sårbarhet i Apache HTTP Server. Sårbarheten, CVE-2026-23918, har fått en CVSS 3.1-klassning på 8.8. [2]",
+      "date": "2026-05-06",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/05/allvarlig-sarbarhet-i-apache.html"
     }
   ]
 }
