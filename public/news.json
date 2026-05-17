@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T07:46:57.614Z",
+  "lastUpdated": "2026-05-17T08:07:42.665Z",
   "articles": [
     {
       "title": "Kritisk sårbarhet i Cisco Catalyst SD-WAN Controller och SD-WAN Manager",
@@ -34,20 +34,20 @@
       "link": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/"
     },
     {
-      "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
-      "excerpt": "The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine. Active since at least 2016, Ghostwriter has been...",
-      "date": "2026-05-14",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html"
-    },
-    {
       "title": "Patchtisdag maj 2026 – samlad information om månadens säkerhetsuppdateringar",
       "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för maj. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Fortinet, SAP, Ivanti och Adobe har publicerat...",
       "date": "2026-05-12",
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/05/patchtisdag-maj-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
+    },
+    {
+      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
+      "excerpt": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase. \"Our investigation has...",
+      "date": "2026-05-17",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html"
     }
   ]
 }
