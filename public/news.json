@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T08:07:42.665Z",
+  "lastUpdated": "2026-05-18T09:36:59.950Z",
   "articles": [
     {
       "title": "Kritisk sårbarhet i Cisco Catalyst SD-WAN Controller och SD-WAN Manager",
@@ -10,12 +10,12 @@
       "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-cisco-sd-wan.html"
     },
     {
-      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
-      "excerpt": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS)...",
-      "date": "2026-05-15",
+      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
+      "excerpt": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems. [...]",
+      "date": "2026-05-18",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/"
+      "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/"
     },
     {
       "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
@@ -34,20 +34,20 @@
       "link": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/"
     },
     {
-      "title": "Patchtisdag maj 2026 – samlad information om månadens säkerhetsuppdateringar",
-      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för maj. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Fortinet, SAP, Ivanti och Adobe har publicerat...",
-      "date": "2026-05-12",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/05/patchtisdag-maj-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
-    },
-    {
       "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
       "excerpt": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase. \"Our investigation has...",
       "date": "2026-05-17",
       "category": "Hotbild",
       "source": "The Hacker News",
       "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html"
+    },
+    {
+      "title": "Microsoft confirms Windows 11 security update install issues",
+      "excerpt": "Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors. [...]",
+      "date": "2026-05-18",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/"
     }
   ]
 }
