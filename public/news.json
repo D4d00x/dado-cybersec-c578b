@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T08:55:55.121Z",
+  "lastUpdated": "2026-05-20T08:51:09.501Z",
   "articles": [
     {
       "title": "Kritisk sårbarhet i Cisco Catalyst SD-WAN Controller och SD-WAN Manager",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-cisco-sd-wan.html"
     },
     {
-      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
-      "excerpt": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems. [...]",
-      "date": "2026-05-18",
+      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
+      "excerpt": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised. It said the scope of the incident is...",
+      "date": "2026-05-20",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/"
-    },
-    {
-      "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
-      "excerpt": "What happens when a phishing email looks clean enough to pass through security, but dangerous enough to expose the business after one click? That is the gap many SOCs still struggle with: the attacks...",
-      "date": "2026-05-18",
-      "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html"
+      "link": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html"
     },
     {
-      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
-      "excerpt": "More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa. [...]",
-      "date": "2026-05-18",
-      "category": "Hotbild",
+      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
+      "excerpt": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
+      "date": "2026-05-20",
+      "category": "Praktiska tips",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/"
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/"
     },
     {
-      "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
-      "excerpt": "The Shai-Hulud malware leaked last week is now used in new attacks on the Node Package Manager (npm) index, as infected packages emerged over the weekend. [...]",
-      "date": "2026-05-18",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/"
+      "title": "CERT-SE:s veckobrev v.19",
+      "excerpt": "I veckans brev kan du läsa om angreppet mot utbildningsplattformen Canvas, som tillhandahålls av det amerikanska företaget Instructure. Företaget har bekräftat att en hotaktör har stulit en mängd...",
+      "date": "2026-05-08",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v19.html"
     },
     {
-      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
-      "excerpt": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
-      "date": "2026-05-18",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/"
+      "title": "Flera sårbarheter i Ivanti Endpoint Manager Mobile (EPMM)",
+      "excerpt": "Ivanti har publicerat information om uppdateringar som åtgärdar fem sårbarheter.",
+      "date": "2026-05-08",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/05/flera-sarbarheter-i-ivanti-endpoint-manager-mobile-EPMM.html"
+    },
+    {
+      "title": "Sårbarhet i Apache HTTP Server 2.4",
+      "excerpt": "Apache Software Foundation har publicerat information om en allvarlig sårbarhet i Apache HTTP Server. Sårbarheten, CVE-2026-23918, har fått en CVSS 3.1-klassning på 8.8. [2]",
+      "date": "2026-05-06",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/05/allvarlig-sarbarhet-i-apache.html"
     }
   ]
 }
