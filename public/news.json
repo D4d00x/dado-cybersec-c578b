@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-20T08:51:09.501Z",
+  "lastUpdated": "2026-05-21T08:54:06.754Z",
   "articles": [
+    {
+      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
+      "excerpt": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or...",
+      "date": "2026-05-21",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html"
+    },
     {
       "title": "Kritisk sårbarhet i Cisco Catalyst SD-WAN Controller och SD-WAN Manager",
       "excerpt": "Cisco har publicerat information om en kritisk sårbarhet som fått den högsta CVSS-klassningen på 10.0. [1] Sårbarheten, CVE-2026-20182, utnyttjas aktivt och CISA har lagt till den i KEV-katalogen...",
@@ -8,14 +16,6 @@
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-cisco-sd-wan.html"
-    },
-    {
-      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
-      "excerpt": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised. It said the scope of the incident is...",
-      "date": "2026-05-20",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html"
     },
     {
       "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
@@ -26,28 +26,28 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/"
     },
     {
-      "title": "CERT-SE:s veckobrev v.19",
-      "excerpt": "I veckans brev kan du läsa om angreppet mot utbildningsplattformen Canvas, som tillhandahålls av det amerikanska företaget Instructure. Företaget har bekräftat att en hotaktör har stulit en mängd...",
-      "date": "2026-05-08",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v19.html"
+      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
+      "excerpt": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a...",
+      "date": "2026-05-21",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html"
     },
     {
-      "title": "Flera sårbarheter i Ivanti Endpoint Manager Mobile (EPMM)",
-      "excerpt": "Ivanti har publicerat information om uppdateringar som åtgärdar fem sårbarheter.",
-      "date": "2026-05-08",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/05/flera-sarbarheter-i-ivanti-endpoint-manager-mobile-EPMM.html"
+      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
+      "excerpt": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft...",
+      "date": "2026-05-21",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html"
     },
     {
-      "title": "Sårbarhet i Apache HTTP Server 2.4",
-      "excerpt": "Apache Software Foundation har publicerat information om en allvarlig sårbarhet i Apache HTTP Server. Sårbarheten, CVE-2026-23918, har fått en CVSS 3.1-klassning på 8.8. [2]",
-      "date": "2026-05-06",
+      "title": "Patchtisdag maj 2026 – samlad information om månadens säkerhetsuppdateringar",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för maj. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Fortinet, SAP, Ivanti och Adobe har publicerat...",
+      "date": "2026-05-12",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/05/allvarlig-sarbarhet-i-apache.html"
+      "link": "https://www.cert.se/2026/05/patchtisdag-maj-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
     }
   ]
 }
