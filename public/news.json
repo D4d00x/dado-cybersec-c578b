@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T08:54:06.754Z",
+  "lastUpdated": "2026-05-22T08:46:53.996Z",
   "articles": [
     {
       "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
@@ -18,12 +18,12 @@
       "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-cisco-sd-wan.html"
     },
     {
-      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
-      "excerpt": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
-      "date": "2026-05-20",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/"
+      "title": "When Identity is the Attack Path",
+      "excerpt": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one...",
+      "date": "2026-05-21",
+      "category": "Regelverk",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html"
     },
     {
       "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
@@ -42,12 +42,12 @@
       "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html"
     },
     {
-      "title": "Patchtisdag maj 2026 – samlad information om månadens säkerhetsuppdateringar",
-      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för maj. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Fortinet, SAP, Ivanti och Adobe har publicerat...",
-      "date": "2026-05-12",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/05/patchtisdag-maj-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
+      "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
+      "excerpt": "Modern crypto drainers don't hack wallets. They trick users into approving malicious transactions. Flare explores how the Lucifer DaaS platform scales wallet theft through phishing and automation....",
+      "date": "2026-05-21",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/"
     }
   ]
 }
