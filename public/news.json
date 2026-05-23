@@ -1,45 +1,21 @@
 {
-  "lastUpdated": "2026-05-22T08:46:53.996Z",
+  "lastUpdated": "2026-05-23T08:04:31.039Z",
   "articles": [
     {
-      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
-      "excerpt": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or...",
-      "date": "2026-05-21",
+      "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
+      "excerpt": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
+      "date": "2026-05-22",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/"
     },
     {
-      "title": "Kritisk sårbarhet i Cisco Catalyst SD-WAN Controller och SD-WAN Manager",
-      "excerpt": "Cisco har publicerat information om en kritisk sårbarhet som fått den högsta CVSS-klassningen på 10.0. [1] Sårbarheten, CVE-2026-20182, utnyttjas aktivt och CISA har lagt till den i KEV-katalogen...",
-      "date": "2026-05-15",
+      "title": "CERT-SE:s veckobrev v.21",
+      "excerpt": "I veckans läsning finns ett urval av nyheter, analyser och rapporter inom cybersäkerhetsområdet från veckan som har gått.",
+      "date": "2026-05-22",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-cisco-sd-wan.html"
-    },
-    {
-      "title": "When Identity is the Attack Path",
-      "excerpt": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one...",
-      "date": "2026-05-21",
-      "category": "Regelverk",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html"
-    },
-    {
-      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
-      "excerpt": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a...",
-      "date": "2026-05-21",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html"
-    },
-    {
-      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
-      "excerpt": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft...",
-      "date": "2026-05-21",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html"
+      "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v21.html"
     },
     {
       "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
@@ -48,6 +24,30 @@
       "category": "Praktiska tips",
       "source": "BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/"
+    },
+    {
+      "title": "Former US execs plead guilty to aiding tech support scammers",
+      "excerpt": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]",
+      "date": "2026-05-22",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/"
+    },
+    {
+      "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
+      "excerpt": "Fraud losses don't stop at chargebacks. False declines, account takeovers, and abuse also damage revenue and trust. IPQS breaks down why fraud teams need broader visibility into risk and customer...",
+      "date": "2026-05-22",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/"
+    },
+    {
+      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
+      "excerpt": "U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infected nearly two million devices worldwide. [...]",
+      "date": "2026-05-22",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/"
     }
   ]
 }
