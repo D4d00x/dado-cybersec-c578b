@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T08:04:31.039Z",
+  "lastUpdated": "2026-05-24T08:14:27.203Z",
   "articles": [
     {
       "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
@@ -18,36 +18,36 @@
       "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v21.html"
     },
     {
-      "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
-      "excerpt": "Modern crypto drainers don't hack wallets. They trick users into approving malicious transactions. Flare explores how the Lucifer DaaS platform scales wallet theft through phishing and automation....",
-      "date": "2026-05-21",
+      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+      "excerpt": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing...",
+      "date": "2026-05-23",
       "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html"
     },
     {
-      "title": "Former US execs plead guilty to aiding tech support scammers",
-      "excerpt": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]",
+      "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
+      "excerpt": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window. \"Using...",
       "date": "2026-05-22",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/"
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html"
     },
     {
-      "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
-      "excerpt": "Fraud losses don't stop at chargebacks. False declines, account takeovers, and abuse also damage revenue and trust. IPQS breaks down why fraud teams need broader visibility into risk and customer...",
+      "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
+      "excerpt": "1 Introduction This article provides a technical analysis of how many Windows kernel mode drivers can be interacted with from user mode without the hardware they were developed for. This work was...",
       "date": "2026-05-22",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/"
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html"
     },
     {
-      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
-      "excerpt": "U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infected nearly two million devices worldwide. [...]",
+      "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+      "excerpt": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation...",
       "date": "2026-05-22",
-      "category": "Nyheter",
+      "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/"
+      "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/"
     }
   ]
 }
