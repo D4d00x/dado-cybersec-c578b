@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T09:44:59.694Z",
+  "lastUpdated": "2026-05-26T09:32:50.571Z",
   "articles": [
     {
       "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
@@ -18,20 +18,28 @@
       "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-cisco-sd-wan.html"
     },
     {
-      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-      "excerpt": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing...",
-      "date": "2026-05-23",
-      "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html"
+      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
+      "excerpt": "Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5087537 May 2026 security update. [...]",
+      "date": "2026-05-26",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/"
     },
     {
-      "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
-      "excerpt": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window. \"Using...",
-      "date": "2026-05-22",
+      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+      "excerpt": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly...",
+      "date": "2026-05-23",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html"
+      "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html"
+    },
+    {
+      "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+      "excerpt": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across...",
+      "date": "2026-05-23",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html"
     },
     {
       "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
@@ -40,14 +48,6 @@
       "category": "Hotbild",
       "source": "BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/"
-    },
-    {
-      "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
-      "excerpt": "Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
-      "date": "2026-05-23",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/"
     }
   ]
 }
