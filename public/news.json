@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T08:14:12.274Z",
+  "lastUpdated": "2026-05-31T08:32:33.833Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.22",
@@ -10,20 +10,20 @@
       "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v22.html"
     },
     {
+      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+      "excerpt": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
+      "date": "2026-05-30",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/"
+    },
+    {
       "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
       "excerpt": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware. \"The campaign...",
       "date": "2026-05-28",
       "category": "Hotbild",
       "source": "The Hacker News",
       "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html"
-    },
-    {
-      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-      "excerpt": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild. The vulnerability, tracked as...",
-      "date": "2026-05-30",
-      "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html"
     },
     {
       "title": "CERT-SE:s veckobrev v.21",
