@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-05-31T08:32:33.833Z",
+  "lastUpdated": "2026-06-01T11:05:11.951Z",
   "articles": [
     {
-      "title": "CERT-SE:s veckobrev v.22",
-      "excerpt": "I veckans läsning finns ett urval av nyheter, analyser och rapporter inom cybersäkerhetsområdet från veckan som har gått.",
-      "date": "2026-05-29",
+      "title": "Kritisk sårbarhet i Cisco Catalyst SD-WAN Controller och SD-WAN Manager",
+      "excerpt": "Cisco har publicerat information om en kritisk sårbarhet som fått den högsta CVSS-klassningen på 10.0. [1] Sårbarheten, CVE-2026-20182, utnyttjas aktivt och CISA har lagt till den i KEV-katalogen...",
+      "date": "2026-05-15",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v22.html"
+      "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-cisco-sd-wan.html"
     },
     {
       "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
@@ -18,12 +18,12 @@
       "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/"
     },
     {
-      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
-      "excerpt": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware. \"The campaign...",
-      "date": "2026-05-28",
+      "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
+      "excerpt": "Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious...",
+      "date": "2026-06-01",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html"
+      "link": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html"
     },
     {
       "title": "CERT-SE:s veckobrev v.21",
