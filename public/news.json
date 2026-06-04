@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-06-03T10:30:45.018Z",
+  "lastUpdated": "2026-06-04T09:40:57.805Z",
   "articles": [
     {
-      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
-      "excerpt": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authentication tokens by tricking users into clicking a...",
+      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+      "excerpt": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You...",
       "date": "2026-06-03",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html"
     },
     {
       "title": "Kritisk sårbarhet i Cisco Catalyst SD-WAN Controller och SD-WAN Manager",
@@ -18,36 +18,36 @@
       "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-cisco-sd-wan.html"
     },
     {
-      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
-      "excerpt": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation. Per...",
-      "date": "2026-06-02",
-      "category": "Praktiska tips",
+      "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
+      "excerpt": "The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and...",
+      "date": "2026-06-04",
+      "category": "Nyheter",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html"
+      "link": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html"
     },
     {
-      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
-      "excerpt": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
-      "date": "2026-06-02",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/"
+      "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
+      "excerpt": "A single poisoned notification from WhatsApp, Slack, SMS, Signal, Instagram, or Messenger could have hijacked Google Gemini's voice assistant on Android and made it open a victim's connected windows,...",
+      "date": "2026-06-03",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html"
     },
     {
-      "title": "CERT-SE:s veckobrev v.22",
-      "excerpt": "I veckans läsning finns ett urval av nyheter, analyser och rapporter inom cybersäkerhetsområdet från veckan som har gått.",
-      "date": "2026-05-29",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v22.html"
-    },
-    {
-      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
-      "excerpt": "Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora. The...",
+      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
+      "excerpt": "Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver a remote access trojan (RAT) named...",
       "date": "2026-06-03",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html"
+      "link": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html"
+    },
+    {
+      "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
+      "excerpt": "A development flag left switched on in production builds of several Microsoft 365 Android apps disabled the check that limits account-token sharing to trusted Microsoft apps. Any other app on the...",
+      "date": "2026-06-03",
+      "category": "Regelverk",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html"
     }
   ]
 }
