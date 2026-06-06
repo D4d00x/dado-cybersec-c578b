@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-05T09:26:57.785Z",
+  "lastUpdated": "2026-06-06T08:22:04.931Z",
   "articles": [
+    {
+      "title": "CERT-SE:s veckobrev v.23",
+      "excerpt": "I veckans brev hittar du läsning om “HTTP/2 Bomb”, en metod för överbelastningsangrepp som kombinerar flera tekniker för att göra servrar otillgängliga. Du hittar även information om EU-kommissionens...",
+      "date": "2026-06-05",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v23.html"
+    },
     {
       "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
       "excerpt": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation....",
@@ -10,44 +18,36 @@
       "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/"
     },
     {
-      "title": "Kritisk sårbarhet i Cisco Catalyst SD-WAN Controller och SD-WAN Manager",
-      "excerpt": "Cisco har publicerat information om en kritisk sårbarhet som fått den högsta CVSS-klassningen på 10.0. [1] Sårbarheten, CVE-2026-20182, utnyttjas aktivt och CISA har lagt till den i KEV-katalogen...",
-      "date": "2026-05-15",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-cisco-sd-wan.html"
-    },
-    {
-      "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook",
-      "excerpt": "Threat actors are actively teaching newcomers how to find, exploit, and profit from vulnerable systems. Flare explores what a popular underground hacking tutorial reveals about modern attacker...",
-      "date": "2026-06-04",
+      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+      "excerpt": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information...",
+      "date": "2026-06-05",
       "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html"
     },
     {
-      "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
-      "excerpt": "Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a complete site...",
+      "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
+      "excerpt": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET. The Slovakian cybersecurity company said it first detected the malware...",
+      "date": "2026-06-05",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html"
+    },
+    {
+      "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
+      "excerpt": "Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff. Recent reports describe thousands of lookalike...",
       "date": "2026-06-05",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html"
+      "link": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html"
     },
     {
-      "title": "CERT-SE:s veckobrev v.22",
-      "excerpt": "I veckans läsning finns ett urval av nyheter, analyser och rapporter inom cybersäkerhetsområdet från veckan som har gått.",
-      "date": "2026-05-29",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v22.html"
-    },
-    {
-      "title": "CERT-SE:s veckobrev v.21",
-      "excerpt": "I veckans läsning finns ett urval av nyheter, analyser och rapporter inom cybersäkerhetsområdet från veckan som har gått.",
-      "date": "2026-05-22",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v21.html"
+      "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
+      "excerpt": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
+      "date": "2026-06-05",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/"
     }
   ]
 }
