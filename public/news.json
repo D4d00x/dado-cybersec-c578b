@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T08:22:04.931Z",
+  "lastUpdated": "2026-06-07T08:42:23.504Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.23",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v23.html"
     },
     {
-      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
-      "excerpt": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation....",
-      "date": "2026-06-05",
+      "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
+      "excerpt": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website. [...]",
+      "date": "2026-06-06",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/"
+      "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/"
     },
     {
-      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
-      "excerpt": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information...",
-      "date": "2026-06-05",
+      "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+      "excerpt": "OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks. The feature is primarily...",
+      "date": "2026-06-06",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html"
+      "link": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html"
     },
     {
-      "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
-      "excerpt": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET. The Slovakian cybersecurity company said it first detected the malware...",
-      "date": "2026-06-05",
-      "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html"
-    },
-    {
-      "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
-      "excerpt": "Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff. Recent reports describe thousands of lookalike...",
-      "date": "2026-06-05",
+      "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U multi-protocol file server software to its Known Exploited...",
+      "date": "2026-06-06",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html"
+      "link": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html"
     },
     {
-      "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
-      "excerpt": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
-      "date": "2026-06-05",
+      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
+      "excerpt": "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all...",
+      "date": "2026-06-06",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html"
+    },
+    {
+      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
+      "excerpt": "Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign. The incident impacted 73 Microsoft repositories across four...",
+      "date": "2026-06-06",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html"
     }
   ]
 }
