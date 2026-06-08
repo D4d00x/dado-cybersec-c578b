@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-06-07T08:42:23.504Z",
+  "lastUpdated": "2026-06-08T10:14:07.219Z",
   "articles": [
     {
-      "title": "CERT-SE:s veckobrev v.23",
-      "excerpt": "I veckans brev hittar du läsning om “HTTP/2 Bomb”, en metod för överbelastningsangrepp som kombinerar flera tekniker för att göra servrar otillgängliga. Du hittar även information om EU-kommissionens...",
-      "date": "2026-06-05",
+      "title": "Kritisk sårbarhet i Cisco Catalyst SD-WAN Controller och SD-WAN Manager",
+      "excerpt": "Cisco har publicerat information om en kritisk sårbarhet som fått den högsta CVSS-klassningen på 10.0. [1] Sårbarheten, CVE-2026-20182, utnyttjas aktivt och CISA har lagt till den i KEV-katalogen...",
+      "date": "2026-05-15",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v23.html"
+      "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-cisco-sd-wan.html"
     },
     {
       "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
@@ -18,36 +18,36 @@
       "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/"
     },
     {
-      "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
-      "excerpt": "OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks. The feature is primarily...",
-      "date": "2026-06-06",
+      "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks",
+      "excerpt": "Microsoft has announced that Visual Studio Code (VS Code) will apply a two-hour delay before extensions for the integrated development environment (IDE) are updated automatically to a newer version...",
+      "date": "2026-06-08",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html"
+      "link": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html"
     },
     {
-      "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U multi-protocol file server software to its Known Exploited...",
-      "date": "2026-06-06",
+      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
+      "excerpt": "Meta has revealed that 20,225 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
+      "date": "2026-06-08",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/"
     },
     {
-      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
-      "excerpt": "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all...",
-      "date": "2026-06-06",
+      "title": "Over 900 US gas station tank gauge systems exposed to attacks",
+      "excerpt": "Over 900 automatic tank gauge (ATG) systems across the United States, used to monitor fuel and chemical storage tanks across various critical infrastructure sectors, have been found exposed online...",
+      "date": "2026-06-05",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/"
     },
     {
-      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
-      "excerpt": "Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign. The incident impacted 73 Microsoft repositories across four...",
-      "date": "2026-06-06",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html"
+      "title": "Patchtisdag maj 2026 – samlad information om månadens säkerhetsuppdateringar",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för maj. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Fortinet, SAP, Ivanti och Adobe har publicerat...",
+      "date": "2026-05-12",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/05/patchtisdag-maj-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
     }
   ]
 }
