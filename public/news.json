@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-06-11T10:02:30.600Z",
+  "lastUpdated": "2026-06-12T09:54:25.622Z",
   "articles": [
     {
-      "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
-      "excerpt": "Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web...",
-      "date": "2026-06-10",
+      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+      "excerpt": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter...",
+      "date": "2026-06-11",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/"
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/"
     },
     {
       "title": "Kritisk sårbarhet i Cisco Catalyst SD-WAN Controller och SD-WAN Manager",
@@ -18,36 +18,36 @@
       "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-cisco-sd-wan.html"
     },
     {
-      "title": "The 5 Best Practices for Secure Identity Verification",
-      "excerpt": "Attackers are increasingly bypassing weak authentication through phishing, MFA fatigue, and service desk social engineering. Specops Software breaks down five best practices for stronger identity...",
-      "date": "2026-06-10",
-      "category": "Praktiska tips",
+      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB)...",
+      "date": "2026-06-11",
+      "category": "Regelverk",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/"
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/"
     },
     {
-      "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
-      "excerpt": "GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats. The changes aim to combat...",
-      "date": "2026-06-11",
+      "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
+      "excerpt": "Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks. Europol, in a statement issued Thursday, said the dismantling of...",
+      "date": "2026-06-12",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html"
+      "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html"
     },
     {
-      "title": "Nottingham University data breach affects over 450,000 students",
-      "excerpt": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
-      "date": "2026-06-11",
+      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued...",
+      "date": "2026-06-12",
+      "category": "Regelverk",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/"
+    },
+    {
+      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
+      "excerpt": "The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]",
+      "date": "2026-06-12",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/"
-    },
-    {
-      "title": "Patchtisdag maj 2026 – samlad information om månadens säkerhetsuppdateringar",
-      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för maj. Nedan finns en sammanställning av de säkerhetsuppdateringar som Microsoft, Fortinet, SAP, Ivanti och Adobe har publicerat...",
-      "date": "2026-05-12",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/05/patchtisdag-maj-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
+      "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/"
     }
   ]
 }
