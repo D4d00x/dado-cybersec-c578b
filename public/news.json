@@ -1,37 +1,21 @@
 {
-  "lastUpdated": "2026-06-12T09:54:25.622Z",
+  "lastUpdated": "2026-06-13T08:44:49.148Z",
   "articles": [
     {
-      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
-      "excerpt": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter...",
-      "date": "2026-06-11",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/"
-    },
-    {
-      "title": "Kritisk sårbarhet i Cisco Catalyst SD-WAN Controller och SD-WAN Manager",
-      "excerpt": "Cisco har publicerat information om en kritisk sårbarhet som fått den högsta CVSS-klassningen på 10.0. [1] Sårbarheten, CVE-2026-20182, utnyttjas aktivt och CISA har lagt till den i KEV-katalogen...",
-      "date": "2026-05-15",
+      "title": "CERT-SE:s veckobrev v.24",
+      "excerpt": "Fortsätt att få våra utskick - För att ytterligare stärka Sveriges motståndskraft inom cybersäkerhet blir CERT-SE en del av Nationellt cybersäkerhetscenter den 1 juli 2026. Det innebär att vi måste...",
+      "date": "2026-06-12",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/05/kritisk-sarbarhet-i-cisco-sd-wan.html"
+      "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v24.html"
     },
     {
-      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB)...",
+      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
+      "excerpt": "The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities...",
       "date": "2026-06-11",
-      "category": "Regelverk",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/"
-    },
-    {
-      "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
-      "excerpt": "Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks. Europol, in a statement issued Thursday, said the dismantling of...",
-      "date": "2026-06-12",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html"
+      "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html"
     },
     {
       "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
@@ -48,6 +32,22 @@
       "category": "Hotbild",
       "source": "BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/"
+    },
+    {
+      "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
+      "excerpt": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend...",
+      "date": "2026-06-13",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html"
+    },
+    {
+      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+      "excerpt": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as...",
+      "date": "2026-06-12",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html"
     }
   ]
 }
