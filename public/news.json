@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T08:44:49.148Z",
+  "lastUpdated": "2026-06-14T08:59:59.455Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.24",
@@ -10,28 +10,12 @@
       "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v24.html"
     },
     {
-      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
-      "excerpt": "The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities...",
-      "date": "2026-06-11",
+      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+      "excerpt": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution. The...",
+      "date": "2026-06-13",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html"
-    },
-    {
-      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued...",
-      "date": "2026-06-12",
-      "category": "Regelverk",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/"
-    },
-    {
-      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
-      "excerpt": "The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]",
-      "date": "2026-06-12",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/"
+      "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html"
     },
     {
       "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
@@ -40,6 +24,22 @@
       "category": "Nyheter",
       "source": "The Hacker News",
       "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html"
+    },
+    {
+      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
+      "excerpt": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]",
+      "date": "2026-06-13",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/"
+    },
+    {
+      "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
+      "excerpt": "The US government has ordered Anthropic to block all foreign nationals from accessing Fable 5 and Mythos 5, forcing the company to suspend both models worldwide. Anthropic is complying but disputes...",
+      "date": "2026-06-13",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/"
     },
     {
       "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
