@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T08:59:59.455Z",
+  "lastUpdated": "2026-06-15T11:42:06.718Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.24",
@@ -18,36 +18,36 @@
       "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html"
     },
     {
-      "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
-      "excerpt": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend...",
-      "date": "2026-06-13",
-      "category": "Nyheter",
+      "title": "Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw",
+      "excerpt": "Palo Alto Networks has revealed that it has observed \"active exploitation\" of a recently disclosed PAN-OS vulnerability by an unknown threat actor to obtain unauthorized access to GlobalProtect...",
+      "date": "2026-06-15",
+      "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html"
+      "link": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html"
     },
     {
-      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
-      "excerpt": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]",
-      "date": "2026-06-13",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/"
+      "title": "CERT-SE:s veckobrev v.23",
+      "excerpt": "I veckans brev hittar du läsning om “HTTP/2 Bomb”, en metod för överbelastningsangrepp som kombinerar flera tekniker för att göra servrar otillgängliga. Du hittar även information om EU-kommissionens...",
+      "date": "2026-06-05",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v23.html"
     },
     {
-      "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
-      "excerpt": "The US government has ordered Anthropic to block all foreign nationals from accessing Fable 5 and Mythos 5, forcing the company to suspend both models worldwide. Anthropic is complying but disputes...",
-      "date": "2026-06-13",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/"
+      "title": "CERT-SE:s veckobrev v.22",
+      "excerpt": "I veckans läsning finns ett urval av nyheter, analyser och rapporter inom cybersäkerhetsområdet från veckan som har gått.",
+      "date": "2026-05-29",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v22.html"
     },
     {
-      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
-      "excerpt": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as...",
-      "date": "2026-06-12",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html"
+      "title": "CERT-SE:s veckobrev v.21",
+      "excerpt": "I veckans läsning finns ett urval av nyheter, analyser och rapporter inom cybersäkerhetsområdet från veckan som har gått.",
+      "date": "2026-05-22",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v21.html"
     }
   ]
 }
