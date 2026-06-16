@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-15T11:42:06.718Z",
+  "lastUpdated": "2026-06-16T10:50:47.635Z",
   "articles": [
+    {
+      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
+      "excerpt": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
+      "date": "2026-06-15",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/"
+    },
     {
       "title": "CERT-SE:s veckobrev v.24",
       "excerpt": "Fortsätt att få våra utskick - För att ytterligare stärka Sveriges motståndskraft inom cybersäkerhet blir CERT-SE en del av Nationellt cybersäkerhetscenter den 1 juli 2026. Det innebär att vi måste...",
@@ -10,44 +18,36 @@
       "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v24.html"
     },
     {
-      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
-      "excerpt": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution. The...",
-      "date": "2026-06-13",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html"
-    },
-    {
-      "title": "Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw",
-      "excerpt": "Palo Alto Networks has revealed that it has observed \"active exploitation\" of a recently disclosed PAN-OS vulnerability by an unknown threat actor to obtain unauthorized access to GlobalProtect...",
-      "date": "2026-06-15",
+      "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
+      "excerpt": "Bad actors are exploiting multiple security vulnerabilities in Fortinet FortiSandbox, according to threat intelligence firm Defused Cyber. In a post shared on X, the company said it has observed...",
+      "date": "2026-06-16",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html"
+      "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html"
     },
     {
-      "title": "CERT-SE:s veckobrev v.23",
-      "excerpt": "I veckans brev hittar du läsning om “HTTP/2 Bomb”, en metod för överbelastningsangrepp som kombinerar flera tekniker för att göra servrar otillgängliga. Du hittar även information om EU-kommissionens...",
-      "date": "2026-06-05",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v23.html"
+      "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
+      "excerpt": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware...",
+      "date": "2026-06-16",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html"
     },
     {
-      "title": "CERT-SE:s veckobrev v.22",
-      "excerpt": "I veckans läsning finns ett urval av nyheter, analyser och rapporter inom cybersäkerhetsområdet från veckan som har gått.",
-      "date": "2026-05-29",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v22.html"
+      "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
+      "excerpt": "Cisco has released security updates for a medium-severity security flaw in Catalyst SD-WAN Manager that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-20262,...",
+      "date": "2026-06-16",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html"
     },
     {
-      "title": "CERT-SE:s veckobrev v.21",
-      "excerpt": "I veckans läsning finns ett urval av nyheter, analyser och rapporter inom cybersäkerhetsområdet från veckan som har gått.",
-      "date": "2026-05-22",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v21.html"
+      "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
+      "excerpt": "DragonForce ransomware used a custom malware named 'Backdoor.Turn' to hide command-and-control traffic inside Microsoft Teams relay infrastructure. [...]",
+      "date": "2026-06-16",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/"
     }
   ]
 }
