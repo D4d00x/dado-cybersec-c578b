@@ -1,45 +1,37 @@
 {
-  "lastUpdated": "2026-06-18T10:02:42.579Z",
+  "lastUpdated": "2026-06-19T10:09:26.518Z",
   "articles": [
     {
-      "title": "The Top 10 Attack Surface Exposures in 2026",
-      "excerpt": "Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop — like MongoBleed earlier...",
-      "date": "2026-06-17",
+      "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
+      "excerpt": "Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users. The vulnerability, tracked as...",
+      "date": "2026-06-19",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html"
+      "link": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html"
     },
     {
-      "title": "CERT-SE:s veckobrev v.24",
-      "excerpt": "Fortsätt att få våra utskick - För att ytterligare stärka Sveriges motståndskraft inom cybersäkerhet blir CERT-SE en del av Nationellt cybersäkerhetscenter den 1 juli 2026. Det innebär att vi måste...",
-      "date": "2026-06-12",
+      "title": "CERT-SE:s veckobrev v.25",
+      "excerpt": "Veckobrevet består som vanligt av nyheter och annan läsning inom cybersäkerhetssfären, bland annat om att NCSC har publicerat information om årets nationella cybersäkerhetskonferens “Svensk Cyber...",
+      "date": "2026-06-18",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v24.html"
+      "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v25.html"
     },
     {
-      "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
-      "excerpt": "Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet. The vulnerability has now been assigned the CVE identifier CVE-2026-50656...",
-      "date": "2026-06-17",
-      "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html"
-    },
-    {
-      "title": "Why Account Takeovers Are Rising and How to Stop Them",
-      "excerpt": "Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores how device trust and continuous verification help...",
-      "date": "2026-06-17",
+      "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
+      "excerpt": "The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]",
+      "date": "2026-06-18",
       "category": "Praktiska tips",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/"
+      "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/"
     },
     {
-      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
-      "excerpt": "Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago. [...]",
-      "date": "2026-06-17",
-      "category": "Hotbild",
+      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
+      "excerpt": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]",
+      "date": "2026-06-18",
+      "category": "Praktiska tips",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/"
+      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/"
     },
     {
       "title": "Nu samlas cyberverksamheten hos Nationellt cybersäkerhetscenter – ska ge stärkt motståndskraft",
@@ -48,6 +40,14 @@
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/06/nu-samlas-cyberverksamheten-hos-nationellt-cybersakerhetscenter.html"
+    },
+    {
+      "title": "Patchtisdag juni 2026 – samlad information om månadens säkerhetsuppdateringar",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för juni. Nedan finns en sammanställning av de säkerhetsuppdateringar som Cisco, Microsoft, SAP, Ivanti, Fortinet och Adobe har...",
+      "date": "2026-06-10",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/06/patchtisdag-juni-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
     }
   ]
 }
