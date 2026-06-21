@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T08:38:12.458Z",
+  "lastUpdated": "2026-06-21T09:33:07.003Z",
   "articles": [
     {
       "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
@@ -10,12 +10,12 @@
       "link": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/"
     },
     {
-      "title": "CERT-SE:s veckobrev v.25",
-      "excerpt": "Veckobrevet består som vanligt av nyheter och annan läsning inom cybersäkerhetssfären, bland annat om att NCSC har publicerat information om årets nationella cybersäkerhetskonferens “Svensk Cyber...",
-      "date": "2026-06-18",
+      "title": "CERT-SE:s veckobrev v.24",
+      "excerpt": "Fortsätt att få våra utskick - För att ytterligare stärka Sveriges motståndskraft inom cybersäkerhet blir CERT-SE en del av Nationellt cybersäkerhetscenter den 1 juli 2026. Det innebär att vi måste...",
+      "date": "2026-06-12",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v25.html"
+      "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v24.html"
     },
     {
       "title": "Webinar: How attackers bypass MFA and how defenders can respond",
@@ -26,28 +26,28 @@
       "link": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/"
     },
     {
-      "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
-      "excerpt": "F5 has released security updates to address two critical security flaws in NGINX Open Source that could be exploited to achieve code execution on affected systems. The vulnerabilities are listed...",
-      "date": "2026-06-18",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html"
-    },
-    {
-      "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
-      "excerpt": "The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]",
-      "date": "2026-06-18",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/"
-    },
-    {
       "title": "Nu samlas cyberverksamheten hos Nationellt cybersäkerhetscenter – ska ge stärkt motståndskraft",
       "excerpt": "Den 1 juli övergår cyberverksamheten från Myndigheten för civilt försvar (MCF) till Nationellt cybersäkerhetscenter (NCSC) vid Försvarets radioanstalt (FRA), enligt regeringens beslut den 20 november...",
       "date": "2026-06-12",
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/06/nu-samlas-cyberverksamheten-hos-nationellt-cybersakerhetscenter.html"
+    },
+    {
+      "title": "Patchtisdag juni 2026 – samlad information om månadens säkerhetsuppdateringar",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för juni. Nedan finns en sammanställning av de säkerhetsuppdateringar som Cisco, Microsoft, SAP, Ivanti, Fortinet och Adobe har...",
+      "date": "2026-06-10",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/06/patchtisdag-juni-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
+    },
+    {
+      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
+      "excerpt": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
+      "date": "2026-06-20",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/"
     }
   ]
 }
