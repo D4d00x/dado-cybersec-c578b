@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T09:33:07.003Z",
+  "lastUpdated": "2026-06-22T11:31:02.784Z",
   "articles": [
     {
       "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
@@ -42,12 +42,12 @@
       "link": "https://www.cert.se/2026/06/patchtisdag-juni-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
     },
     {
-      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
-      "excerpt": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
-      "date": "2026-06-20",
+      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
+      "excerpt": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
+      "date": "2026-06-21",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/"
+      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/"
     }
   ]
 }
