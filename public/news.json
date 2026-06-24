@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T08:55:35.992Z",
+  "lastUpdated": "2026-06-24T08:50:38.805Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.24",
@@ -10,6 +10,14 @@
       "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v24.html"
     },
     {
+      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+      "excerpt": "A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]",
+      "date": "2026-06-23",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/"
+    },
+    {
       "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
       "excerpt": "An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]",
       "date": "2026-06-22",
@@ -18,36 +26,28 @@
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/"
     },
     {
-      "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
-      "excerpt": "It’s Monday again. This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking...",
-      "date": "2026-06-22",
+      "title": "CERT-SE:s veckobrev v.25",
+      "excerpt": "Veckobrevet består som vanligt av nyheter och annan läsning inom cybersäkerhetssfären, bland annat om att NCSC har publicerat information om årets nationella cybersäkerhetskonferens “Svensk Cyber...",
+      "date": "2026-06-18",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v25.html"
+    },
+    {
+      "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
+      "excerpt": "Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management...",
+      "date": "2026-06-24",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html"
+      "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html"
     },
     {
-      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
-      "excerpt": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system...",
+      "title": "Information och rekommendationer gällande säkerhet kring brandväggar",
+      "excerpt": "Brandväggar är en återkommande utmaning gällande angrepp från hotaktörer. Nu senast den uppmärksammade FortiBleed-läckan, där hotaktörer utnyttjar läckta inloggningsuppgifter i stor skala. [1] Med...",
       "date": "2026-06-22",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/"
-    },
-    {
-      "title": "Nu samlas cyberverksamheten hos Nationellt cybersäkerhetscenter – ska ge stärkt motståndskraft",
-      "excerpt": "Den 1 juli övergår cyberverksamheten från Myndigheten för civilt försvar (MCF) till Nationellt cybersäkerhetscenter (NCSC) vid Försvarets radioanstalt (FRA), enligt regeringens beslut den 20 november...",
-      "date": "2026-06-12",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/06/nu-samlas-cyberverksamheten-hos-nationellt-cybersakerhetscenter.html"
-    },
-    {
-      "title": "Patchtisdag juni 2026 – samlad information om månadens säkerhetsuppdateringar",
-      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för juni. Nedan finns en sammanställning av de säkerhetsuppdateringar som Cisco, Microsoft, SAP, Ivanti, Fortinet och Adobe har...",
-      "date": "2026-06-10",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/06/patchtisdag-juni-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
+      "link": "https://www.cert.se/2026/06/cert-se-information-gallande-sakerhet-i-brandvaggar.html"
     }
   ]
 }
