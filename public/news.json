@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-06-25T08:44:18.627Z",
+  "lastUpdated": "2026-06-26T08:47:35.989Z",
   "articles": [
-    {
-      "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
-      "excerpt": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]",
-      "date": "2026-06-24",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/"
-    },
     {
       "title": "CERT-SE:s veckobrev v.24",
       "excerpt": "Fortsätt att få våra utskick - För att ytterligare stärka Sveriges motståndskraft inom cybersäkerhet blir CERT-SE en del av Nationellt cybersäkerhetscenter den 1 juli 2026. Det innebär att vi måste...",
@@ -18,36 +10,44 @@
       "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v24.html"
     },
     {
-      "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
-      "excerpt": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury...",
+      "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
+      "excerpt": "Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains. The \"critical exploitable pattern\"...",
       "date": "2026-06-24",
-      "category": "Nyheter",
+      "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html"
+      "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html"
     },
     {
-      "title": "Google releases new privacy controls for activity history, personalization",
-      "excerpt": "Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations. [...]",
-      "date": "2026-06-24",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/"
+      "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
+      "excerpt": "The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed against government and military...",
+      "date": "2026-06-26",
+      "category": "Regelverk",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html"
     },
     {
-      "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
-      "excerpt": "A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over 430,000...",
-      "date": "2026-06-23",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html"
+      "title": "Nu samlas cyberverksamheten hos Nationellt cybersäkerhetscenter – ska ge stärkt motståndskraft",
+      "excerpt": "Den 1 juli övergår cyberverksamheten från Myndigheten för civilt försvar (MCF) till Nationellt cybersäkerhetscenter (NCSC) vid Försvarets radioanstalt (FRA), enligt regeringens beslut den 20 november...",
+      "date": "2026-06-12",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/06/nu-samlas-cyberverksamheten-hos-nationellt-cybersakerhetscenter.html"
     },
     {
-      "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
-      "excerpt": "Security firm AIR built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate accounts....",
-      "date": "2026-06-23",
-      "category": "Nyheter",
+      "title": "Patchtisdag juni 2026 – samlad information om månadens säkerhetsuppdateringar",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för juni. Nedan finns en sammanställning av de säkerhetsuppdateringar som Cisco, Microsoft, SAP, Ivanti, Fortinet och Adobe har...",
+      "date": "2026-06-10",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/06/patchtisdag-juni-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
+    },
+    {
+      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
+      "excerpt": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools...",
+      "date": "2026-06-25",
+      "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html"
+      "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html"
     }
   ]
 }
