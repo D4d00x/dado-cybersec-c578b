@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-06-26T08:47:35.989Z",
+  "lastUpdated": "2026-06-27T08:24:29.104Z",
   "articles": [
     {
-      "title": "CERT-SE:s veckobrev v.24",
+      "title": "CERT-SE:s veckobrev v.26",
       "excerpt": "Fortsätt att få våra utskick - För att ytterligare stärka Sveriges motståndskraft inom cybersäkerhet blir CERT-SE en del av Nationellt cybersäkerhetscenter den 1 juli 2026. Det innebär att vi måste...",
-      "date": "2026-06-12",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v24.html"
-    },
-    {
-      "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
-      "excerpt": "Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains. The \"critical exploitable pattern\"...",
-      "date": "2026-06-24",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html"
-    },
-    {
-      "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
-      "excerpt": "The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed against government and military...",
       "date": "2026-06-26",
-      "category": "Regelverk",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html"
-    },
-    {
-      "title": "Nu samlas cyberverksamheten hos Nationellt cybersäkerhetscenter – ska ge stärkt motståndskraft",
-      "excerpt": "Den 1 juli övergår cyberverksamheten från Myndigheten för civilt försvar (MCF) till Nationellt cybersäkerhetscenter (NCSC) vid Försvarets radioanstalt (FRA), enligt regeringens beslut den 20 november...",
-      "date": "2026-06-12",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/06/nu-samlas-cyberverksamheten-hos-nationellt-cybersakerhetscenter.html"
+      "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v26.html"
     },
     {
-      "title": "Patchtisdag juni 2026 – samlad information om månadens säkerhetsuppdateringar",
-      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för juni. Nedan finns en sammanställning av de säkerhetsuppdateringar som Cisco, Microsoft, SAP, Ivanti, Fortinet och Adobe har...",
-      "date": "2026-06-10",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/06/patchtisdag-juni-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
-    },
-    {
-      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
-      "excerpt": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools...",
-      "date": "2026-06-25",
+      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product...",
+      "date": "2026-06-26",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html"
+      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html"
+    },
+    {
+      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+      "excerpt": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and...",
+      "date": "2026-06-26",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html"
+    },
+    {
+      "title": "Guardian Agents: The Next Layer of Identity Governance",
+      "excerpt": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to...",
+      "date": "2026-06-26",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html"
+    },
+    {
+      "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
+      "excerpt": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company...",
+      "date": "2026-06-26",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/"
+    },
+    {
+      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
+      "excerpt": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and...",
+      "date": "2026-06-26",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/"
     }
   ]
 }
