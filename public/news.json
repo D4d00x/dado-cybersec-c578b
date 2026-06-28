@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T08:24:29.104Z",
+  "lastUpdated": "2026-06-28T08:38:16.077Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.26",
@@ -16,6 +16,14 @@
       "category": "Hotbild",
       "source": "The Hacker News",
       "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html"
+    },
+    {
+      "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
+      "excerpt": "OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S. government. While...",
+      "date": "2026-06-27",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html"
     },
     {
       "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
@@ -40,14 +48,6 @@
       "category": "Hotbild",
       "source": "BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/"
-    },
-    {
-      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
-      "excerpt": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and...",
-      "date": "2026-06-26",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/"
     }
   ]
 }
