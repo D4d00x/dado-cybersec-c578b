@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-29T10:18:33.102Z",
+  "lastUpdated": "2026-06-30T08:53:15.061Z",
   "articles": [
+    {
+      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
+      "excerpt": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the...",
+      "date": "2026-06-29",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/"
+    },
     {
       "title": "CERT-SE:s veckobrev v.26",
       "excerpt": "Fortsätt att få våra utskick - För att ytterligare stärka Sveriges motståndskraft inom cybersäkerhet blir CERT-SE en del av Nationellt cybersäkerhetscenter den 1 juli 2026. Det innebär att vi måste...",
@@ -10,44 +18,36 @@
       "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v26.html"
     },
     {
-      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively...",
-      "date": "2026-06-26",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/"
+      "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
+      "excerpt": "WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform. The optional...",
+      "date": "2026-06-29",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html"
     },
     {
-      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-      "excerpt": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible...",
+      "title": "Why Post-Quantum Cryptography Starts With Credentials",
+      "excerpt": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no...",
+      "date": "2026-06-29",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html"
+    },
+    {
+      "title": "WhatsApp rolls out usernames to help users hide their phone number",
+      "excerpt": "WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]",
       "date": "2026-06-29",
       "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/"
     },
     {
-      "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
-      "excerpt": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on...",
-      "date": "2026-06-26",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html"
-    },
-    {
-      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
-      "excerpt": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in...",
-      "date": "2026-06-26",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html"
-    },
-    {
-      "title": "FBI: Russian hackers now target Signal backup recovery keys",
-      "excerpt": "The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access...",
-      "date": "2026-06-26",
+      "title": "Microsoft extends Windows Server 2022 hotpatching until October 2027",
+      "excerpt": "Microsoft has extended Windows Server 2022 hotpatching until October 2027, one year after the mainstream end date of October 2026. [...]",
+      "date": "2026-06-29",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/"
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/"
     }
   ]
 }
