@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-07-01T09:26:32.644Z",
+  "lastUpdated": "2026-07-02T08:39:27.571Z",
   "articles": [
     {
-      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
-      "excerpt": "Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner. The activity has been found to weaponize...",
-      "date": "2026-06-30",
+      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+      "excerpt": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC)...",
+      "date": "2026-07-02",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html"
+      "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html"
     },
     {
       "title": "CERT-SE:s veckobrev v.26",
@@ -18,36 +18,36 @@
       "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v26.html"
     },
     {
-      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
-      "excerpt": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to...",
+      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
+      "excerpt": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a...",
       "date": "2026-07-01",
       "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/"
+    },
+    {
+      "title": "DHS confirms hackers breached HSIN info-sharing platform",
+      "excerpt": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state,...",
+      "date": "2026-07-01",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/"
+    },
+    {
+      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog,...",
+      "date": "2026-07-02",
+      "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html"
+      "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html"
     },
     {
-      "title": "CERT-SE:s veckobrev v.25",
-      "excerpt": "Veckobrevet består som vanligt av nyheter och annan läsning inom cybersäkerhetssfären, bland annat om att NCSC har publicerat information om årets nationella cybersäkerhetskonferens “Svensk Cyber...",
-      "date": "2026-06-18",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v25.html"
-    },
-    {
-      "title": "CERT-SE:s veckobrev v.23",
-      "excerpt": "I veckans brev hittar du läsning om “HTTP/2 Bomb”, en metod för överbelastningsangrepp som kombinerar flera tekniker för att göra servrar otillgängliga. Du hittar även information om EU-kommissionens...",
-      "date": "2026-06-05",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v23.html"
-    },
-    {
-      "title": "CERT-SE:s veckobrev v.22",
-      "excerpt": "I veckans läsning finns ett urval av nyheter, analyser och rapporter inom cybersäkerhetsområdet från veckan som har gått.",
-      "date": "2026-05-29",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/05/cert-se-veckobrev-v22.html"
+      "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
+      "excerpt": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]",
+      "date": "2026-07-02",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/"
     }
   ]
 }
