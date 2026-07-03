@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T08:39:27.571Z",
+  "lastUpdated": "2026-07-03T08:45:38.305Z",
   "articles": [
     {
       "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
@@ -18,28 +18,28 @@
       "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v26.html"
     },
     {
-      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
-      "excerpt": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a...",
-      "date": "2026-07-01",
+      "title": "Google loses final appeal to overturn €4.1 billion EU fine",
+      "excerpt": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser...",
+      "date": "2026-07-02",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/"
+    },
+    {
+      "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
+      "excerpt": "ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
+      "date": "2026-07-02",
       "category": "Praktiska tips",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/"
+      "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/"
     },
     {
-      "title": "DHS confirms hackers breached HSIN info-sharing platform",
-      "excerpt": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state,...",
-      "date": "2026-07-01",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/"
-    },
-    {
-      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog,...",
+      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
+      "excerpt": "Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering. [...]",
       "date": "2026-07-02",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html"
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/"
     },
     {
       "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
