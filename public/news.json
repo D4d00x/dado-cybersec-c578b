@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-07-03T08:45:38.305Z",
+  "lastUpdated": "2026-07-04T08:20:52.256Z",
   "articles": [
-    {
-      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
-      "excerpt": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC)...",
-      "date": "2026-07-02",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html"
-    },
     {
       "title": "CERT-SE:s veckobrev v.26",
       "excerpt": "Fortsätt att få våra utskick - För att ytterligare stärka Sveriges motståndskraft inom cybersäkerhet blir CERT-SE en del av Nationellt cybersäkerhetscenter den 1 juli 2026. Det innebär att vi måste...",
@@ -16,6 +8,14 @@
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v26.html"
+    },
+    {
+      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
+      "excerpt": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing...",
+      "date": "2026-07-03",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html"
     },
     {
       "title": "Google loses final appeal to overturn €4.1 billion EU fine",
@@ -42,12 +42,12 @@
       "link": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/"
     },
     {
-      "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
-      "excerpt": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]",
-      "date": "2026-07-02",
+      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+      "excerpt": "Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws...",
+      "date": "2026-07-03",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html"
     }
   ]
 }
