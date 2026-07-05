@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T08:20:52.256Z",
+  "lastUpdated": "2026-07-05T08:38:15.589Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.26",
@@ -34,20 +34,20 @@
       "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/"
     },
     {
-      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
-      "excerpt": "Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering. [...]",
-      "date": "2026-07-02",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/"
-    },
-    {
-      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
-      "excerpt": "Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws...",
-      "date": "2026-07-03",
+      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
+      "excerpt": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the...",
+      "date": "2026-07-04",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html"
+      "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html"
+    },
+    {
+      "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
+      "excerpt": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome...",
+      "date": "2026-07-04",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html"
     }
   ]
 }
