@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T08:38:15.589Z",
+  "lastUpdated": "2026-07-06T09:52:18.914Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.26",
@@ -18,6 +18,22 @@
       "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html"
     },
     {
+      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
+      "excerpt": "Researchers found a flaw in Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a...",
+      "date": "2026-07-06",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html"
+    },
+    {
+      "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
+      "excerpt": "A new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed...",
+      "date": "2026-07-03",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/"
+    },
+    {
       "title": "Google loses final appeal to overturn €4.1 billion EU fine",
       "excerpt": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser...",
       "date": "2026-07-02",
@@ -32,22 +48,6 @@
       "category": "Praktiska tips",
       "source": "BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/"
-    },
-    {
-      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
-      "excerpt": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the...",
-      "date": "2026-07-04",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html"
-    },
-    {
-      "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
-      "excerpt": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome...",
-      "date": "2026-07-04",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html"
     }
   ]
 }
