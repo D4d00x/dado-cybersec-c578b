@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T09:52:18.914Z",
+  "lastUpdated": "2026-07-07T09:20:26.460Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.26",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v26.html"
     },
     {
-      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
-      "excerpt": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing...",
-      "date": "2026-07-03",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html"
-    },
-    {
-      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-      "excerpt": "Researchers found a flaw in Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a...",
+      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+      "excerpt": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig. The vulnerability in question is CVE-2026-20896 (CVSS...",
       "date": "2026-07-06",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html"
-    },
-    {
-      "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
-      "excerpt": "A new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed...",
-      "date": "2026-07-03",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html"
     },
     {
-      "title": "Google loses final appeal to overturn €4.1 billion EU fine",
-      "excerpt": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser...",
-      "date": "2026-07-02",
+      "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
+      "excerpt": "Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]",
+      "date": "2026-07-07",
       "category": "Nyheter",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/"
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/"
     },
     {
-      "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
-      "excerpt": "ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
-      "date": "2026-07-02",
+      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+      "excerpt": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka...",
+      "date": "2026-07-06",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html"
+    },
+    {
+      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+      "excerpt": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and tracked as...",
+      "date": "2026-07-06",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html"
+    },
+    {
+      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
+      "excerpt": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from...",
+      "date": "2026-07-06",
       "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html"
     }
   ]
 }
