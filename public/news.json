@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T08:05:20.442Z",
+  "lastUpdated": "2026-07-09T09:22:31.030Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.26",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v26.html"
     },
     {
-      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
-      "excerpt": "A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project. From...",
-      "date": "2026-07-07",
+      "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
+      "excerpt": "American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year. [...]",
+      "date": "2026-07-09",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/"
     },
     {
-      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
-      "excerpt": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking...",
-      "date": "2026-07-07",
+      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+      "excerpt": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and...",
+      "date": "2026-07-08",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html"
+      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html"
     },
     {
-      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
-      "excerpt": "A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per...",
-      "date": "2026-07-07",
+      "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
+      "excerpt": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it...",
+      "date": "2026-07-08",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html"
+      "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html"
     },
     {
-      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
-      "excerpt": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown. The attacker needs only to open a...",
-      "date": "2026-07-07",
+      "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
+      "excerpt": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures. The activity cluster, tracked by Elastic...",
+      "date": "2026-07-08",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html"
+      "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html"
     },
     {
-      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
-      "excerpt": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of...",
-      "date": "2026-07-07",
+      "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
+      "excerpt": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]",
+      "date": "2026-07-08",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/"
     }
   ]
 }
