@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T07:29:59.302Z",
+  "lastUpdated": "2026-07-12T07:56:10.884Z",
   "articles": [
     {
       "title": "Hackers exploit critical auth bypass in Gitea Docker image",
@@ -42,12 +42,12 @@
       "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/"
     },
     {
-      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
-      "excerpt": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external...",
-      "date": "2026-07-10",
-      "category": "Hotbild",
+      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+      "excerpt": "The jscrambler npm package was compromised, and simply installing its 8.14.0 release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a preinstall hook...",
+      "date": "2026-07-11",
+      "category": "Nyheter",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html"
+      "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html"
     }
   ]
 }
