@@ -1,13 +1,21 @@
 {
-  "lastUpdated": "2026-07-15T07:47:38.124Z",
+  "lastUpdated": "2026-07-16T07:52:30.558Z",
   "articles": [
     {
-      "title": "Skadliga npm-paket",
-      "excerpt": "Ett koordinerat leveranskedjeangrepp har drabbat separata AsyncAPI GitHub-repon. Angripare har utnyttjat en sårbarhet i GitHub Actions. [1]",
-      "date": "2026-07-14",
+      "title": "Kritiska sårbarheter i SonicWall SMA1000",
+      "excerpt": "SonicWall har publicerat säkerhetsuppdateringar gällande två sårbarheter (CVE-2026-15409 och CVE-2026-15410) i SMA1000-serien. [1] CISA har lagt till dessa sårbarheter i KEV-katalogen (Known...",
+      "date": "2026-07-15",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/07/skadliga-npm-paket.html"
+      "link": "https://www.cert.se/2026/07/kritiska-sarbarheter-i-sonicwall.html"
+    },
+    {
+      "title": "Zoom warns of critical account takeover vulnerability",
+      "excerpt": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
+      "date": "2026-07-15",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/"
     },
     {
       "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
@@ -26,20 +34,12 @@
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/"
     },
     {
-      "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
-      "excerpt": "Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly...",
-      "date": "2026-07-14",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/"
-    },
-    {
-      "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
-      "excerpt": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command...",
+      "title": "Patchtisdag juli 2026 – samlad information om månadens säkerhetsuppdateringar",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för juli. Nedan finns en sammanställning av de säkerhetsuppdateringar som Cisco, Microsoft, SAP, Ivanti, Fortinet och Adobe har...",
       "date": "2026-07-15",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html"
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/07/patchtisdag-juli-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
     },
     {
       "title": "CERT-SE:s veckobrev v.25",
