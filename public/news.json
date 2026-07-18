@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T07:49:42.007Z",
+  "lastUpdated": "2026-07-18T07:24:35.847Z",
   "articles": [
     {
       "title": "Kritiska sårbarheter i SonicWall SMA1000",
@@ -10,28 +10,36 @@
       "link": "https://www.cert.se/2026/07/kritiska-sarbarheter-i-sonicwall.html"
     },
     {
-      "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
-      "excerpt": "CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]",
-      "date": "2026-07-16",
+      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
+      "excerpt": "A security researcher using the \"Nightmare Eclipse\" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
+      "date": "2026-07-17",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/"
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/"
     },
     {
-      "title": "20+ Hijacked Government Websites Became an Attack Channel",
-      "excerpt": "More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of interactive malware...",
-      "date": "2026-07-16",
-      "category": "Praktiska tips",
+      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+      "excerpt": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job...",
+      "date": "2026-07-17",
+      "category": "Regelverk",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html"
+      "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html"
     },
     {
-      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
-      "excerpt": "The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the...",
-      "date": "2026-07-16",
+      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+      "excerpt": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov. His wife, Maria...",
+      "date": "2026-07-17",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html"
+    },
+    {
+      "title": "Ernst & Young discloses data breach after support system hack",
+      "excerpt": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
+      "date": "2026-07-17",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/"
+      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/"
     },
     {
       "title": "CISA urges immediate action on actively exploited Fortinet flaws",
@@ -40,14 +48,6 @@
       "category": "Hotbild",
       "source": "BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/"
-    },
-    {
-      "title": "Information och rekommendationer gällande säkerhet kring brandväggar",
-      "excerpt": "Brandväggar är en återkommande utmaning gällande angrepp från hotaktörer. Nu senast den uppmärksammade FortiBleed-läckan, där hotaktörer utnyttjar läckta inloggningsuppgifter i stor skala. [1] Med...",
-      "date": "2026-06-22",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/06/cert-se-information-gallande-sakerhet-i-brandvaggar.html"
     }
   ]
 }
