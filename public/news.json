@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T07:24:35.847Z",
+  "lastUpdated": "2026-07-19T07:55:47.233Z",
   "articles": [
     {
       "title": "Kritiska sårbarheter i SonicWall SMA1000",
@@ -10,12 +10,12 @@
       "link": "https://www.cert.se/2026/07/kritiska-sarbarheter-i-sonicwall.html"
     },
     {
-      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
-      "excerpt": "A security researcher using the \"Nightmare Eclipse\" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
-      "date": "2026-07-17",
+      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
+      "excerpt": "7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
+      "date": "2026-07-18",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/"
+      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/"
     },
     {
       "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
@@ -42,12 +42,12 @@
       "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/"
     },
     {
-      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
-      "excerpt": "CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]",
-      "date": "2026-07-17",
-      "category": "Hotbild",
+      "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
+      "excerpt": "As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode explains how on-device age estimation verifies...",
+      "date": "2026-07-18",
+      "category": "Regelverk",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/"
+      "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/"
     }
   ]
 }
