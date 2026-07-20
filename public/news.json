@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T07:55:47.233Z",
+  "lastUpdated": "2026-07-20T08:36:00.346Z",
   "articles": [
     {
       "title": "Kritiska sårbarheter i SonicWall SMA1000",
@@ -10,36 +10,12 @@
       "link": "https://www.cert.se/2026/07/kritiska-sarbarheter-i-sonicwall.html"
     },
     {
-      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
-      "excerpt": "7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
-      "date": "2026-07-18",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/"
-    },
-    {
-      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-      "excerpt": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job...",
-      "date": "2026-07-17",
-      "category": "Regelverk",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html"
-    },
-    {
-      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
-      "excerpt": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov. His wife, Maria...",
-      "date": "2026-07-17",
+      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+      "excerpt": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched...",
+      "date": "2026-07-19",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html"
-    },
-    {
-      "title": "Ernst & Young discloses data breach after support system hack",
-      "excerpt": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
-      "date": "2026-07-17",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/"
+      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html"
     },
     {
       "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
@@ -48,6 +24,30 @@
       "category": "Regelverk",
       "source": "BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/"
+    },
+    {
+      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+      "excerpt": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts....",
+      "date": "2026-07-17",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html"
+    },
+    {
+      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+      "excerpt": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with...",
+      "date": "2026-07-17",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html"
+    },
+    {
+      "title": "Abbott probes two cyber incidents amid extortion claims",
+      "excerpt": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also...",
+      "date": "2026-07-17",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/"
     }
   ]
 }
