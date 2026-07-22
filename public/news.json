@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-07-21T08:04:51.451Z",
+  "lastUpdated": "2026-07-22T08:05:41.595Z",
   "articles": [
     {
-      "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
-      "excerpt": "Two recently disclosed SonicWall SMA1000 vulnerabilities were exploited in zero-day attacks for weeks, allowing threat actors to install custom malware on vulnerable VPN appliances. [...]",
-      "date": "2026-07-20",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/"
+      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+      "excerpt": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments....",
+      "date": "2026-07-21",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html"
     },
     {
       "title": "Kritiska sårbarheter i SonicWall SMA1000",
@@ -18,36 +18,36 @@
       "link": "https://www.cert.se/2026/07/kritiska-sarbarheter-i-sonicwall.html"
     },
     {
-      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
-      "excerpt": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons...",
-      "date": "2026-07-20",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html"
-    },
-    {
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-      "excerpt": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of...",
-      "date": "2026-07-20",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html"
-    },
-    {
-      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-      "excerpt": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet. The...",
-      "date": "2026-07-20",
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "excerpt": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is...",
+      "date": "2026-07-21",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html"
+      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html"
     },
     {
-      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
-      "excerpt": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two...",
-      "date": "2026-07-20",
-      "category": "Praktiska tips",
+      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+      "excerpt": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
+      "date": "2026-07-21",
+      "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/"
+      "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/"
+    },
+    {
+      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+      "excerpt": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on...",
+      "date": "2026-07-21",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/"
+    },
+    {
+      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+      "excerpt": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
+      "date": "2026-07-22",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/"
     }
   ]
 }
