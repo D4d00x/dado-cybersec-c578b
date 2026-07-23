@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-07-22T08:05:41.595Z",
+  "lastUpdated": "2026-07-23T08:08:31.383Z",
   "articles": [
-    {
-      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-      "excerpt": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments....",
-      "date": "2026-07-21",
-      "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html"
-    },
     {
       "title": "Kritiska sårbarheter i SonicWall SMA1000",
       "excerpt": "SonicWall har publicerat säkerhetsuppdateringar gällande två sårbarheter (CVE-2026-15409 och CVE-2026-15410) i SMA1000-serien. [1] CISA har lagt till dessa sårbarheter i KEV-katalogen (Known...",
@@ -18,36 +10,44 @@
       "link": "https://www.cert.se/2026/07/kritiska-sarbarheter-i-sonicwall.html"
     },
     {
-      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
-      "excerpt": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is...",
-      "date": "2026-07-21",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html"
-    },
-    {
-      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
-      "excerpt": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
-      "date": "2026-07-21",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/"
-    },
-    {
-      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
-      "excerpt": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on...",
-      "date": "2026-07-21",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/"
-    },
-    {
-      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
-      "excerpt": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
+      "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
+      "excerpt": "Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]",
       "date": "2026-07-22",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/"
+      "link": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/"
+    },
+    {
+      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
+      "excerpt": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under...",
+      "date": "2026-07-23",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html"
+    },
+    {
+      "title": "Skadliga npm-paket",
+      "excerpt": "Ett koordinerat leveranskedjeangrepp har drabbat separata AsyncAPI GitHub-repon. Angripare har utnyttjat en sårbarhet i GitHub Actions. [1]",
+      "date": "2026-07-14",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/07/skadliga-npm-paket.html"
+    },
+    {
+      "title": "CERT-SE:s veckobrev v.25",
+      "excerpt": "Veckobrevet består som vanligt av nyheter och annan läsning inom cybersäkerhetssfären, bland annat om att NCSC har publicerat information om årets nationella cybersäkerhetskonferens “Svensk Cyber...",
+      "date": "2026-06-18",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/06/cert-se-veckobrev-v25.html"
+    },
+    {
+      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+      "excerpt": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a...",
+      "date": "2026-07-22",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html"
     }
   ]
 }
