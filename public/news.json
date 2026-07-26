@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T07:48:00.869Z",
+  "lastUpdated": "2026-07-26T08:04:30.408Z",
   "articles": [
     {
       "title": "Kritiska sårbarheter i SonicWall SMA1000",
@@ -10,12 +10,20 @@
       "link": "https://www.cert.se/2026/07/kritiska-sarbarheter-i-sonicwall.html"
     },
     {
-      "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-      "excerpt": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an...",
-      "date": "2026-07-24",
+      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+      "excerpt": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can...",
+      "date": "2026-07-25",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html"
+      "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html"
+    },
+    {
+      "title": "OpenAI confirms ChatGPT is down worldwide",
+      "excerpt": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
+      "date": "2026-07-25",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/"
     },
     {
       "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
@@ -24,14 +32,6 @@
       "category": "Nyheter",
       "source": "The Hacker News",
       "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html"
-    },
-    {
-      "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
-      "excerpt": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents...",
-      "date": "2026-07-24",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html"
     },
     {
       "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
