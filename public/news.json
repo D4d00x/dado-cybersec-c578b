@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T08:04:30.408Z",
+  "lastUpdated": "2026-07-27T09:25:07.813Z",
   "articles": [
     {
       "title": "Kritiska sårbarheter i SonicWall SMA1000",
@@ -18,36 +18,36 @@
       "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html"
     },
     {
-      "title": "OpenAI confirms ChatGPT is down worldwide",
-      "excerpt": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
+      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
+      "excerpt": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
+      "date": "2026-07-26",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/"
+    },
+    {
+      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+      "excerpt": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete...",
       "date": "2026-07-25",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/"
-    },
-    {
-      "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
-      "excerpt": "A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet. XBOW's...",
-      "date": "2026-07-24",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html"
-    },
-    {
-      "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
-      "excerpt": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
-      "date": "2026-07-24",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html"
     },
     {
-      "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
-      "excerpt": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and...",
-      "date": "2026-07-24",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/"
+      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+      "excerpt": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3...",
+      "date": "2026-07-25",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html"
+    },
+    {
+      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+      "excerpt": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various...",
+      "date": "2026-07-25",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html"
     }
   ]
 }
