@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-07-28T08:11:31.516Z",
+  "lastUpdated": "2026-07-29T08:15:34.802Z",
   "articles": [
     {
-      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
-      "excerpt": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
-      "date": "2026-07-27",
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "excerpt": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
+      "date": "2026-07-28",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/"
+      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/"
     },
     {
       "title": "Kritiska sårbarheter i SonicWall SMA1000",
@@ -18,36 +18,36 @@
       "link": "https://www.cert.se/2026/07/kritiska-sarbarheter-i-sonicwall.html"
     },
     {
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "excerpt": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
-      "date": "2026-07-26",
+      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+      "excerpt": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity...",
+      "date": "2026-07-28",
       "category": "Praktiska tips",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/"
+      "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/"
     },
     {
-      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
-      "excerpt": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
-      "date": "2026-07-25",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/"
-    },
-    {
-      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-      "excerpt": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents....",
-      "date": "2026-07-27",
-      "category": "Nyheter",
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "excerpt": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment, and also hacked multiple...",
+      "date": "2026-07-29",
+      "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html"
+      "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html"
     },
     {
-      "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
-      "excerpt": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against...",
-      "date": "2026-07-27",
+      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+      "excerpt": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected...",
+      "date": "2026-07-29",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html"
+      "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html"
+    },
+    {
+      "title": "Patchtisdag juli 2026 – samlad information om månadens säkerhetsuppdateringar",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för juli. Nedan finns en sammanställning av de säkerhetsuppdateringar som Cisco, Microsoft, SAP, Ivanti, Fortinet och Adobe har...",
+      "date": "2026-07-15",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/07/patchtisdag-juli-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
     }
   ]
 }
