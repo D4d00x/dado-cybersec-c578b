@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T07:59:57.374Z",
+  "lastUpdated": "2026-08-02T08:02:04.717Z",
   "articles": [
     {
       "title": "Kritiska sårbarheter i SonicWall SMA1000",
@@ -10,12 +10,12 @@
       "link": "https://www.cert.se/2026/07/kritiska-sarbarheter-i-sonicwall.html"
     },
     {
-      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-      "excerpt": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint...",
-      "date": "2026-07-31",
+      "title": "Rails patches critical Active Storage flaw with RCE potential",
+      "excerpt": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution...",
+      "date": "2026-08-01",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/"
     },
     {
       "title": "Amgen says cloud data breach exposed patient health, proprietary info",
