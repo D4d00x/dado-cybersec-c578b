@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T08:02:04.717Z",
+  "lastUpdated": "2026-08-03T08:59:11.089Z",
   "articles": [
     {
       "title": "Kritiska sårbarheter i SonicWall SMA1000",
@@ -18,36 +18,36 @@
       "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/"
     },
     {
+      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
+      "excerpt": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July...",
+      "date": "2026-08-03",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html"
+    },
+    {
+      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
+      "excerpt": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it,...",
+      "date": "2026-08-03",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html"
+    },
+    {
+      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
+      "excerpt": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan,...",
+      "date": "2026-07-31",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html"
+    },
+    {
       "title": "Amgen says cloud data breach exposed patient health, proprietary info",
       "excerpt": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service...",
       "date": "2026-07-31",
       "category": "Praktiska tips",
       "source": "BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/"
-    },
-    {
-      "title": "Arch Linux disables AUR package adoption to stop malware flood",
-      "excerpt": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
-      "date": "2026-07-31",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/"
-    },
-    {
-      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
-      "excerpt": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors'...",
-      "date": "2026-07-31",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/"
-    },
-    {
-      "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
-      "excerpt": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
-      "date": "2026-07-31",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/"
     }
   ]
 }
