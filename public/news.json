@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-08-07T06:57:45.177Z",
+  "lastUpdated": "2026-08-08T06:31:47.475Z",
   "articles": [
     {
-      "title": "Kritiska sårbarheter i SonicWall SMA1000",
-      "excerpt": "SonicWall har publicerat säkerhetsuppdateringar gällande två sårbarheter (CVE-2026-15409 och CVE-2026-15410) i SMA1000-serien. [1] CISA har lagt till dessa sårbarheter i KEV-katalogen (Known...",
-      "date": "2026-07-15",
+      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
+      "excerpt": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
+      "date": "2026-08-07",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/"
+    },
+    {
+      "title": "CERT-SE:s veckobrev v.32",
+      "excerpt": "CERT-SE:s veckobrev är tillbaka från sommaruppehållet. Sommaren har bestått av flera förändringar, såsom att CERT-SE sedan den 1 juli är en del av Nationellt cybersäkerhetscenter (NCSC) vid...",
+      "date": "2026-08-07",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/07/kritiska-sarbarheter-i-sonicwall.html"
+      "link": "https://www.cert.se/2026/08/cert-se-veckobrev-v32.html"
     },
     {
-      "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
-      "excerpt": "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every...",
-      "date": "2026-08-06",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html"
-    },
-    {
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
-      "excerpt": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security...",
-      "date": "2026-08-06",
+      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
+      "excerpt": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000...",
+      "date": "2026-08-07",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html"
+      "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html"
     },
     {
-      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
-      "excerpt": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the...",
-      "date": "2026-08-06",
+      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
+      "excerpt": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft...",
+      "date": "2026-08-07",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html"
+      "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html"
     },
     {
-      "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
-      "excerpt": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network....",
-      "date": "2026-08-06",
+      "title": "Unlimited Technology Systems breach impacts 3.8 million people",
+      "excerpt": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
+      "date": "2026-08-07",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/"
     },
     {
-      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
-      "excerpt": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized...",
-      "date": "2026-08-06",
+      "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
+      "excerpt": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
+      "date": "2026-08-07",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/"
     }
   ]
 }
