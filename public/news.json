@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T06:31:47.475Z",
+  "lastUpdated": "2026-08-09T06:35:47.157Z",
   "articles": [
     {
       "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
@@ -18,36 +18,36 @@
       "link": "https://www.cert.se/2026/08/cert-se-veckobrev-v32.html"
     },
     {
-      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-      "excerpt": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000...",
-      "date": "2026-08-07",
+      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
+      "excerpt": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM)...",
+      "date": "2026-08-08",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html"
+      "link": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html"
     },
     {
-      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-      "excerpt": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft...",
+      "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV)...",
+      "date": "2026-08-08",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html"
+    },
+    {
+      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+      "excerpt": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
+      "date": "2026-08-08",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/"
+    },
+    {
+      "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
+      "excerpt": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials....",
       "date": "2026-08-07",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html"
-    },
-    {
-      "title": "Unlimited Technology Systems breach impacts 3.8 million people",
-      "excerpt": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
-      "date": "2026-08-07",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/"
-    },
-    {
-      "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
-      "excerpt": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
-      "date": "2026-08-07",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/"
+      "link": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html"
     }
   ]
 }
