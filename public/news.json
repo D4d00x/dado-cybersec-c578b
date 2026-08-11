@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-08-10T07:05:59.968Z",
+  "lastUpdated": "2026-08-11T06:44:22.915Z",
   "articles": [
     {
-      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
-      "excerpt": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
-      "date": "2026-08-07",
+      "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]",
+      "date": "2026-08-10",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/"
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/"
     },
     {
-      "title": "Kritiska sårbarheter i SonicWall SMA1000",
-      "excerpt": "SonicWall har publicerat säkerhetsuppdateringar gällande två sårbarheter (CVE-2026-15409 och CVE-2026-15410) i SMA1000-serien. [1] CISA har lagt till dessa sårbarheter i KEV-katalogen (Known...",
-      "date": "2026-07-15",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/07/kritiska-sarbarheter-i-sonicwall.html"
-    },
-    {
-      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-      "excerpt": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM)...",
-      "date": "2026-08-08",
+      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
+      "excerpt": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and...",
+      "date": "2026-08-10",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html"
+      "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html"
     },
     {
-      "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV)...",
-      "date": "2026-08-08",
-      "category": "Hotbild",
+      "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
+      "excerpt": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and...",
+      "date": "2026-08-10",
+      "category": "Nyheter",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html"
+      "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html"
     },
     {
-      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
-      "excerpt": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
-      "date": "2026-08-08",
+      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
+      "excerpt": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant...",
+      "date": "2026-08-10",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html"
+    },
+    {
+      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
+      "excerpt": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create...",
+      "date": "2026-08-10",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/"
+      "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/"
     },
     {
-      "title": "Ny skadlig kod sprids genom JavaScript ekosystemet - Chaindrop",
-      "excerpt": "En ny självreplikerande skadlig kod, Chaindrop, har blivit uppmärksammat av bland annat StepSecurity [1]. Chaindrop påverkar över 400 paket i JavaScript ekosystemet.",
-      "date": "2026-08-05",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/08/ny-skadlig-kod-sprids-genom-javascript-ekosystemet-chaindrop.html"
+      "title": "Member of The Com sent to prison for blackmail, sextortion",
+      "excerpt": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly...",
+      "date": "2026-08-10",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/"
     }
   ]
 }
