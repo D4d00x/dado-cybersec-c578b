@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T07:05:14.833Z",
+  "lastUpdated": "2026-08-15T06:17:38.289Z",
   "articles": [
     {
       "title": "Patchtisdag augusti 2026 – samlad information om månadens säkerhetsuppdateringar",
@@ -34,20 +34,20 @@
       "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html"
     },
     {
-      "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
-      "excerpt": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
-      "date": "2026-08-14",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/"
-    },
-    {
       "title": "Ny skadlig kod sprids genom JavaScript ekosystemet - Chaindrop",
       "excerpt": "En ny självreplikerande skadlig kod, Chaindrop, har blivit uppmärksammat av bland annat StepSecurity [1]. Chaindrop påverkar över 400 paket i JavaScript ekosystemet.",
       "date": "2026-08-05",
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/08/ny-skadlig-kod-sprids-genom-javascript-ekosystemet-chaindrop.html"
+    },
+    {
+      "title": "Patchtisdag juli 2026 – samlad information om månadens säkerhetsuppdateringar",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för juli. Nedan finns en sammanställning av de säkerhetsuppdateringar som Cisco, Microsoft, SAP, Ivanti, Fortinet och Adobe har...",
+      "date": "2026-07-15",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/07/patchtisdag-juli-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
     }
   ]
 }
