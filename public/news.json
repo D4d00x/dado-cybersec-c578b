@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-08-21T06:24:37.653Z",
+  "lastUpdated": "2026-08-22T06:19:21.063Z",
   "articles": [
     {
-      "title": "Kritisk sårbarhet i Citrix NetScaler ADC och NetScaler Gateway",
-      "excerpt": "Citrix har publicerat information om en kritisk sårbarhet som påverkar Citrix NetScaler ADC och NetScaler Gateway. Sårbarheten, CVE-2026-19490, har fått CVSS v.4-klassning på 9.3. [1, 2]",
-      "date": "2026-08-20",
+      "title": "CERT-SE:s veckobrev v.34",
+      "excerpt": "I veckans brev kan du läsa om ett flertal intrång, störningar i system samt om sårbarheter som utnyttjas aktivt av hotaktörer.",
+      "date": "2026-08-21",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/08/kritisk-sarbarhet-i-citrix.html"
+      "link": "https://www.cert.se/2026/08/cert-se-veckobrev-v34.html"
     },
     {
-      "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
-      "excerpt": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]",
-      "date": "2026-08-20",
+      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "excerpt": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+      "date": "2026-08-21",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/"
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/"
     },
     {
-      "title": "New Manic Android malware can exfiltrate data through nearby devices",
-      "excerpt": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
-      "date": "2026-08-20",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/"
-    },
-    {
-      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-      "excerpt": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense,...",
-      "date": "2026-08-20",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html"
-    },
-    {
-      "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
-      "excerpt": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it. The incident began when a...",
-      "date": "2026-08-20",
+      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+      "excerpt": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence...",
+      "date": "2026-08-21",
       "category": "Nyheter",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html"
+      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html"
     },
     {
-      "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
-      "excerpt": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
-      "date": "2026-08-20",
+      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+      "excerpt": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on...",
+      "date": "2026-08-21",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html"
+    },
+    {
+      "title": "Wazuh and AI For Enhanced SOC Workflows",
+      "excerpt": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate...",
+      "date": "2026-08-21",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html"
+    },
+    {
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "excerpt": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security...",
+      "date": "2026-08-21",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html"
     }
   ]
 }
