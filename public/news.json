@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T06:19:21.063Z",
+  "lastUpdated": "2026-08-23T06:20:47.745Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.34",
@@ -10,12 +10,20 @@
       "link": "https://www.cert.se/2026/08/cert-se-veckobrev-v34.html"
     },
     {
-      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "title": "Microsoft patches max severity code execution, privilege escalation flaws",
       "excerpt": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
       "date": "2026-08-21",
       "category": "Hotbild",
       "source": "BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/"
+    },
+    {
+      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
+      "excerpt": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the...",
+      "date": "2026-08-22",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html"
     },
     {
       "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
@@ -40,14 +48,6 @@
       "category": "Hotbild",
       "source": "The Hacker News",
       "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html"
-    },
-    {
-      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-      "excerpt": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security...",
-      "date": "2026-08-21",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html"
     }
   ]
 }
