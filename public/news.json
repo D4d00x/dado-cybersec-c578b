@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T06:33:19.130Z",
+  "lastUpdated": "2026-08-25T06:24:35.864Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.34",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/08/cert-se-veckobrev-v34.html"
     },
     {
-      "title": "Microsoft patches max severity code execution, privilege escalation flaws",
-      "excerpt": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
-      "date": "2026-08-21",
+      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+      "excerpt": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in...",
+      "date": "2026-08-24",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/"
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/"
     },
     {
-      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
-      "excerpt": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the...",
-      "date": "2026-08-22",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html"
+      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
+      "excerpt": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can...",
+      "date": "2026-08-24",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/"
     },
     {
-      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
-      "excerpt": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence...",
-      "date": "2026-08-21",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html"
-    },
-    {
-      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-      "excerpt": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on...",
-      "date": "2026-08-21",
+      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
+      "excerpt": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
+      "date": "2026-08-24",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/"
     },
     {
-      "title": "Wazuh and AI For Enhanced SOC Workflows",
-      "excerpt": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate...",
-      "date": "2026-08-21",
+      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+      "excerpt": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days....",
+      "date": "2026-08-24",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/"
+    },
+    {
+      "title": "Ny skadlig kod sprids genom JavaScript ekosystemet - Chaindrop",
+      "excerpt": "En ny självreplikerande skadlig kod, Chaindrop, har blivit uppmärksammat av bland annat StepSecurity [1]. Chaindrop påverkar över 400 paket i JavaScript ekosystemet.",
+      "date": "2026-08-05",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/08/ny-skadlig-kod-sprids-genom-javascript-ekosystemet-chaindrop.html"
     }
   ]
 }
