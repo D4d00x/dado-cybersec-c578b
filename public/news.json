@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T06:24:35.864Z",
+  "lastUpdated": "2026-08-26T06:26:45.894Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.34",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/08/cert-se-veckobrev-v34.html"
     },
     {
-      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
-      "excerpt": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in...",
-      "date": "2026-08-24",
+      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited...",
+      "date": "2026-08-25",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html"
     },
     {
-      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-      "excerpt": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can...",
-      "date": "2026-08-24",
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "excerpt": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their...",
+      "date": "2026-08-25",
       "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html"
     },
     {
-      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
-      "excerpt": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
-      "date": "2026-08-24",
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "excerpt": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted...",
+      "date": "2026-08-25",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html"
     },
     {
-      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
-      "excerpt": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days....",
-      "date": "2026-08-24",
+      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+      "excerpt": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While...",
+      "date": "2026-08-25",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html"
     },
     {
-      "title": "Ny skadlig kod sprids genom JavaScript ekosystemet - Chaindrop",
-      "excerpt": "En ny självreplikerande skadlig kod, Chaindrop, har blivit uppmärksammat av bland annat StepSecurity [1]. Chaindrop påverkar över 400 paket i JavaScript ekosystemet.",
-      "date": "2026-08-05",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/08/ny-skadlig-kod-sprids-genom-javascript-ekosystemet-chaindrop.html"
+      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+      "excerpt": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as...",
+      "date": "2026-08-25",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html"
     }
   ]
 }
