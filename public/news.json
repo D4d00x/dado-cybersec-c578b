@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T06:26:45.894Z",
+  "lastUpdated": "2026-08-27T17:00:25.456Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.34",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/08/cert-se-veckobrev-v34.html"
     },
     {
-      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited...",
-      "date": "2026-08-25",
+      "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
+      "excerpt": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
+      "date": "2026-08-27",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/"
     },
     {
-      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
-      "excerpt": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their...",
-      "date": "2026-08-25",
+      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
+      "excerpt": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover...",
+      "date": "2026-08-27",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html"
+      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html"
     },
     {
-      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
-      "excerpt": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted...",
-      "date": "2026-08-25",
+      "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
+      "excerpt": "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026...",
+      "date": "2026-08-27",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html"
+      "link": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html"
     },
     {
-      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-      "excerpt": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While...",
-      "date": "2026-08-25",
+      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+      "excerpt": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed...",
+      "date": "2026-08-27",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html"
+      "link": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html"
     },
     {
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "excerpt": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as...",
-      "date": "2026-08-25",
+      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+      "excerpt": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU...",
+      "date": "2026-08-27",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html"
+      "link": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html"
     }
   ]
 }
