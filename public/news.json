@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T11:54:09.440Z",
+  "lastUpdated": "2026-08-30T10:51:22.382Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.34",
@@ -18,6 +18,22 @@
       "link": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/"
     },
     {
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+      "excerpt": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass,...",
+      "date": "2026-08-29",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html"
+    },
+    {
+      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
+      "excerpt": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters...",
+      "date": "2026-08-28",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/"
+    },
+    {
       "title": "PaperCut releases second emergency patch for exploited flaws",
       "excerpt": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to...",
       "date": "2026-08-28",
@@ -32,22 +48,6 @@
       "category": "Praktiska tips",
       "source": "BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/"
-    },
-    {
-      "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-      "excerpt": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
-      "date": "2026-08-27",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/"
-    },
-    {
-      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
-      "excerpt": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the...",
-      "date": "2026-08-28",
-      "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html"
     }
   ]
 }
