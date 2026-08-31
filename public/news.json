@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T10:51:22.382Z",
+  "lastUpdated": "2026-08-31T12:02:03.110Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.34",
@@ -10,12 +10,20 @@
       "link": "https://www.cert.se/2026/08/cert-se-veckobrev-v34.html"
     },
     {
-      "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
-      "excerpt": "Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver....",
-      "date": "2026-08-28",
+      "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
+      "excerpt": "Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]",
+      "date": "2026-08-30",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/"
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/"
+    },
+    {
+      "title": "Chrome Web Store extensions caught stealing crypto, browser data",
+      "excerpt": "Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix...",
+      "date": "2026-08-30",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/"
     },
     {
       "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
@@ -26,28 +34,20 @@
       "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html"
     },
     {
-      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
-      "excerpt": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters...",
-      "date": "2026-08-28",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/"
+      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
+      "excerpt": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control...",
+      "date": "2026-08-31",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html"
     },
     {
-      "title": "PaperCut releases second emergency patch for exploited flaws",
-      "excerpt": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to...",
-      "date": "2026-08-28",
-      "category": "Praktiska tips",
+      "title": "Microsoft says Windows 11 KB5120998 update resets mouse settings",
+      "excerpt": "Microsoft has confirmed that mouse settings are being reverted on Windows 11 systems after installing the KB5120998 August 2026 non-security preview update. [...]",
+      "date": "2026-08-31",
+      "category": "Nyheter",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/"
-    },
-    {
-      "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
-      "excerpt": "AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to...",
-      "date": "2026-08-28",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/"
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/"
     }
   ]
 }
