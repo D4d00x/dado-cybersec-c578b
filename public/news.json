@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-01T10:40:55.176Z",
+  "lastUpdated": "2026-09-02T10:06:23.448Z",
   "articles": [
+    {
+      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+      "excerpt": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question...",
+      "date": "2026-09-02",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html"
+    },
     {
       "title": "CERT-SE:s veckobrev v.34",
       "excerpt": "I veckans brev kan du läsa om ett flertal intrång, störningar i system samt om sårbarheter som utnyttjas aktivt av hotaktörer.",
@@ -10,44 +18,36 @@
       "link": "https://www.cert.se/2026/08/cert-se-veckobrev-v34.html"
     },
     {
-      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-      "excerpt": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS...",
+      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+      "excerpt": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that...",
+      "date": "2026-09-01",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html"
+    },
+    {
+      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+      "excerpt": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is...",
       "date": "2026-09-01",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html"
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html"
     },
     {
-      "title": "File servers are here to stay. Here’s how to manage them securely",
-      "excerpt": "File servers remain a critical part of many IT environments, but managing access securely can become complex as permissions accumulate. tenfold Software outlines five best practices for simplifying...",
-      "date": "2026-08-31",
-      "category": "Praktiska tips",
+      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
+      "excerpt": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
+      "date": "2026-09-02",
+      "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/"
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/"
     },
     {
-      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
-      "excerpt": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent...",
-      "date": "2026-08-31",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html"
-    },
-    {
-      "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
-      "excerpt": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs....",
-      "date": "2026-08-31",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html"
-    },
-    {
-      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-      "excerpt": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams...",
-      "date": "2026-08-31",
-      "category": "Regelverk",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html"
+      "title": "Kritisk sårbarhet i Citrix NetScaler ADC och NetScaler Gateway",
+      "excerpt": "Citrix har publicerat information om en kritisk sårbarhet som påverkar Citrix NetScaler ADC och NetScaler Gateway. Sårbarheten, CVE-2026-19490, har fått CVSS v.4-klassning på 9.3. [1, 2]",
+      "date": "2026-08-20",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/08/kritisk-sarbarhet-i-citrix.html"
     }
   ]
 }
