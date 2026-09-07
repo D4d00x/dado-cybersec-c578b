@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-09-06T09:50:16.438Z",
+  "lastUpdated": "2026-09-07T10:56:25.190Z",
   "articles": [
     {
-      "title": "CERT-SE:s veckobrev v.36",
-      "excerpt": "Den 13 september är det val i Sverige och Nationellt cybersäkerhetscenter (NCSC) bevakar hotläget från ett cybersäkerhetsperspektiv. NCSC:s chef John Billow berättar om uppdraget i Sveriges Radios...",
-      "date": "2026-09-04",
+      "title": "CERT-SE:s veckobrev v.34",
+      "excerpt": "I veckans brev kan du läsa om ett flertal intrång, störningar i system samt om sårbarheter som utnyttjas aktivt av hotaktörer.",
+      "date": "2026-08-21",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v36.html"
+      "link": "https://www.cert.se/2026/08/cert-se-veckobrev-v34.html"
     },
     {
       "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
@@ -18,36 +18,36 @@
       "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html"
     },
     {
-      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
-      "excerpt": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
-      "date": "2026-09-04",
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "excerpt": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are...",
+      "date": "2026-09-07",
       "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html"
     },
     {
-      "title": "39 New Methods That Compromise Passkey Authentication",
-      "excerpt": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication...",
-      "date": "2026-09-04",
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "excerpt": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
+      "date": "2026-09-07",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/"
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/"
     },
     {
-      "title": "French hospital fined €500,000 after breach exposes data of 727,000",
-      "excerpt": "France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
-      "date": "2026-09-03",
-      "category": "Praktiska tips",
+      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "excerpt": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
+      "date": "2026-09-07",
+      "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/"
+      "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/"
     },
     {
-      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-      "excerpt": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026,...",
-      "date": "2026-09-05",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html"
+      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
+      "excerpt": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]",
+      "date": "2026-09-07",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/"
     }
   ]
 }
