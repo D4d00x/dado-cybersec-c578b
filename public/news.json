@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-11T10:08:15.076Z",
+  "lastUpdated": "2026-09-12T09:43:23.031Z",
   "articles": [
     {
-      "title": "Patchtisdag september 2026 – samlad information om månadens säkerhetsuppdateringar",
-      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för september. Microsofts säkerhetsuppdateringar omfattar 973 sårbarheter varav 113 klassade som kritiska. Det är den i särklass...",
-      "date": "2026-09-10",
+      "title": "GitLab rättar kritiska sårbarheter",
+      "excerpt": "GitLab har publicerat säkerhetsuppdateringar för flera sårbarheter i GitLab Community Edition (CE) och Enterprise Edition (EE). [1] Två av dessa sårbarheter, CVE-2026-85706 och CVE-2026-87719,...",
+      "date": "2026-09-11",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/patchtisdag-september-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
+      "link": "https://www.cert.se/2026/09/gitlab-rattar-kritiska-sarbarheter.html"
     },
     {
-      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-      "excerpt": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC)...",
+      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+      "excerpt": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable...",
       "date": "2026-09-11",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/"
     },
     {
-      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
-      "excerpt": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]",
+      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+      "excerpt": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and...",
       "date": "2026-09-11",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/"
-    },
-    {
-      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
-      "excerpt": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Early Access apps are apps that haven't...",
-      "date": "2026-09-10",
-      "category": "Nyheter",
+      "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html"
+      "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html"
     },
     {
-      "title": "September Windows Server updates break Remote Desktop Services",
-      "excerpt": "Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and,...",
-      "date": "2026-09-10",
-      "category": "Nyheter",
+      "title": "Florida confirms DMV database breached via stolen police account",
+      "excerpt": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials...",
+      "date": "2026-09-11",
+      "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/"
+      "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/"
     },
     {
-      "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
-      "excerpt": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the...",
-      "date": "2026-09-10",
-      "category": "Nyheter",
+      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+      "excerpt": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts...",
+      "date": "2026-09-11",
+      "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/"
+      "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/"
+    },
+    {
+      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
+      "excerpt": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through...",
+      "date": "2026-09-11",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/"
     }
   ]
 }
