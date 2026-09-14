@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-09-13T10:45:12.553Z",
+  "lastUpdated": "2026-09-14T11:08:36.661Z",
   "articles": [
     {
-      "title": "GitLab rättar kritiska sårbarheter",
-      "excerpt": "GitLab har publicerat säkerhetsuppdateringar för flera sårbarheter i GitLab Community Edition (CE) och Enterprise Edition (EE). [1] Två av dessa sårbarheter, CVE-2026-85706 och CVE-2026-87719,...",
-      "date": "2026-09-11",
+      "title": "CERT-SE:s veckobrev v.34",
+      "excerpt": "I veckans brev kan du läsa om ett flertal intrång, störningar i system samt om sårbarheter som utnyttjas aktivt av hotaktörer.",
+      "date": "2026-08-21",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/gitlab-rattar-kritiska-sarbarheter.html"
+      "link": "https://www.cert.se/2026/08/cert-se-veckobrev-v34.html"
     },
     {
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "excerpt": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable...",
-      "date": "2026-09-11",
+      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+      "excerpt": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
+      "date": "2026-09-13",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/"
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/"
     },
     {
       "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
@@ -42,12 +42,12 @@
       "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/"
     },
     {
-      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-      "excerpt": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through...",
-      "date": "2026-09-11",
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited...",
+      "date": "2026-09-12",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html"
     }
   ]
 }
