@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-14T11:08:36.661Z",
+  "lastUpdated": "2026-09-15T10:36:56.628Z",
   "articles": [
+    {
+      "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
+      "excerpt": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
+      "date": "2026-09-15",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/"
+    },
     {
       "title": "CERT-SE:s veckobrev v.34",
       "excerpt": "I veckans brev kan du läsa om ett flertal intrång, störningar i system samt om sårbarheter som utnyttjas aktivt av hotaktörer.",
@@ -10,44 +18,36 @@
       "link": "https://www.cert.se/2026/08/cert-se-veckobrev-v34.html"
     },
     {
-      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
-      "excerpt": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
-      "date": "2026-09-13",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/"
-    },
-    {
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "excerpt": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and...",
-      "date": "2026-09-11",
+      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+      "excerpt": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor...",
+      "date": "2026-09-15",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html"
+      "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html"
     },
     {
-      "title": "Florida confirms DMV database breached via stolen police account",
-      "excerpt": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials...",
-      "date": "2026-09-11",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/"
+      "title": "CERT-SE:s veckobrev v.36",
+      "excerpt": "Den 13 september är det val i Sverige och Nationellt cybersäkerhetscenter (NCSC) bevakar hotläget från ett cybersäkerhetsperspektiv. NCSC:s chef John Billow berättar om uppdraget i Sveriges Radios...",
+      "date": "2026-09-04",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v36.html"
     },
     {
-      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-      "excerpt": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts...",
-      "date": "2026-09-11",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/"
+      "title": "Kritisk sårbarhet i Citrix NetScaler ADC och NetScaler Gateway",
+      "excerpt": "Citrix har publicerat information om en kritisk sårbarhet som påverkar Citrix NetScaler ADC och NetScaler Gateway. Sårbarheten, CVE-2026-19490, har fått CVSS v.4-klassning på 9.3. [1, 2]",
+      "date": "2026-08-20",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/08/kritisk-sarbarhet-i-citrix.html"
     },
     {
-      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited...",
-      "date": "2026-09-12",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html"
+      "title": "Patchtisdag augusti 2026 – samlad information om månadens säkerhetsuppdateringar",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för augusti. Tidigare har CERT-SE gjort ett urval på sårbarheterna som släppts. På grund av de släppta sårbarheternas volym...",
+      "date": "2026-08-12",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/08/patchtisdag-augusti-2026-samlad-information-om-manadens-sakerhetsuppdateringar.html"
     }
   ]
 }
