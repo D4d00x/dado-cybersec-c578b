@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-09-16T10:25:37.633Z",
+  "lastUpdated": "2026-09-17T10:34:51.050Z",
   "articles": [
     {
-      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched...",
-      "date": "2026-09-15",
+      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
+      "excerpt": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
+      "date": "2026-09-17",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/"
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/"
     },
     {
       "title": "Kritisk sårbarhet i Cisco Secure Email Gateway utnyttjas aktivt",
@@ -18,36 +18,36 @@
       "link": "https://www.cert.se/2026/09/kritisk-sarbarhet-i-cisco-secure-email-gateway-utnyttjas-aktivt.html"
     },
     {
-      "title": "Windows Server 2022 reaches end of mainstream support next month",
-      "excerpt": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
+      "title": "Spain's data agency gets first report of AI-powered data breach",
+      "excerpt": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
       "date": "2026-09-16",
-      "category": "Nyheter",
+      "category": "Praktiska tips",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/"
+      "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/"
     },
     {
-      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
-      "excerpt": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that...",
-      "date": "2026-09-15",
+      "title": "The true cost of a ransomware attack, with and without BCDR",
+      "excerpt": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature...",
+      "date": "2026-09-16",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/"
+      "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/"
     },
     {
-      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
-      "excerpt": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and...",
-      "date": "2026-09-15",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/"
+      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+      "excerpt": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity...",
+      "date": "2026-09-16",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html"
     },
     {
-      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
-      "excerpt": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged...",
+      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+      "excerpt": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories. Before...",
       "date": "2026-09-16",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html"
+      "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html"
     }
   ]
 }
