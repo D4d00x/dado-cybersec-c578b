@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-17T10:34:51.050Z",
+  "lastUpdated": "2026-09-18T10:11:09.588Z",
   "articles": [
     {
-      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-      "excerpt": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
-      "date": "2026-09-17",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/"
+      "title": "CERT-SE:s veckobrev v.34",
+      "excerpt": "I veckans brev kan du läsa om ett flertal intrång, störningar i system samt om sårbarheter som utnyttjas aktivt av hotaktörer.",
+      "date": "2026-08-21",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/08/cert-se-veckobrev-v34.html"
     },
     {
-      "title": "Kritisk sårbarhet i Cisco Secure Email Gateway utnyttjas aktivt",
-      "excerpt": "Cisco har publicerat information om en kritisk SQL injection-sårbarhet i Cisco Secure Email Gateway som utnyttjas aktivt. Sårbarheten (CVE-2026-76461) har fått CVSS-klassificering 9.8 (CVSS v.3.1)....",
+      "title": "New Check Point flaw lets hackers execute code with root privileges",
+      "excerpt": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+      "date": "2026-09-18",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/"
+    },
+    {
+      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+      "excerpt": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security...",
+      "date": "2026-09-17",
+      "category": "Regelverk",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html"
+    },
+    {
+      "title": "MISP-dagen 2026 - anmälan stängd",
+      "excerpt": "Varmt välkommen till en dag för alla som vill stärka Sveriges cybersäkerhet genom informationsdelning!",
       "date": "2026-09-15",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/kritisk-sarbarhet-i-cisco-secure-email-gateway-utnyttjas-aktivt.html"
+      "link": "https://www.cert.se/2026/09/misp-dagen-2026.html"
     },
     {
-      "title": "Spain's data agency gets first report of AI-powered data breach",
-      "excerpt": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
-      "date": "2026-09-16",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/"
+      "title": "CERT-SE:s veckobrev v.37",
+      "excerpt": "I veckans brev kan du läsa om EU:s Cyber Resilience Act (CRA), där de första kraven träder i kraft idag. Du kan även läsa om cybersäkerhetskonferensen Svensk cyber 2026 som arrangeras av NCSC i...",
+      "date": "2026-09-11",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v37.html"
     },
     {
-      "title": "The true cost of a ransomware attack, with and without BCDR",
-      "excerpt": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature...",
-      "date": "2026-09-16",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/"
-    },
-    {
-      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-      "excerpt": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity...",
-      "date": "2026-09-16",
-      "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html"
-    },
-    {
-      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-      "excerpt": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories. Before...",
-      "date": "2026-09-16",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html"
+      "title": "CERT-SE:s veckobrev v.35",
+      "excerpt": "I veckans brev kan du ta del av ett axplock av händelser inom cybersäkerhetsområdet. Dessutom hittar du en utvärdering av organisationers cyberförsvar som CISA gjort, som innehåller rekommendationer...",
+      "date": "2026-08-28",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/08/cert-se-veckobrev-v35.html"
     }
   ]
 }
