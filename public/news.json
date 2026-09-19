@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-09-18T10:11:09.588Z",
+  "lastUpdated": "2026-09-19T09:52:01.842Z",
   "articles": [
     {
-      "title": "CERT-SE:s veckobrev v.34",
-      "excerpt": "I veckans brev kan du läsa om ett flertal intrång, störningar i system samt om sårbarheter som utnyttjas aktivt av hotaktörer.",
-      "date": "2026-08-21",
+      "title": "CERT-SE:s veckobrev v.38",
+      "excerpt": "Den här veckan innehåller CERT-SE:s veckobrev bland annat information om att NCSC och AI Sweden med flera bjuder in till seminarium den 22 oktober på temat “Modern sårbarhetshantering i en AI-driven...",
+      "date": "2026-09-18",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/08/cert-se-veckobrev-v34.html"
+      "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v38.html"
     },
     {
-      "title": "New Check Point flaw lets hackers execute code with root privileges",
-      "excerpt": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
+      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+      "excerpt": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score:...",
+      "date": "2026-09-19",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html"
+    },
+    {
+      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+      "excerpt": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first...",
+      "date": "2026-09-19",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
+    },
+    {
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "excerpt": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from...",
       "date": "2026-09-18",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/"
-    },
-    {
-      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-      "excerpt": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security...",
-      "date": "2026-09-17",
-      "category": "Regelverk",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html"
+      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html"
     },
     {
-      "title": "MISP-dagen 2026 - anmälan stängd",
-      "excerpt": "Varmt välkommen till en dag för alla som vill stärka Sveriges cybersäkerhet genom informationsdelning!",
-      "date": "2026-09-15",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/misp-dagen-2026.html"
+      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+      "excerpt": "In July 2025, someone registered a domain that used to belong to a content delivery network. The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire....",
+      "date": "2026-09-18",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html"
     },
     {
-      "title": "CERT-SE:s veckobrev v.37",
-      "excerpt": "I veckans brev kan du läsa om EU:s Cyber Resilience Act (CRA), där de första kraven träder i kraft idag. Du kan även läsa om cybersäkerhetskonferensen Svensk cyber 2026 som arrangeras av NCSC i...",
-      "date": "2026-09-11",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v37.html"
-    },
-    {
-      "title": "CERT-SE:s veckobrev v.35",
-      "excerpt": "I veckans brev kan du ta del av ett axplock av händelser inom cybersäkerhetsområdet. Dessutom hittar du en utvärdering av organisationers cyberförsvar som CISA gjort, som innehåller rekommendationer...",
-      "date": "2026-08-28",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/08/cert-se-veckobrev-v35.html"
+      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+      "excerpt": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a...",
+      "date": "2026-09-18",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html"
     }
   ]
 }
