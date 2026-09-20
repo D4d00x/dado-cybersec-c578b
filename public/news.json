@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T09:52:01.842Z",
+  "lastUpdated": "2026-09-20T10:14:14.033Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.38",
@@ -18,6 +18,14 @@
       "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html"
     },
     {
+      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+      "excerpt": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal...",
+      "date": "2026-09-19",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html"
+    },
+    {
       "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
       "excerpt": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first...",
       "date": "2026-09-19",
@@ -26,28 +34,20 @@
       "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
     },
     {
-      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
-      "excerpt": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from...",
-      "date": "2026-09-18",
+      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+      "excerpt": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7...",
+      "date": "2026-09-19",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/"
+    },
+    {
+      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
+      "excerpt": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses...",
+      "date": "2026-09-19",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html"
-    },
-    {
-      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
-      "excerpt": "In July 2025, someone registered a domain that used to belong to a content delivery network. The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire....",
-      "date": "2026-09-18",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html"
-    },
-    {
-      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
-      "excerpt": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a...",
-      "date": "2026-09-18",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/"
     }
   ]
 }
