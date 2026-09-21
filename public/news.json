@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-20T10:14:14.033Z",
+  "lastUpdated": "2026-09-21T11:19:08.436Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.38",
@@ -18,36 +18,36 @@
       "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html"
     },
     {
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "excerpt": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including...",
+      "date": "2026-09-21",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html"
+    },
+    {
+      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+      "excerpt": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
+      "date": "2026-09-18",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/"
+    },
+    {
+      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+      "excerpt": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
+      "date": "2026-09-20",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/"
+    },
+    {
       "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
       "excerpt": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal...",
       "date": "2026-09-19",
       "category": "Nyheter",
       "source": "The Hacker News",
       "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html"
-    },
-    {
-      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-      "excerpt": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first...",
-      "date": "2026-09-19",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
-    },
-    {
-      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
-      "excerpt": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7...",
-      "date": "2026-09-19",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/"
-    },
-    {
-      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-      "excerpt": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses...",
-      "date": "2026-09-19",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/"
     }
   ]
 }
