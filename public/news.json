@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T11:19:08.436Z",
+  "lastUpdated": "2026-09-22T10:29:23.410Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.38",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v38.html"
     },
     {
-      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-      "excerpt": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score:...",
-      "date": "2026-09-19",
+      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+      "excerpt": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "date": "2026-09-22",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/"
     },
     {
-      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
-      "excerpt": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including...",
+      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+      "excerpt": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts...",
       "date": "2026-09-21",
       "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/"
     },
     {
-      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
-      "excerpt": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
-      "date": "2026-09-18",
+      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+      "date": "2026-09-21",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/"
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/"
     },
     {
-      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
-      "excerpt": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
-      "date": "2026-09-20",
-      "category": "Nyheter",
+      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+      "excerpt": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core...",
+      "date": "2026-09-21",
+      "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/"
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/"
     },
     {
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "excerpt": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal...",
-      "date": "2026-09-19",
-      "category": "Nyheter",
+      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
+      "excerpt": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy...",
+      "date": "2026-09-22",
+      "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html"
+      "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html"
     }
   ]
 }
