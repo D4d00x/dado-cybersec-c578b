@@ -1,21 +1,37 @@
 {
-  "lastUpdated": "2026-09-24T10:40:55.492Z",
+  "lastUpdated": "2026-09-25T10:44:28.891Z",
   "articles": [
     {
-      "title": "CERT-SE:s veckobrev v.38",
-      "excerpt": "Den här veckan innehåller CERT-SE:s veckobrev bland annat information om att NCSC och AI Sweden med flera bjuder in till seminarium den 22 oktober på temat “Modern sårbarhetshantering i en AI-driven...",
-      "date": "2026-09-18",
+      "title": "CERT-SE:s veckobrev v.39",
+      "excerpt": "För tionde året genomförs Beredskapsveckan i Sverige vecka 39. I år är det fokus på Sveriges totalförsvar, där samhällets motståndskraft mot cyberhot är en viktig del. Tänk på att ha en radio...",
+      "date": "2026-09-25",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v38.html"
+      "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v39.html"
     },
     {
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "excerpt": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could...",
+      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+      "excerpt": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
       "date": "2026-09-24",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/"
+    },
+    {
+      "title": "Exposed GitLab project email addresses let attackers push code",
+      "excerpt": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug...",
+      "date": "2026-09-24",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/"
+    },
+    {
+      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
+      "excerpt": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why...",
+      "date": "2026-09-24",
+      "category": "Regelverk",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/"
     },
     {
       "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
@@ -26,28 +42,12 @@
       "link": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/"
     },
     {
-      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-      "excerpt": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The...",
-      "date": "2026-09-23",
+      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+      "excerpt": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The...",
+      "date": "2026-09-25",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html"
-    },
-    {
-      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
-      "excerpt": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into...",
-      "date": "2026-09-23",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/"
-    },
-    {
-      "title": "New RemControl Android banking malware targets users in Europe and Canada",
-      "excerpt": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
-      "date": "2026-09-23",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/"
+      "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html"
     }
   ]
 }
