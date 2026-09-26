@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T10:44:28.891Z",
+  "lastUpdated": "2026-09-26T10:27:02.702Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.39",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v39.html"
     },
     {
-      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
-      "excerpt": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
-      "date": "2026-09-24",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/"
-    },
-    {
-      "title": "Exposed GitLab project email addresses let attackers push code",
-      "excerpt": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug...",
-      "date": "2026-09-24",
+      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+      "excerpt": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from...",
+      "date": "2026-09-25",
       "category": "Praktiska tips",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/"
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/"
     },
     {
-      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-      "excerpt": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why...",
-      "date": "2026-09-24",
-      "category": "Regelverk",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/"
-    },
-    {
-      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
-      "excerpt": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing...",
-      "date": "2026-09-24",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/"
-    },
-    {
-      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
-      "excerpt": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The...",
+      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities...",
       "date": "2026-09-25",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html"
+      "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html"
+    },
+    {
+      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+      "excerpt": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator...",
+      "date": "2026-09-26",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html"
+    },
+    {
+      "title": "Cisco publicerar säkerhetsuppdateringar för flera sårbarheter",
+      "excerpt": "Den 16 september publicerade Cisco säkerhetsuppdateringar för flera sårbarheter, där några av dessa utnyttjas aktivt enligt Cisco. [1, 2] Ett exempel är CVE-2026-76460, en sårbarhet i ett API för...",
+      "date": "2026-09-17",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/09/cisco-publicerar-sakerhetsuppdateringar.html"
+    },
+    {
+      "title": "MISP-dagen 2026 - anmälan stängd",
+      "excerpt": "Varmt välkommen till en dag för alla som vill stärka Sveriges cybersäkerhet genom informationsdelning!",
+      "date": "2026-09-15",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/09/misp-dagen-2026.html"
     }
   ]
 }
