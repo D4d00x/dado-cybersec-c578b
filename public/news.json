@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T10:27:02.702Z",
+  "lastUpdated": "2026-09-27T10:57:47.794Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.39",
@@ -18,20 +18,12 @@
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/"
     },
     {
-      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities...",
-      "date": "2026-09-25",
+      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+      "excerpt": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr...",
+      "date": "2026-09-27",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html"
-    },
-    {
-      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
-      "excerpt": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator...",
-      "date": "2026-09-26",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html"
+      "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html"
     },
     {
       "title": "Cisco publicerar säkerhetsuppdateringar för flera sårbarheter",
@@ -48,6 +40,14 @@
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/09/misp-dagen-2026.html"
+    },
+    {
+      "title": "CERT-SE:s veckobrev v.37",
+      "excerpt": "I veckans brev kan du läsa om EU:s Cyber Resilience Act (CRA), där de första kraven träder i kraft idag. Du kan även läsa om cybersäkerhetskonferensen Svensk cyber 2026 som arrangeras av NCSC i...",
+      "date": "2026-09-11",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v37.html"
     }
   ]
 }
