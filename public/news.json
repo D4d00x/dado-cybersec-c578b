@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-09-27T10:57:47.794Z",
+  "lastUpdated": "2026-09-28T12:14:27.145Z",
   "articles": [
     {
-      "title": "CERT-SE:s veckobrev v.39",
-      "excerpt": "För tionde året genomförs Beredskapsveckan i Sverige vecka 39. I år är det fokus på Sveriges totalförsvar, där samhällets motståndskraft mot cyberhot är en viktig del. Tänk på att ha en radio...",
-      "date": "2026-09-25",
+      "title": "Kritiska sårbarheter i Citrix NetScaler ADC och Citrix NetScaler Gateway",
+      "excerpt": "Citrix har publicerat information om allvarliga och kritiska sårbarheter i Citrix NetScaler ADC (tidigare Citrix ADC) and Citrix NetScaler Gateway (tidigare Citrix Gateway). Två av sårbarheterna,...",
+      "date": "2026-09-27",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v39.html"
+      "link": "https://www.cert.se/2026/09/information-om-kritiska-sarbarheter-i-citrixnetscaler.html"
     },
     {
-      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
-      "excerpt": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from...",
-      "date": "2026-09-25",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/"
-    },
-    {
-      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
-      "excerpt": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr...",
+      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+      "excerpt": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security...",
       "date": "2026-09-27",
       "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/"
+    },
+    {
+      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+      "excerpt": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity...",
+      "date": "2026-09-26",
+      "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html"
+      "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html"
     },
     {
       "title": "Cisco publicerar säkerhetsuppdateringar för flera sårbarheter",
