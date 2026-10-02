@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-01T11:58:57.282Z",
+  "lastUpdated": "2026-10-02T11:30:27.214Z",
   "articles": [
+    {
+      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+      "excerpt": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on...",
+      "date": "2026-10-01",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/"
+    },
     {
       "title": "CERT-SE:s veckobrev v.38",
       "excerpt": "Den här veckan innehåller CERT-SE:s veckobrev bland annat information om att NCSC och AI Sweden med flera bjuder in till seminarium den 22 oktober på temat “Modern sårbarhetshantering i en AI-driven...",
@@ -10,44 +18,36 @@
       "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v38.html"
     },
     {
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-      "excerpt": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30. The...",
-      "date": "2026-09-30",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html"
+      "title": "Kiteworks patches max severity code injection vulnerability",
+      "excerpt": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security...",
+      "date": "2026-10-01",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/"
     },
     {
-      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-      "excerpt": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of...",
+      "title": "Hackers stole Pentagon personnel records of over 3 million people",
+      "excerpt": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in...",
+      "date": "2026-10-01",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/"
+    },
+    {
+      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+      "excerpt": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled. With...",
+      "date": "2026-10-02",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html"
+    },
+    {
+      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
+      "excerpt": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to...",
       "date": "2026-10-01",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html"
-    },
-    {
-      "title": "F5 informerar om kritisk sårbarhet i BIG-IP APM",
-      "excerpt": "F5 har publicerat information om en kritisk sårbarhet, CVE-2026-94127, i BIG-IP APM. Sårbarheten kan resultera i att en oautentiserad angripare kan fjärrexekvera godtycklig kod.",
-      "date": "2026-09-23",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/information-om-kritisk-sarbarhet-i-big-ip-apm.html"
-    },
-    {
-      "title": "Kritisk sårbarhet i Cisco Secure Email Gateway utnyttjas aktivt",
-      "excerpt": "Cisco har publicerat information om en kritisk SQL injection-sårbarhet i Cisco Secure Email Gateway som utnyttjas aktivt. Sårbarheten (CVE-2026-76461) har fått CVSS-klassificering 9.8 (CVSS v.3.1)....",
-      "date": "2026-09-15",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/kritisk-sarbarhet-i-cisco-secure-email-gateway-utnyttjas-aktivt.html"
-    },
-    {
-      "title": "GitLab rättar kritiska sårbarheter",
-      "excerpt": "GitLab har publicerat säkerhetsuppdateringar för flera sårbarheter i GitLab Community Edition (CE) och Enterprise Edition (EE). [1] Två av dessa sårbarheter, CVE-2026-85706 och CVE-2026-87719,...",
-      "date": "2026-09-11",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/gitlab-rattar-kritiska-sarbarheter.html"
+      "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html"
     }
   ]
 }
