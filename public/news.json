@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T11:30:27.214Z",
+  "lastUpdated": "2026-10-03T10:45:49.113Z",
   "articles": [
     {
       "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
@@ -10,44 +10,44 @@
       "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/"
     },
     {
-      "title": "CERT-SE:s veckobrev v.38",
-      "excerpt": "Den här veckan innehåller CERT-SE:s veckobrev bland annat information om att NCSC och AI Sweden med flera bjuder in till seminarium den 22 oktober på temat “Modern sårbarhetshantering i en AI-driven...",
-      "date": "2026-09-18",
+      "title": "Kritisk sårbarhet i FortiMail",
+      "excerpt": "Fortinet har publicerat information om en kritisk sårbarhet i FortiMail. Sårbarheten, CVE-2026-104286, har fått en CVSS-klassning på 9.8 och påverkar FortiMail managements gränssnitt. Ett...",
+      "date": "2026-10-02",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v38.html"
+      "link": "https://www.cert.se/2026/10/kritisk-sarbarhet-i-fortimail.html"
     },
     {
-      "title": "Kiteworks patches max severity code injection vulnerability",
-      "excerpt": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security...",
-      "date": "2026-10-01",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/"
-    },
-    {
-      "title": "Hackers stole Pentagon personnel records of over 3 million people",
-      "excerpt": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in...",
-      "date": "2026-10-01",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/"
-    },
-    {
-      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
-      "excerpt": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled. With...",
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "excerpt": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems. The...",
       "date": "2026-10-02",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html"
+      "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html"
     },
     {
-      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
-      "excerpt": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to...",
+      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+      "excerpt": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model...",
       "date": "2026-10-01",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html"
+    },
+    {
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "excerpt": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory. The gateway is the...",
+      "date": "2026-10-02",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html"
+    },
+    {
+      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
+      "excerpt": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone...",
+      "date": "2026-10-02",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html"
+      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html"
     }
   ]
 }
