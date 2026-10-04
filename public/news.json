@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-10-03T10:45:49.113Z",
+  "lastUpdated": "2026-10-04T11:27:41.352Z",
   "articles": [
-    {
-      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
-      "excerpt": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on...",
-      "date": "2026-10-01",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/"
-    },
     {
       "title": "Kritisk sårbarhet i FortiMail",
       "excerpt": "Fortinet har publicerat information om en kritisk sårbarhet i FortiMail. Sårbarheten, CVE-2026-104286, har fått en CVSS-klassning på 9.8 och påverkar FortiMail managements gränssnitt. Ett...",
@@ -16,6 +8,14 @@
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/10/kritisk-sarbarhet-i-fortimail.html"
+    },
+    {
+      "title": "Frontline Education breach exposes school district employee data",
+      "excerpt": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee...",
+      "date": "2026-10-02",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/"
     },
     {
       "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
@@ -26,12 +26,20 @@
       "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html"
     },
     {
-      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-      "excerpt": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model...",
-      "date": "2026-10-01",
-      "category": "Hotbild",
+      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+      "excerpt": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks,...",
+      "date": "2026-10-04",
+      "category": "Regelverk",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html"
+      "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html"
+    },
+    {
+      "title": "Danish university DTU breach exposes data of up to 200,000 people",
+      "excerpt": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a...",
+      "date": "2026-10-03",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/"
     },
     {
       "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
@@ -40,14 +48,6 @@
       "category": "Nyheter",
       "source": "The Hacker News",
       "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html"
-    },
-    {
-      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
-      "excerpt": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone...",
-      "date": "2026-10-02",
-      "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html"
     }
   ]
 }
