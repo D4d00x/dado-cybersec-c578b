@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-07T12:13:37.380Z",
+  "lastUpdated": "2026-10-08T12:23:42.327Z",
   "articles": [
     {
-      "title": "CERT-SE:s veckobrev v.38",
-      "excerpt": "Den här veckan innehåller CERT-SE:s veckobrev bland annat information om att NCSC och AI Sweden med flera bjuder in till seminarium den 22 oktober på temat “Modern sårbarhetshantering i en AI-driven...",
-      "date": "2026-09-18",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v38.html"
-    },
-    {
-      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-      "excerpt": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including...",
-      "date": "2026-10-06",
+      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+      "excerpt": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no...",
+      "date": "2026-10-07",
       "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html"
     },
     {
-      "title": "Advantest confirms personal information stolen in ransomware attack",
-      "excerpt": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
+      "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+      "excerpt": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
       "date": "2026-10-07",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/"
+      "link": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/"
     },
     {
-      "title": "Cisco publicerar säkerhetsuppdateringar för flera sårbarheter",
-      "excerpt": "Den 16 september publicerade Cisco säkerhetsuppdateringar för flera sårbarheter, där några av dessa utnyttjas aktivt enligt Cisco. [1, 2] Ett exempel är CVE-2026-76460, en sårbarhet i ett API för...",
-      "date": "2026-09-17",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/cisco-publicerar-sakerhetsuppdateringar.html"
+      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+      "excerpt": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. \"The extensions...",
+      "date": "2026-10-08",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html"
     },
     {
-      "title": "MISP-dagen 2026 - anmälan stängd",
-      "excerpt": "Varmt välkommen till en dag för alla som vill stärka Sveriges cybersäkerhet genom informationsdelning!",
-      "date": "2026-09-15",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/misp-dagen-2026.html"
+      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
+      "excerpt": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the...",
+      "date": "2026-10-08",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html"
     },
     {
-      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
-      "excerpt": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory....",
-      "date": "2026-10-06",
+      "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
+      "excerpt": "The npm package known as \"tensorlake,\" a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud...",
+      "date": "2026-10-08",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html"
+      "link": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html"
+    },
+    {
+      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
+      "excerpt": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
+      "date": "2026-10-08",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/"
     }
   ]
 }
