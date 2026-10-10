@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T12:13:16.038Z",
+  "lastUpdated": "2026-10-10T11:30:56.412Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.38",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v38.html"
     },
     {
-      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-      "excerpt": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical...",
-      "date": "2026-10-08",
+      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+      "excerpt": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
+      "date": "2026-10-09",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/"
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/"
     },
     {
-      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-      "excerpt": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers...",
-      "date": "2026-10-08",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/"
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "excerpt": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to...",
+      "date": "2026-10-10",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html"
     },
     {
-      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-      "excerpt": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then...",
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "excerpt": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over...",
       "date": "2026-10-09",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html"
+      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html"
     },
     {
-      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
-      "excerpt": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain...",
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "excerpt": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had...",
       "date": "2026-10-09",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html"
+      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html"
     },
     {
-      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
-      "excerpt": "The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax...",
+      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+      "excerpt": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California...",
       "date": "2026-10-09",
-      "category": "Hotbild",
+      "category": "Nyheter",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html"
+      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html"
     }
   ]
 }
