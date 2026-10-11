@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T11:30:56.412Z",
+  "lastUpdated": "2026-10-11T11:44:24.760Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.38",
@@ -26,6 +26,14 @@
       "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html"
     },
     {
+      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "excerpt": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on...",
+      "date": "2026-10-10",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/"
+    },
+    {
       "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
       "excerpt": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over...",
       "date": "2026-10-09",
@@ -40,14 +48,6 @@
       "category": "Hotbild",
       "source": "The Hacker News",
       "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html"
-    },
-    {
-      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-      "excerpt": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California...",
-      "date": "2026-10-09",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html"
     }
   ]
 }
