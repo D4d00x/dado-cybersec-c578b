@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T13:05:40.263Z",
+  "lastUpdated": "2026-10-14T10:46:54.830Z",
   "articles": [
     {
       "title": "GitLab rättar kritisk sårbarhet",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/10/gitlab-rattar-kritisk-sarbarhet.html"
     },
     {
-      "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
-      "excerpt": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure. The vulnerability,...",
-      "date": "2026-10-12",
+      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+      "excerpt": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
+      "date": "2026-10-13",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/"
     },
     {
-      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-      "excerpt": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says....",
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "excerpt": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted...",
+      "date": "2026-10-14",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html"
+    },
+    {
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "excerpt": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an...",
+      "date": "2026-10-14",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html"
+    },
+    {
+      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+      "excerpt": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record...",
+      "date": "2026-10-14",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html"
+    },
+    {
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "excerpt": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from...",
       "date": "2026-10-13",
       "category": "Nyheter",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html"
-    },
-    {
-      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
-      "excerpt": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into...",
-      "date": "2026-10-13",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html"
-    },
-    {
-      "title": "Yandex confirms service outage as users lose access to cloud files",
-      "excerpt": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
-      "date": "2026-10-12",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/"
-    },
-    {
-      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-      "excerpt": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the...",
-      "date": "2026-10-12",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/"
+      "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html"
     }
   ]
 }
