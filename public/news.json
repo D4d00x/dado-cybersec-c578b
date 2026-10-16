@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-15T10:29:34.126Z",
+  "lastUpdated": "2026-10-16T10:16:47.715Z",
   "articles": [
     {
-      "title": "GitLab rättar kritisk sårbarhet",
-      "excerpt": "GitLab har publicerat säkerhetsuppdateringar för flera sårbarheter i GitLab Community Edition (CE) och Enterprise Edition (EE). [1]",
-      "date": "2026-10-13",
+      "title": "BeyondTrust patches zero-day exploited in attacks since August",
+      "excerpt": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
+      "date": "2026-10-16",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/"
+    },
+    {
+      "title": "CERT-SE:s veckobrev v.42",
+      "excerpt": "I veckans brev bjuder vi bland annat på rekommendationer om cyberfysiska system, insikter om hur cyberkriminella storskaliga nätfiskekampanjer fungerar och en inbjudan till rundabordssamtal med fokus...",
+      "date": "2026-10-16",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/10/gitlab-rattar-kritisk-sarbarhet.html"
+      "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v42.html"
     },
     {
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-      "excerpt": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday. The...",
-      "date": "2026-10-14",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html"
-    },
-    {
-      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
-      "excerpt": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining...",
-      "date": "2026-10-14",
+      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
+      "excerpt": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack...",
+      "date": "2026-10-16",
       "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/"
-    },
-    {
-      "title": "Global takedown hits network behind 1 billion phishing messages",
-      "excerpt": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and...",
-      "date": "2026-10-14",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/"
-    },
-    {
-      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
-      "excerpt": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on...",
-      "date": "2026-10-15",
-      "category": "Nyheter",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html"
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html"
     },
     {
-      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
-      "excerpt": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
-      "date": "2026-10-15",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/"
+      "title": "Kritisk sårbarhet i FortiMail",
+      "excerpt": "Fortinet har publicerat information om en kritisk sårbarhet i FortiMail. Sårbarheten, CVE-2026-104286, har fått en CVSS-klassning på 9.8 och påverkar FortiMail managements gränssnitt. Ett...",
+      "date": "2026-10-02",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/10/kritisk-sarbarhet-i-fortimail.html"
+    },
+    {
+      "title": "Kritiska sårbarheter i Citrix NetScaler ADC och Citrix NetScaler Gateway",
+      "excerpt": "Citrix har publicerat information om allvarliga och kritiska sårbarheter i Citrix NetScaler ADC (tidigare Citrix ADC) and Citrix NetScaler Gateway (tidigare Citrix Gateway). Två av sårbarheterna,...",
+      "date": "2026-09-27",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/09/information-om-kritiska-sarbarheter-i-citrixnetscaler.html"
+    },
+    {
+      "title": "CERT-SE:s veckobrev v.39",
+      "excerpt": "För tionde året genomförs Beredskapsveckan i Sverige vecka 39. I år är det fokus på Sveriges totalförsvar, där samhällets motståndskraft mot cyberhot är en viktig del. Tänk på att ha en radio...",
+      "date": "2026-09-25",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v39.html"
     }
   ]
 }
