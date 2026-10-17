@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-16T10:16:47.715Z",
+  "lastUpdated": "2026-10-17T09:51:01.245Z",
   "articles": [
+    {
+      "title": "BeyondTrust varnar för kritisk nolldagssårbarhet",
+      "excerpt": "BeyondTrust har publicerat information om en allvarlig nolldagssårbarhet i BeyondTrust Remote Support. Sårbarheten CVE-2026-102764 har fått en CVSS-klassning på 9.3, och kan utnyttjas för att skriva...",
+      "date": "2026-10-16",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/10/beyondtrust-varnar-for-kritisk-nolldagssarbarhet.html"
+    },
     {
       "title": "BeyondTrust patches zero-day exploited in attacks since August",
       "excerpt": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
@@ -8,14 +16,6 @@
       "category": "Hotbild",
       "source": "BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/"
-    },
-    {
-      "title": "CERT-SE:s veckobrev v.42",
-      "excerpt": "I veckans brev bjuder vi bland annat på rekommendationer om cyberfysiska system, insikter om hur cyberkriminella storskaliga nätfiskekampanjer fungerar och en inbjudan till rundabordssamtal med fokus...",
-      "date": "2026-10-16",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v42.html"
     },
     {
       "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
@@ -26,28 +26,28 @@
       "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html"
     },
     {
-      "title": "Kritisk sårbarhet i FortiMail",
-      "excerpt": "Fortinet har publicerat information om en kritisk sårbarhet i FortiMail. Sårbarheten, CVE-2026-104286, har fått en CVSS-klassning på 9.8 och påverkar FortiMail managements gränssnitt. Ett...",
+      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "excerpt": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on...",
+      "date": "2026-10-16",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/"
+    },
+    {
+      "title": "CERT-SE:s veckobrev v.41",
+      "excerpt": "Antar du vår utmaning? CERT-SE:s årliga CTF-utmaning är nu igång! Utmaningen pågår under cybersäkerhetsmånaden och vänder sig till alla med it-säkerhetsintresse oavsett kunskapsnivå. Hitta så många...",
+      "date": "2026-10-09",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v41.html"
+    },
+    {
+      "title": "Antar du vår utmaning? / Do you accept our challenge?",
+      "excerpt": "CERT-SE presenterar vår årliga utmaning (CTF) som sker under cybersäkerhetsmånaden [1, 2]. Utmaningen vänder sig till alla med it-säkerhetsintresse oavsett kunskapsnivå.",
       "date": "2026-10-02",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/10/kritisk-sarbarhet-i-fortimail.html"
-    },
-    {
-      "title": "Kritiska sårbarheter i Citrix NetScaler ADC och Citrix NetScaler Gateway",
-      "excerpt": "Citrix har publicerat information om allvarliga och kritiska sårbarheter i Citrix NetScaler ADC (tidigare Citrix ADC) and Citrix NetScaler Gateway (tidigare Citrix Gateway). Två av sårbarheterna,...",
-      "date": "2026-09-27",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/information-om-kritiska-sarbarheter-i-citrixnetscaler.html"
-    },
-    {
-      "title": "CERT-SE:s veckobrev v.39",
-      "excerpt": "För tionde året genomförs Beredskapsveckan i Sverige vecka 39. I år är det fokus på Sveriges totalförsvar, där samhällets motståndskraft mot cyberhot är en viktig del. Tänk på att ha en radio...",
-      "date": "2026-09-25",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/09/cert-se-veckobrev-v39.html"
+      "link": "https://www.cert.se/2026/10/antar-du-var-utmaning.html"
     }
   ]
 }
