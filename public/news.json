@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T09:51:01.245Z",
+  "lastUpdated": "2026-10-18T10:02:09.715Z",
   "articles": [
     {
       "title": "BeyondTrust varnar för kritisk nolldagssårbarhet",
@@ -18,36 +18,36 @@
       "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/"
     },
     {
-      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-      "excerpt": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack...",
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "excerpt": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address...",
       "date": "2026-10-16",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html"
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html"
     },
     {
-      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
-      "excerpt": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on...",
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "excerpt": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of...",
+      "date": "2026-10-16",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html"
+    },
+    {
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "excerpt": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct...",
+      "date": "2026-10-16",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html"
+    },
+    {
+      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
+      "excerpt": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device....",
       "date": "2026-10-16",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/"
-    },
-    {
-      "title": "CERT-SE:s veckobrev v.41",
-      "excerpt": "Antar du vår utmaning? CERT-SE:s årliga CTF-utmaning är nu igång! Utmaningen pågår under cybersäkerhetsmånaden och vänder sig till alla med it-säkerhetsintresse oavsett kunskapsnivå. Hitta så många...",
-      "date": "2026-10-09",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v41.html"
-    },
-    {
-      "title": "Antar du vår utmaning? / Do you accept our challenge?",
-      "excerpt": "CERT-SE presenterar vår årliga utmaning (CTF) som sker under cybersäkerhetsmånaden [1, 2]. Utmaningen vänder sig till alla med it-säkerhetsintresse oavsett kunskapsnivå.",
-      "date": "2026-10-02",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/10/antar-du-var-utmaning.html"
+      "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/"
     }
   ]
 }
