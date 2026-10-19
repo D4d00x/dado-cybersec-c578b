@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T10:02:09.715Z",
+  "lastUpdated": "2026-10-19T11:27:09.780Z",
   "articles": [
     {
       "title": "BeyondTrust varnar för kritisk nolldagssårbarhet",
@@ -10,12 +10,20 @@
       "link": "https://www.cert.se/2026/10/beyondtrust-varnar-for-kritisk-nolldagssarbarhet.html"
     },
     {
-      "title": "BeyondTrust patches zero-day exploited in attacks since August",
-      "excerpt": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
-      "date": "2026-10-16",
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+      "excerpt": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+      "date": "2026-10-18",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/"
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/"
+    },
+    {
+      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+      "excerpt": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
+      "date": "2026-10-19",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/"
     },
     {
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
@@ -40,14 +48,6 @@
       "category": "Hotbild",
       "source": "The Hacker News",
       "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html"
-    },
-    {
-      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-      "excerpt": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device....",
-      "date": "2026-10-16",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/"
     }
   ]
 }
