@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T11:27:09.780Z",
+  "lastUpdated": "2026-10-20T10:33:34.580Z",
   "articles": [
     {
       "title": "BeyondTrust varnar för kritisk nolldagssårbarhet",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/10/beyondtrust-varnar-for-kritisk-nolldagssarbarhet.html"
     },
     {
-      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-      "excerpt": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
-      "date": "2026-10-18",
+      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+      "excerpt": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as...",
+      "date": "2026-10-20",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html"
     },
     {
-      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-      "excerpt": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
+      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+      "excerpt": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems....",
       "date": "2026-10-19",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/"
-    },
-    {
-      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-      "excerpt": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address...",
-      "date": "2026-10-16",
       "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/"
     },
     {
-      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
-      "excerpt": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of...",
-      "date": "2026-10-16",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html"
+      "title": "Patchtisdag oktober 2026",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för oktober.",
+      "date": "2026-10-14",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/10/patchtisdag-oktober-2026.html"
     },
     {
-      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
-      "excerpt": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct...",
-      "date": "2026-10-16",
+      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
+      "excerpt": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere...",
+      "date": "2026-10-20",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html"
+      "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html"
+    },
+    {
+      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+      "excerpt": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public....",
+      "date": "2026-10-19",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html"
     }
   ]
 }
