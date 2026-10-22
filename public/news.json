@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-21T10:45:47.704Z",
+  "lastUpdated": "2026-10-22T10:46:45.570Z",
   "articles": [
     {
-      "title": "BeyondTrust varnar för kritisk nolldagssårbarhet",
-      "excerpt": "BeyondTrust har publicerat information om en allvarlig nolldagssårbarhet i BeyondTrust Remote Support. Sårbarheten CVE-2026-102764 har fått en CVSS-klassning på 9.3, och kan utnyttjas för att skriva...",
+      "title": "Kritiska sårbarheter i PHP",
+      "excerpt": "PHP.net har publicerat säkerhetsuppdateringar för de två sårbarheterna CVE-2026-109618 och CVE-2026-109619, och rekommenderar att uppdatera till versionerna PHP 8.5.12, 8.4.27, 8.3.36 eller 8.2.35....",
+      "date": "2026-10-21",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/10/kritiska-s%C3%A5rbarheter-i-php.html"
+    },
+    {
+      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+      "excerpt": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and...",
+      "date": "2026-10-21",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html"
+    },
+    {
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+      "date": "2026-10-21",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/"
+    },
+    {
+      "title": "CERT-SE:s veckobrev v.42",
+      "excerpt": "I veckans brev bjuder vi bland annat på rekommendationer om cyberfysiska system, insikter om hur cyberkriminella storskaliga nätfiskekampanjer fungerar och en inbjudan till rundabordssamtal med fokus...",
       "date": "2026-10-16",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/10/beyondtrust-varnar-for-kritisk-nolldagssarbarhet.html"
+      "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v42.html"
     },
     {
-      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-      "excerpt": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
-      "date": "2026-10-21",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/"
+      "title": "CERT-SE:s veckobrev v.41",
+      "excerpt": "Antar du vår utmaning? CERT-SE:s årliga CTF-utmaning är nu igång! Utmaningen pågår under cybersäkerhetsmånaden och vänder sig till alla med it-säkerhetsintresse oavsett kunskapsnivå. Hitta så många...",
+      "date": "2026-10-09",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v41.html"
     },
     {
-      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
-      "excerpt": "U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\"...",
-      "date": "2026-10-21",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html"
-    },
-    {
-      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-      "excerpt": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came...",
-      "date": "2026-10-21",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html"
-    },
-    {
-      "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
-      "excerpt": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity...",
-      "date": "2026-10-21",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html"
-    },
-    {
-      "title": "Microsoft says October updates didn’t actually fix VPN issues",
-      "excerpt": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
-      "date": "2026-10-21",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/"
+      "title": "Antar du vår utmaning? / Do you accept our challenge?",
+      "excerpt": "CERT-SE presenterar vår årliga utmaning (CTF) som sker under cybersäkerhetsmånaden [1, 2]. Utmaningen vänder sig till alla med it-säkerhetsintresse oavsett kunskapsnivå.",
+      "date": "2026-10-02",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/10/antar-du-var-utmaning.html"
     }
   ]
 }
