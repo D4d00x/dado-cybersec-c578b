@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-23T10:38:52.490Z",
+  "lastUpdated": "2026-10-24T09:56:47.734Z",
   "articles": [
     {
-      "title": "Kritisk sårbarhet i GitLab CE och EE",
-      "excerpt": "Gitlab har publicerat säkerhetsuppdateringar för en ny sårbarhet, CVE-2026-110264. Sårbarheten har fått en CVSS-klassning på 10.0 och kan utnyttjas av en oautentiserad användare för att köra...",
-      "date": "2026-10-22",
+      "title": "CERT-SE:s veckobrev v.43",
+      "excerpt": "I veckans brev kan du läsa om de två kritiska sårbarheterna i programmeringsspråket PHP, som används av en mängd webbplatser över hela världen. CERT-SE gick ut med ett blixtmeddelande om detta på...",
+      "date": "2026-10-23",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/10/Kritisk-s%C3%A5rbarhet-i-GitLab-CE-och-EE.html"
+      "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v43.html"
     },
     {
-      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-      "excerpt": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on...",
-      "date": "2026-10-22",
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its...",
+      "date": "2026-10-24",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html"
+      "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html"
     },
     {
-      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-      "excerpt": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in...",
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "excerpt": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab...",
       "date": "2026-10-23",
       "category": "Nyheter",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html"
+      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html"
     },
     {
-      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-      "excerpt": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was...",
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "excerpt": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an...",
       "date": "2026-10-23",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html"
-    },
-    {
-      "title": "Patchtisdag oktober 2026",
-      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för oktober.",
-      "date": "2026-10-14",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/10/patchtisdag-oktober-2026.html"
-    },
-    {
-      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-      "excerpt": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and...",
-      "date": "2026-10-22",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html"
+      "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html"
+    },
+    {
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "excerpt": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls....",
+      "date": "2026-10-23",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html"
+    },
+    {
+      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "excerpt": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET,...",
+      "date": "2026-10-23",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html"
     }
   ]
 }
