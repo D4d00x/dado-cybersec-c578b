@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T09:56:47.734Z",
+  "lastUpdated": "2026-10-25T10:18:56.736Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.43",
@@ -42,12 +42,12 @@
       "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html"
     },
     {
-      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "excerpt": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET,...",
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "excerpt": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to...",
       "date": "2026-10-23",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/"
     }
   ]
 }
