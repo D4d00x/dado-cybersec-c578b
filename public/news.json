@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T11:46:08.907Z",
+  "lastUpdated": "2026-10-27T11:12:10.155Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.43",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v43.html"
     },
     {
-      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-      "excerpt": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
-      "date": "2026-10-26",
+      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+      "excerpt": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+      "date": "2026-10-27",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/"
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/"
     },
     {
-      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-      "excerpt": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who...",
-      "date": "2026-10-26",
-      "category": "Nyheter",
+      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+      "excerpt": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's...",
+      "date": "2026-10-27",
+      "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html"
+      "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html"
     },
     {
-      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-      "excerpt": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
+      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+      "excerpt": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec,...",
+      "date": "2026-10-26",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html"
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+      "excerpt": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
       "date": "2026-10-26",
       "category": "Nyheter",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/"
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/"
     },
     {
-      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "excerpt": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to...",
-      "date": "2026-10-23",
-      "category": "Hotbild",
+      "title": "DreamHost forces password resets in ongoing \"incident\"",
+      "excerpt": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
+      "date": "2026-10-26",
+      "category": "Nyheter",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/"
-    },
-    {
-      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-      "excerpt": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
-      "date": "2026-10-23",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/"
+      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/"
     }
   ]
 }
