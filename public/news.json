@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T11:12:10.155Z",
+  "lastUpdated": "2026-10-28T11:46:03.191Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.43",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v43.html"
     },
     {
-      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-      "excerpt": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-      "date": "2026-10-27",
+      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+      "excerpt": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under...",
+      "date": "2026-10-28",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html"
     },
     {
-      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-      "excerpt": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's...",
-      "date": "2026-10-27",
+      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+      "excerpt": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and...",
+      "date": "2026-10-28",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html"
+      "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html"
     },
     {
-      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
-      "excerpt": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec,...",
-      "date": "2026-10-26",
+      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+      "excerpt": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted...",
+      "date": "2026-10-28",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html"
+      "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html"
     },
     {
-      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
-      "excerpt": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
-      "date": "2026-10-26",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/"
+      "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+      "excerpt": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand....",
+      "date": "2026-10-28",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html"
     },
     {
-      "title": "DreamHost forces password resets in ongoing \"incident\"",
-      "excerpt": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
-      "date": "2026-10-26",
-      "category": "Nyheter",
+      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+      "excerpt": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021....",
+      "date": "2026-10-28",
+      "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/"
+      "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/"
     }
   ]
 }
