@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-10-29T11:54:29.415Z",
+  "lastUpdated": "2026-10-30T11:47:45.882Z",
   "articles": [
     {
-      "title": "CERT-SE:s veckobrev v.43",
-      "excerpt": "I veckans brev kan du läsa om de två kritiska sårbarheterna i programmeringsspråket PHP, som används av en mängd webbplatser över hela världen. CERT-SE gick ut med ett blixtmeddelande om detta på...",
-      "date": "2026-10-23",
+      "title": "NCSC – CERT-SE veckobrev v.44",
+      "excerpt": "I veckans brev kan du läsa om att den norska nationella säkerhetsmyndigheten (NSM) höjer den nationella cyberrisknivån till hög. Du hittar även information om att sårbarheterna i PHP har lagts till i...",
+      "date": "2026-10-30",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v43.html"
+      "link": "https://www.cert.se/2026/10/ncsc-cert-se-veckobrev-v44.html"
     },
     {
-      "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-      "excerpt": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw,...",
-      "date": "2026-10-29",
+      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+      "excerpt": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+      "date": "2026-10-30",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html"
-    },
-    {
-      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-      "excerpt": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests...",
-      "date": "2026-10-29",
-      "category": "Regelverk",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html"
-    },
-    {
-      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-      "excerpt": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a...",
-      "date": "2026-10-28",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html"
-    },
-    {
-      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-      "excerpt": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai...",
-      "date": "2026-10-28",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html"
-    },
-    {
-      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-      "excerpt": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
-      "date": "2026-10-28",
-      "category": "Nyheter",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/"
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/"
+    },
+    {
+      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+      "excerpt": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover...",
+      "date": "2026-10-29",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html"
+    },
+    {
+      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+      "excerpt": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The...",
+      "date": "2026-10-29",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html"
+    },
+    {
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "excerpt": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+      "date": "2026-10-29",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/"
+    },
+    {
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "excerpt": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana...",
+      "date": "2026-10-29",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/"
     }
   ]
 }
