@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T11:47:45.882Z",
+  "lastUpdated": "2026-10-31T11:21:47.244Z",
   "articles": [
     {
       "title": "NCSC – CERT-SE veckobrev v.44",
@@ -10,6 +10,14 @@
       "link": "https://www.cert.se/2026/10/ncsc-cert-se-veckobrev-v44.html"
     },
     {
+      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+      "excerpt": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running...",
+      "date": "2026-10-30",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/"
+    },
+    {
       "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
       "excerpt": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
       "date": "2026-10-30",
@@ -18,36 +26,28 @@
       "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/"
     },
     {
-      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-      "excerpt": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover...",
-      "date": "2026-10-29",
-      "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html"
+      "title": "Kritisk sårbarhet i Google Brotli",
+      "excerpt": "En kritisk sårbarhet i Google Brotli har publicerats. Sårbarheten CVE-2026-111497 har fått en CVSS-klassning på 9.2, och möjliggör för en oautentiserad angripare på distans att orsaka överbelastning...",
+      "date": "2026-10-28",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/10/kritisk-sarbarhet-i-google-brotli.html"
     },
     {
-      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-      "excerpt": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The...",
-      "date": "2026-10-29",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html"
+      "title": "Kritisk sårbarhet i GitLab CE och EE",
+      "excerpt": "Gitlab har publicerat säkerhetsuppdateringar för en ny sårbarhet, CVE-2026-110264. Sårbarheten har fått en CVSS-klassning på 10.0 och kan utnyttjas av en oautentiserad användare för att köra...",
+      "date": "2026-10-22",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/10/Kritisk-s%C3%A5rbarhet-i-GitLab-CE-och-EE.html"
     },
     {
-      "title": "Binance probes potential $5.8 billion crypto-theft hack",
-      "excerpt": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
-      "date": "2026-10-29",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/"
-    },
-    {
-      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-      "excerpt": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana...",
-      "date": "2026-10-29",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/"
+      "title": "BM26-003 Kritiska sårbarheter i PHP",
+      "excerpt": "PHP.net har publicerat säkerhetsuppdateringar för de två sårbarheterna CVE-2026-109618 och CVE-2026-109619, och rekommenderar att uppdatera till versionerna PHP 8.5.12, 8.4.27, 8.3.36 eller 8.2.35....",
+      "date": "2026-10-21",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/10/kritiska-s%C3%A5rbarheter-i-php.html"
     }
   ]
 }
