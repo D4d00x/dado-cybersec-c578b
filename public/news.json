@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T11:21:47.244Z",
+  "lastUpdated": "2026-11-01T12:12:40.402Z",
   "articles": [
     {
       "title": "NCSC – CERT-SE veckobrev v.44",
@@ -18,36 +18,36 @@
       "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/"
     },
     {
-      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-      "excerpt": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "excerpt": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt...",
+      "date": "2026-10-31",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/"
+    },
+    {
+      "title": "CISA says max severity GitLab flaw now exploited in the wild",
+      "excerpt": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
       "date": "2026-10-30",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/"
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/"
     },
     {
-      "title": "Kritisk sårbarhet i Google Brotli",
-      "excerpt": "En kritisk sårbarhet i Google Brotli har publicerats. Sårbarheten CVE-2026-111497 har fått en CVSS-klassning på 9.2, och möjliggör för en oautentiserad angripare på distans att orsaka överbelastning...",
-      "date": "2026-10-28",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/10/kritisk-sarbarhet-i-google-brotli.html"
+      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "excerpt": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the...",
+      "date": "2026-11-01",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html"
     },
     {
-      "title": "Kritisk sårbarhet i GitLab CE och EE",
-      "excerpt": "Gitlab har publicerat säkerhetsuppdateringar för en ny sårbarhet, CVE-2026-110264. Sårbarheten har fått en CVSS-klassning på 10.0 och kan utnyttjas av en oautentiserad användare för att köra...",
-      "date": "2026-10-22",
+      "title": "CERT-SE:s veckobrev v.42",
+      "excerpt": "I veckans brev bjuder vi bland annat på rekommendationer om cyberfysiska system, insikter om hur cyberkriminella storskaliga nätfiskekampanjer fungerar och en inbjudan till rundabordssamtal med fokus...",
+      "date": "2026-10-16",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/10/Kritisk-s%C3%A5rbarhet-i-GitLab-CE-och-EE.html"
-    },
-    {
-      "title": "BM26-003 Kritiska sårbarheter i PHP",
-      "excerpt": "PHP.net har publicerat säkerhetsuppdateringar för de två sårbarheterna CVE-2026-109618 och CVE-2026-109619, och rekommenderar att uppdatera till versionerna PHP 8.5.12, 8.4.27, 8.3.36 eller 8.2.35....",
-      "date": "2026-10-21",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/10/kritiska-s%C3%A5rbarheter-i-php.html"
+      "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v42.html"
     }
   ]
 }
