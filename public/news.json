@@ -1,14 +1,6 @@
 {
-  "lastUpdated": "2026-11-03T13:10:03.496Z",
+  "lastUpdated": "2026-11-04T13:25:17.594Z",
   "articles": [
-    {
-      "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-      "excerpt": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS...",
-      "date": "2026-11-03",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html"
-    },
     {
       "title": "CERT-SE:s veckobrev v.43",
       "excerpt": "I veckans brev kan du läsa om de två kritiska sårbarheterna i programmeringsspråket PHP, som används av en mängd webbplatser över hela världen. CERT-SE gick ut med ett blixtmeddelande om detta på...",
@@ -18,36 +10,44 @@
       "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v43.html"
     },
     {
-      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-      "excerpt": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk...",
-      "date": "2026-11-03",
+      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+      "excerpt": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild....",
+      "date": "2026-11-04",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/"
+    },
+    {
+      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+      "excerpt": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway...",
+      "date": "2026-11-04",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html"
+    },
+    {
+      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+      "excerpt": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input...",
+      "date": "2026-11-04",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html"
+    },
+    {
+      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+      "excerpt": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of...",
+      "date": "2026-11-04",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html"
+    },
+    {
+      "title": "US charges two Canadians accused of hacking US universities",
+      "excerpt": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
+      "date": "2026-11-04",
       "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html"
-    },
-    {
-      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-      "excerpt": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group...",
-      "date": "2026-11-03",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html"
-    },
-    {
-      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-      "excerpt": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed...",
-      "date": "2026-11-03",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html"
-    },
-    {
-      "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-      "excerpt": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability...",
-      "date": "2026-11-03",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/"
     }
   ]
 }
