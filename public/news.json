@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-05T13:39:11.917Z",
+  "lastUpdated": "2026-11-06T13:23:13.435Z",
   "articles": [
     {
-      "title": "CERT-SE:s veckobrev v.43",
-      "excerpt": "I veckans brev kan du läsa om de två kritiska sårbarheterna i programmeringsspråket PHP, som används av en mängd webbplatser över hela världen. CERT-SE gick ut med ett blixtmeddelande om detta på...",
-      "date": "2026-10-23",
+      "title": "NCSC – CERT-SE veckobrev v.45",
+      "excerpt": "I veckans brev kan du läsa om de cyberangrepp som drabbade flera livsmedelsbutiker i Sverige och andra europeiska länder tidigare i veckan.",
+      "date": "2026-11-06",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v43.html"
+      "link": "https://www.cert.se/2026/11/ncsc-cert-se-veckobrev-v45.html"
     },
     {
-      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-      "excerpt": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone...",
-      "date": "2026-11-05",
+      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+      "excerpt": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for...",
+      "date": "2026-11-06",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html"
+      "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html"
     },
     {
-      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities...",
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "excerpt": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the...",
       "date": "2026-11-05",
       "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html"
+      "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html"
     },
     {
-      "title": "CERT-SE:s veckobrev v.42",
-      "excerpt": "I veckans brev bjuder vi bland annat på rekommendationer om cyberfysiska system, insikter om hur cyberkriminella storskaliga nätfiskekampanjer fungerar och en inbjudan till rundabordssamtal med fokus...",
-      "date": "2026-10-16",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v42.html"
-    },
-    {
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "excerpt": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-      "date": "2026-11-04",
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "excerpt": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends...",
+      "date": "2026-11-05",
       "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html"
     },
     {
-      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-      "excerpt": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
-      "date": "2026-11-04",
+      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "excerpt": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google...",
+      "date": "2026-11-05",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/"
+      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/"
+    },
+    {
+      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+      "excerpt": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication,...",
+      "date": "2026-11-05",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/"
     }
   ]
 }
