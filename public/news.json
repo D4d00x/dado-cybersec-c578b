@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T12:01:12.983Z",
+  "lastUpdated": "2026-11-08T12:21:29.672Z",
   "articles": [
     {
       "title": "NCSC – CERT-SE veckobrev v.45",
@@ -18,22 +18,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/"
     },
     {
-      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
-      "excerpt": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
-      "date": "2026-11-06",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/"
-    },
-    {
-      "title": "MetaMask says recent attack didn't affect wallet infrastructure",
-      "excerpt": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
-      "date": "2026-11-06",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/"
-    },
-    {
       "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
       "excerpt": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask...",
       "date": "2026-11-07",
@@ -48,6 +32,22 @@
       "category": "Hotbild",
       "source": "The Hacker News",
       "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html"
+    },
+    {
+      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+      "excerpt": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The...",
+      "date": "2026-11-06",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html"
+    },
+    {
+      "title": "The Flood is Coming And The Pipes Were Already Full",
+      "excerpt": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the...",
+      "date": "2026-11-06",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html"
     }
   ]
 }
