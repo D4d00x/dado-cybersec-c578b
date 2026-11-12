@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T13:06:58.226Z",
+  "lastUpdated": "2026-11-12T14:09:38.933Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.43",
@@ -10,44 +10,44 @@
       "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v43.html"
     },
     {
-      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
-      "excerpt": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
-      "date": "2026-11-11",
+      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+      "excerpt": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked...",
+      "date": "2026-11-12",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html"
     },
     {
-      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
-      "excerpt": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments....",
-      "date": "2026-11-10",
+      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+      "excerpt": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what...",
+      "date": "2026-11-12",
       "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html"
     },
     {
-      "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-      "excerpt": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover...",
-      "date": "2026-11-11",
+      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+      "excerpt": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our...",
+      "date": "2026-11-12",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html"
+      "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html"
     },
     {
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "excerpt": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said...",
-      "date": "2026-11-11",
+      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+      "excerpt": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator...",
+      "date": "2026-11-12",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html"
+      "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html"
     },
     {
-      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited...",
-      "date": "2026-11-11",
+      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+      "excerpt": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security...",
+      "date": "2026-11-12",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html"
+      "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html"
     }
   ]
 }
