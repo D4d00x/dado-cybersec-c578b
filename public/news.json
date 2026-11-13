@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T14:09:38.933Z",
+  "lastUpdated": "2026-11-13T13:33:25.368Z",
   "articles": [
     {
       "title": "CERT-SE:s veckobrev v.43",
@@ -10,12 +10,12 @@
       "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v43.html"
     },
     {
-      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
-      "excerpt": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked...",
+      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+      "excerpt": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
       "date": "2026-11-12",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/"
     },
     {
       "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
@@ -26,28 +26,28 @@
       "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html"
     },
     {
-      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
-      "excerpt": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our...",
+      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+      "excerpt": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an...",
       "date": "2026-11-12",
-      "category": "Hotbild",
+      "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html"
+      "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html"
     },
     {
-      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
-      "excerpt": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator...",
+      "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+      "excerpt": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
       "date": "2026-11-12",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/"
     },
     {
-      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
-      "excerpt": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security...",
-      "date": "2026-11-12",
-      "category": "Hotbild",
+      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+      "excerpt": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make...",
+      "date": "2026-11-13",
+      "category": "Nyheter",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html"
+      "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html"
     }
   ]
 }
