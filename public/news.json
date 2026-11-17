@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-16T14:11:43.492Z",
+  "lastUpdated": "2026-11-17T15:03:45.111Z",
   "articles": [
     {
-      "title": "CERT-SE:s veckobrev v.43",
-      "excerpt": "I veckans brev kan du läsa om de två kritiska sårbarheterna i programmeringsspråket PHP, som används av en mängd webbplatser över hela världen. CERT-SE gick ut med ett blixtmeddelande om detta på...",
-      "date": "2026-10-23",
+      "title": "Uppmaning till ökad vaksamhet efter flera fall av nätfiske",
+      "excerpt": "Den nationella CSIRT-funktionen CERT-SE vid NCSC har den under den senaste tiden uppmärksammat ett flertal olika nätfiskekampanjer riktade mot verksamheter i Sverige. E-post och sidorna som mejlen...",
+      "date": "2026-11-17",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/10/cert-se-veckobrev-v43.html"
+      "link": "https://www.cert.se/2026/11/uppmanar-till-okad-vaksamhet-natfiske.html"
     },
     {
-      "title": "Google warns that fully-automated AI attacks are coming soon",
-      "excerpt": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+      "excerpt": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it...",
+      "date": "2026-11-17",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html"
+    },
+    {
+      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+      "excerpt": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+      "date": "2026-11-16",
+      "category": "Regelverk",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/"
+    },
+    {
+      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+      "excerpt": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
       "date": "2026-11-16",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/"
+      "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/"
     },
     {
-      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-      "excerpt": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
-      "date": "2026-11-16",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/"
+      "title": "Patchtisdag november 2026",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för november.",
+      "date": "2026-11-11",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/11/patchtisdag-november-2026.html"
     },
     {
-      "title": "Australian retail giant Coles investigates cybersecurity incident",
-      "excerpt": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
-      "date": "2026-11-16",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/"
-    },
-    {
-      "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
-      "excerpt": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity...",
-      "date": "2026-11-16",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/"
-    },
-    {
-      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
-      "excerpt": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
-      "date": "2026-11-16",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/"
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "excerpt": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In...",
+      "date": "2026-11-17",
+      "category": "Praktiska tips",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html"
     }
   ]
 }
