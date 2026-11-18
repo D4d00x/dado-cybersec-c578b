@@ -1,37 +1,45 @@
 {
-  "lastUpdated": "2026-11-17T15:03:45.111Z",
+  "lastUpdated": "2026-11-18T14:43:45.216Z",
   "articles": [
     {
-      "title": "Uppmaning till ökad vaksamhet efter flera fall av nätfiske",
-      "excerpt": "Den nationella CSIRT-funktionen CERT-SE vid NCSC har den under den senaste tiden uppmärksammat ett flertal olika nätfiskekampanjer riktade mot verksamheter i Sverige. E-post och sidorna som mejlen...",
-      "date": "2026-11-17",
+      "title": "Kritisk sårbarhet i Oracle Java",
+      "excerpt": "Oracle har publicerat säkerhetsuppdateringar gällande en kritisk sårbarhet i programmeringsspråket och utvecklingsplattformen Oracle Java. [1][2]",
+      "date": "2026-11-18",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/11/uppmanar-till-okad-vaksamhet-natfiske.html"
+      "link": "https://www.cert.se/2026/11/kritisk-sarbarhet-i-oracle-java.html"
     },
     {
-      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-      "excerpt": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it...",
-      "date": "2026-11-17",
+      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "excerpt": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+      "date": "2026-11-18",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/"
+    },
+    {
+      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as...",
+      "date": "2026-11-18",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html"
+    },
+    {
+      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+      "excerpt": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity,...",
+      "date": "2026-11-18",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html"
+      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html"
     },
     {
-      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-      "excerpt": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
-      "date": "2026-11-16",
-      "category": "Regelverk",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/"
-    },
-    {
-      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-      "excerpt": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-      "date": "2026-11-16",
+      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+      "excerpt": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions...",
+      "date": "2026-11-18",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html"
     },
     {
       "title": "Patchtisdag november 2026",
@@ -40,14 +48,6 @@
       "category": "Varning",
       "source": "CERT-SE",
       "link": "https://www.cert.se/2026/11/patchtisdag-november-2026.html"
-    },
-    {
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "excerpt": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In...",
-      "date": "2026-11-17",
-      "category": "Praktiska tips",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html"
     }
   ]
 }
