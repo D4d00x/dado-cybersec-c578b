@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-18T14:43:45.216Z",
+  "lastUpdated": "2026-11-19T14:51:00.900Z",
   "articles": [
     {
-      "title": "Kritisk sårbarhet i Oracle Java",
-      "excerpt": "Oracle har publicerat säkerhetsuppdateringar gällande en kritisk sårbarhet i programmeringsspråket och utvecklingsplattformen Oracle Java. [1][2]",
-      "date": "2026-11-18",
+      "title": "Kritisk sårbarhet i Apache Axis",
+      "excerpt": "Apache har publicerat säkerhetsuppdateringar gällande en kritisk sårbarhet i det öppna källkodsramverket Apache Axis. [1]",
+      "date": "2026-11-19",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/11/kritisk-sarbarhet-i-oracle-java.html"
+      "link": "https://www.cert.se/2026/11/kritisk-sarbarhet-i-apache.html"
     },
     {
-      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-      "excerpt": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+      "excerpt": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+      "date": "2026-11-19",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/"
+    },
+    {
+      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "excerpt": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific...",
+      "date": "2026-11-18",
+      "category": "Regelverk",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html"
+    },
+    {
+      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+      "excerpt": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The...",
+      "date": "2026-11-18",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html"
+    },
+    {
+      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+      "excerpt": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines....",
+      "date": "2026-11-18",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html"
+    },
+    {
+      "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+      "excerpt": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
       "date": "2026-11-18",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/"
-    },
-    {
-      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as...",
-      "date": "2026-11-18",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html"
-    },
-    {
-      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-      "excerpt": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity,...",
-      "date": "2026-11-18",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html"
-    },
-    {
-      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-      "excerpt": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions...",
-      "date": "2026-11-18",
-      "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html"
-    },
-    {
-      "title": "Patchtisdag november 2026",
-      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för november.",
-      "date": "2026-11-11",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/11/patchtisdag-november-2026.html"
+      "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/"
     }
   ]
 }
