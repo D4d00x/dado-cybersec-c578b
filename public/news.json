@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T14:31:39.891Z",
+  "lastUpdated": "2026-11-21T13:50:21.726Z",
   "articles": [
     {
       "title": "VMware patches vCenter zero-day exploited in attacks since September",
@@ -18,36 +18,36 @@
       "link": "https://www.cert.se/2026/11/kritisk-sarbarhet-i-apache.html"
     },
     {
-      "title": "Five warning signs of ransomware breach before encryption or data theft",
-      "excerpt": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help...",
-      "date": "2026-11-19",
-      "category": "Praktiska tips",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/"
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "excerpt": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that...",
+      "date": "2026-11-21",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html"
     },
     {
-      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
-      "excerpt": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS....",
+      "title": "Patchtisdag november 2026",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för november.",
+      "date": "2026-11-11",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/11/patchtisdag-november-2026.html"
+    },
+    {
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "excerpt": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control...",
       "date": "2026-11-20",
       "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html"
+      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html"
     },
     {
-      "title": "N-able says recent security breach led to major service outage",
-      "excerpt": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+      "excerpt": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by...",
       "date": "2026-11-20",
       "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/"
-    },
-    {
-      "title": "NCSC – CERT-SE veckobrev v.46",
-      "excerpt": "I veckan deltog John Billow, chef för Nationellt cybersäkerhetscenter (NCSC), på en pressträff om cybersäkerhet tillsammans med minister för civilt försvar Carl-Oskar Bohlin, med anledning av den...",
-      "date": "2026-11-13",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/11/ncsc-cert-se-veckobrev-v46.html"
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html"
     }
   ]
 }
