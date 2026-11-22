@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-11-21T13:50:21.726Z",
+  "lastUpdated": "2026-11-22T13:43:24.858Z",
   "articles": [
     {
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "excerpt": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026....",
-      "date": "2026-11-20",
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "excerpt": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email...",
+      "date": "2026-11-21",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/"
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
     },
     {
       "title": "Kritisk sårbarhet i Apache Axis",
@@ -26,28 +26,28 @@
       "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html"
     },
     {
-      "title": "Patchtisdag november 2026",
-      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för november.",
-      "date": "2026-11-11",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/11/patchtisdag-november-2026.html"
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "excerpt": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in...",
+      "date": "2026-11-21",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/"
     },
     {
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-      "excerpt": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control...",
-      "date": "2026-11-20",
+      "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+      "excerpt": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
+      "date": "2026-11-21",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/"
     },
     {
-      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
-      "excerpt": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by...",
-      "date": "2026-11-20",
+      "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+      "excerpt": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between...",
+      "date": "2026-11-21",
       "category": "Hotbild",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html"
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/"
     }
   ]
 }
