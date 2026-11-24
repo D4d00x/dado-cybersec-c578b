@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-23T16:43:50.001Z",
+  "lastUpdated": "2026-11-24T16:39:12.575Z",
   "articles": [
     {
-      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-      "excerpt": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
-      "date": "2026-11-23",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/"
-    },
-    {
-      "title": "Kritisk sårbarhet i Apache Axis",
-      "excerpt": "Apache har publicerat säkerhetsuppdateringar gällande en kritisk sårbarhet i det öppna källkodsramverket Apache Axis. [1]",
-      "date": "2026-11-19",
+      "title": "Facit för CERT-SE CTF 2026",
+      "excerpt": "Vi på CERT-SE vill tacka alla som deltog i årets CERT-SE CTF-utmaning. Rättning av inskickade svar sker successivt, och utskick av ett exklusivt klistermärke till de som har alla rätt kommer att...",
+      "date": "2026-11-24",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/11/kritisk-sarbarhet-i-apache.html"
+      "link": "https://www.cert.se/2026/11/facit-for-cert-se-ctf-2026.html"
     },
     {
-      "title": "AI Agents Are Creating a Shared Responsibility Gap",
-      "excerpt": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how...",
-      "date": "2026-11-23",
+      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "excerpt": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass...",
+      "date": "2026-11-24",
+      "category": "Hotbild",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html"
+    },
+    {
+      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "excerpt": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out...",
+      "date": "2026-11-24",
       "category": "Praktiska tips",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/"
+      "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/"
     },
     {
-      "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
-      "excerpt": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
-      "date": "2026-11-23",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/"
+      "title": "NCSC – CERT-SE veckobrev v.46",
+      "excerpt": "I veckan deltog John Billow, chef för Nationellt cybersäkerhetscenter (NCSC), på en pressträff om cybersäkerhet tillsammans med minister för civilt försvar Carl-Oskar Bohlin, med anledning av den...",
+      "date": "2026-11-13",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/11/ncsc-cert-se-veckobrev-v46.html"
     },
     {
-      "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
-      "excerpt": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation...",
-      "date": "2026-11-23",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/"
+      "title": "EU varnar för cyberincidenter i kyl- och fryssystem",
+      "excerpt": "Sedan den 11 oktober 2026 har flera kyl- och fryssystem i flera EU-länder drabbats av cybersäkerhetsincidenter. Efter en ny våg av incidenter den 1-2 november uppmanar EU:s cybersäkerhetsaktörer...",
+      "date": "2026-11-06",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/11/eu-varnar-for-cyberincidenter-i-kyl-och-fryssystem.html"
     },
     {
-      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-      "excerpt": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
+      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "excerpt": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to...",
       "date": "2026-11-23",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/"
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/"
     }
   ]
 }
