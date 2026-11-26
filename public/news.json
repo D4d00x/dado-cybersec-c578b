@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T16:22:11.477Z",
+  "lastUpdated": "2026-11-26T15:56:46.194Z",
   "articles": [
     {
       "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
@@ -10,36 +10,12 @@
       "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/"
     },
     {
-      "title": "Kritisk sårbarhet i Apache Axis",
-      "excerpt": "Apache har publicerat säkerhetsuppdateringar gällande en kritisk sårbarhet i det öppna källkodsramverket Apache Axis. [1]",
-      "date": "2026-11-19",
+      "title": "Facit för CERT-SE CTF 2026",
+      "excerpt": "Vi på CERT-SE vill tacka alla som deltog i årets CERT-SE CTF-utmaning. Rättning av inskickade svar sker successivt, och utskick av ett exklusivt klistermärke till de som har alla rätt kommer att...",
+      "date": "2026-11-24",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/11/kritisk-sarbarhet-i-apache.html"
-    },
-    {
-      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-      "excerpt": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's...",
-      "date": "2026-11-24",
-      "category": "Nyheter",
-      "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html"
-    },
-    {
-      "title": "Rackspace shuts down Spot cloud platform after security breach",
-      "excerpt": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate...",
-      "date": "2026-11-24",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/"
-    },
-    {
-      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
-      "excerpt": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
-      "date": "2026-11-24",
-      "category": "Hotbild",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/"
+      "link": "https://www.cert.se/2026/11/facit-for-cert-se-ctf-2026.html"
     },
     {
       "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
@@ -48,6 +24,30 @@
       "category": "Nyheter",
       "source": "The Hacker News",
       "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html"
+    },
+    {
+      "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
+      "excerpt": "TL;DR More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what...",
+      "date": "2026-11-25",
+      "category": "Nyheter",
+      "source": "The Hacker News",
+      "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html"
+    },
+    {
+      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+      "excerpt": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams...",
+      "date": "2026-11-25",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/"
+    },
+    {
+      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+      "excerpt": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
+      "date": "2026-11-25",
+      "category": "Nyheter",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/"
     }
   ]
 }
