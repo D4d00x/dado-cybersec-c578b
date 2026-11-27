@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-26T15:56:46.194Z",
+  "lastUpdated": "2026-11-27T15:45:07.516Z",
   "articles": [
     {
-      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-      "excerpt": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
-      "date": "2026-11-25",
+      "title": "Drupal warns of new site takeover flaw exploited in attacks",
+      "excerpt": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+      "date": "2026-11-27",
       "category": "Hotbild",
       "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/"
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/"
     },
     {
-      "title": "Facit för CERT-SE CTF 2026",
-      "excerpt": "Vi på CERT-SE vill tacka alla som deltog i årets CERT-SE CTF-utmaning. Rättning av inskickade svar sker successivt, och utskick av ett exklusivt klistermärke till de som har alla rätt kommer att...",
-      "date": "2026-11-24",
+      "title": "NCSC – CERT-SE veckobrev v.48",
+      "excerpt": "I veckans brev riktar vi särskild uppmärksamhet mot utvecklingen av AI-assisterade cyberangrepp och hur organisationer kan stärka sitt skydd mot dessa. Hotaktörers användning av AI möjliggör snabbare...",
+      "date": "2026-11-27",
       "category": "Varning",
       "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/11/facit-for-cert-se-ctf-2026.html"
+      "link": "https://www.cert.se/2026/11/ncsc-cert-se-veckobrev-v48.html"
     },
     {
-      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
-      "excerpt": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the...",
-      "date": "2026-11-25",
-      "category": "Nyheter",
+      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+      "excerpt": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in...",
+      "date": "2026-11-27",
+      "category": "Praktiska tips",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html"
+      "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html"
     },
     {
-      "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
-      "excerpt": "TL;DR More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what...",
-      "date": "2026-11-25",
-      "category": "Nyheter",
+      "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+      "excerpt": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN,...",
+      "date": "2026-11-27",
+      "category": "Praktiska tips",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/"
+    },
+    {
+      "title": "Patchtisdag november 2026",
+      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för november.",
+      "date": "2026-11-11",
+      "category": "Varning",
+      "source": "CERT-SE",
+      "link": "https://www.cert.se/2026/11/patchtisdag-november-2026.html"
+    },
+    {
+      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "excerpt": "The threat actors behind the PolinRider campaign have compromised over 7,600 GitHub repositories, in some cases planting a Python loader capable of delivering next-stage payloads, as evidence emerges...",
+      "date": "2026-11-26",
+      "category": "Hotbild",
       "source": "The Hacker News",
-      "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html"
-    },
-    {
-      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
-      "excerpt": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams...",
-      "date": "2026-11-25",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/"
-    },
-    {
-      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
-      "excerpt": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
-      "date": "2026-11-25",
-      "category": "Nyheter",
-      "source": "BleepingComputer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/"
+      "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html"
     }
   ]
 }
