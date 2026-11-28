@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-27T15:45:07.516Z",
+  "lastUpdated": "2026-11-28T14:41:13.701Z",
   "articles": [
     {
       "title": "Drupal warns of new site takeover flaw exploited in attacks",
@@ -26,20 +26,20 @@
       "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html"
     },
     {
+      "title": "pCloud confirms password manager hack after suspicious login alerts",
+      "excerpt": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+      "date": "2026-11-27",
+      "category": "Hotbild",
+      "source": "BleepingComputer",
+      "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/"
+    },
+    {
       "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
       "excerpt": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN,...",
       "date": "2026-11-27",
       "category": "Praktiska tips",
       "source": "BleepingComputer",
       "link": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/"
-    },
-    {
-      "title": "Patchtisdag november 2026",
-      "excerpt": "Flera leverantörer har släppt sina månatliga säkerhetsuppdateringar för november.",
-      "date": "2026-11-11",
-      "category": "Varning",
-      "source": "CERT-SE",
-      "link": "https://www.cert.se/2026/11/patchtisdag-november-2026.html"
     },
     {
       "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
